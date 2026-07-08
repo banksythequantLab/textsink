@@ -17,6 +17,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 import subprocess
 import sys
 
@@ -33,8 +34,10 @@ BEATS_SYSTEM = (
     "You are a precise video analyst. You receive frames sampled from one "
     "short clip, each labeled with its timestamp in seconds. Segment the clip "
     "into 4-8 sequential beats that cover the full duration. For each beat "
-    "report only what is visibly happening. Strict JSON only: "
-    '{"beats":[{"start":sec,"end":sec,"what":"..."}]}'
+    "report only what is visibly happening, in UNDER 18 words. If the scene "
+    "is static, still return 3-4 beats splitting the duration evenly, each "
+    "describing a different visible detail. Strict JSON only, exactly this "
+    'shape: {"beats":[{"start":sec,"end":sec,"what":"..."}]}'
 )
 
 CC_RULES = (
@@ -68,7 +71,96 @@ def _coerce(raw: str, key: str) -> list:
                 return json.loads(raw[s:e + 1]).get(key, [])
             except json.JSONDecodeError:
                 pass
+    # salvage: pull individual {...} objects out of truncated/dirty output
+    import re
+    objs = []
+    for m in re.finditer(r"\{[^{}]*\}", raw):
+        try:
+            objs.append(json.loads(m.group(0)))
+        except json.JSONDecodeError:
+            continue
+    return objs
+
+
+def _unwrap_tool_call(raw: str) -> list:
+    """Models sometimes emit {'action':..., 'action_input': '<stringified>'}
+    with python-style quotes. Dig the segment list out."""
+    import ast
+    try:
+        outer = json.loads(raw[raw.find("{"):raw.rfind("}") + 1])
+    except json.JSONDecodeError:
+        return []
+    inner = outer.get("action_input", "")
+    if isinstance(inner, str):
+        for parse in (json.loads, ast.literal_eval):
+            try:
+                inner = parse(inner)
+                break
+            except Exception:
+                continue
+    if isinstance(inner, dict):
+        for k in ("beats", "segments"):
+            if isinstance(inner.get(k), list):
+                return inner[k]
+        frames = inner.get("frames")
+        if isinstance(frames, list) and frames:
+            # single timestamps -> ranges (end = next frame's start)
+            beats = []
+            for i, f in enumerate(frames):
+                if not isinstance(f, dict):
+                    continue
+                start = f.get("timestamp", f.get("time", i * 4))
+                nxt = frames[i + 1] if i + 1 < len(frames) else {}
+                end = nxt.get("timestamp", nxt.get("time",
+                                                   float(start) + 4)) \
+                    if isinstance(nxt, dict) and nxt else float(start) + 4
+                beats.append({"start": start, "end": end,
+                              "what": f.get("label", f.get("what", ""))})
+            return beats
     return []
+
+
+_MMSS = re.compile(r"(\d+):(\d{2})\s*[-–—]\s*(\d+):(\d{2})\W*(.+)")
+_SECS = re.compile(
+    r"(\d+(?:\.\d+)?)\s*s?\s*[-–—]\s*(\d+(?:\.\d+)?)\s*s?\s*[:\)\]]\W*(.+)")
+
+
+def _parse_text_beats(raw: str) -> list:
+    """Last resort: pull (start-end: text) lines out of markdown/prose."""
+    beats = []
+    for line in (raw or "").splitlines():
+        m = _MMSS.search(line)
+        if m:
+            s = int(m.group(1)) * 60 + int(m.group(2))
+            e = int(m.group(3)) * 60 + int(m.group(4))
+            txt = m.group(5).strip(" *:-•")
+        else:
+            m2 = _SECS.search(line)
+            if not m2:
+                continue
+            s, e = float(m2.group(1)), float(m2.group(2))
+            txt = m2.group(3).strip(" *:-•")
+        if txt and e > s:
+            beats.append({"start": float(s), "end": float(e), "what": txt})
+    return beats
+
+
+def _norm_beat(b: dict) -> dict | None:
+    """Accept schema drift: start_time/end_time/description/label/text."""
+    if not isinstance(b, dict):
+        return None
+    what = (b.get("what") or b.get("description") or b.get("label")
+            or b.get("text") or b.get("desc") or "")
+    start = b.get("start", b.get("start_time", b.get("begin", None)))
+    end = b.get("end", b.get("end_time", b.get("stop", None)))
+    if not what or start is None:
+        return None
+    try:
+        start = float(start)
+        end = float(end) if end is not None else start + 4.0
+    except (TypeError, ValueError):
+        return None
+    return {"start": start, "end": end, "what": str(what).strip()}
 
 
 def get_beats(client, cfg, path, n_frames=20):
@@ -90,8 +182,11 @@ def get_beats(client, cfg, path, n_frames=20):
                           max_tokens=cfg.scene_max_tokens,
                           reasoning_effort=cfg.reasoning_effort,
                           response_format=rf)
-        beats = [b for b in _coerce(raw, "beats")
-                 if isinstance(b, dict) and b.get("what")]
+        candidates = _coerce(raw, "beats") or _unwrap_tool_call(raw)
+        beats = [nb for b in candidates if (nb := _norm_beat(b))]
+        if not beats:
+            beats = [nb for b in _parse_text_beats(raw)
+                     if (nb := _norm_beat(b))]
         if beats:
             break
         # keep the evidence: dump the raw model response for post-mortem
