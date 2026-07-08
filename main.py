@@ -60,6 +60,35 @@ def _fallback_cfg(cfg: Config) -> Config:
     return c
 
 
+def _last_resort(path: str, client, cfg: Config) -> dict:
+    """Grounding failed everywhere: caption directly from raw frames.
+
+    One permissive multimodal call per style - degraded accuracy beats an
+    empty string, which is a guaranteed zero."""
+    from captioner import frames as F
+    from captioner import styles as S
+    from captioner.fireworks_client import image_content, text_content
+    sampled = F.sample_frames(path, cfg.fps_sample, 4, 6, cfg.frame_width)
+    captions = {}
+    for style in STYLES:
+        spec = S.STYLE_SPECS[style]
+        content = [text_content(
+            f"Frames from one short video clip. Write ONE caption in this "
+            f"style - {spec['label']}: {spec['contract']} 1-2 sentences, "
+            f"max 40 words, describe only what you can actually see. "
+            f"Output only the caption.")]
+        content += [image_content(fb) for fb in sampled.frames]
+        try:
+            cap = client.chat(model=cfg.vision_model,
+                              messages=[{"role": "user", "content": content}],
+                              temperature=0.6, max_tokens=cfg.max_tokens,
+                              reasoning_effort=cfg.reasoning_effort)
+            captions[style] = (cap or "").strip().strip('"')
+        except Exception:
+            captions[style] = ""
+    return captions
+
+
 def _one_task(task: dict, cfg: Config, client, td: str, deadline: float) -> dict:
     task_id = task.get("task_id", "unknown")
     captions = {s: "" for s in STYLES}
@@ -72,10 +101,18 @@ def _one_task(task: dict, cfg: Config, client, td: str, deadline: float) -> dict
             print(f"[main] {task_id}: primary (Gemma) failed: {e}; "
                   f"cutting over to serverless", file=sys.stderr)
             if time.time() < deadline:
-                result = process_clip(path, client, _fallback_cfg(cfg))
-                captions.update(result.captions)
+                try:
+                    result = process_clip(path, client, _fallback_cfg(cfg))
+                    captions.update(result.captions)
+                except Exception as e2:
+                    print(f"[main] {task_id}: fallback failed too: {e2}; "
+                          f"last-resort frame captioning", file=sys.stderr)
+                    captions.update(_last_resort(path, client, cfg))
     except Exception as e:
         print(f"[main] {task_id}: FAILED entirely: {e}", file=sys.stderr)
+    if not any(v.strip() for v in captions.values()):
+        print(f"[main] {task_id}: WARNING - empty captions in output",
+              file=sys.stderr)
     return {"task_id": task_id, "captions": captions}
 
 
