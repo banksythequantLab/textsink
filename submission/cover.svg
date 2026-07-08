@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" font-family="DejaVu Sans, Arial, sans-serif">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="62%">
+      <stop offset="0%" stop-color="#18244C"/>
+      <stop offset="100%" stop-color="#0E1630"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="720" fill="#0E1630"/>
+  <rect width="1280" height="720" fill="url(#glow)"/>
+
+  <!-- filmstrip bands -->
+  <rect x="0" y="0" width="1280" height="34" fill="#0A1128"/>
+  <rect x="0" y="686" width="1280" height="34" fill="#0A1128"/>
+  <g fill="#223066">
+    <rect x="40" y="10" width="34" height="14" rx="3"/><rect x="116" y="10" width="34" height="14" rx="3"/><rect x="192" y="10" width="34" height="14" rx="3"/><rect x="268" y="10" width="34" height="14" rx="3"/><rect x="344" y="10" width="34" height="14" rx="3"/><rect x="420" y="10" width="34" height="14" rx="3"/><rect x="496" y="10" width="34" height="14" rx="3"/><rect x="572" y="10" width="34" height="14" rx="3"/><rect x="648" y="10" width="34" height="14" rx="3"/><rect x="724" y="10" width="34" height="14" rx="3"/><rect x="800" y="10" width="34" height="14" rx="3"/><rect x="876" y="10" width="34" height="14" rx="3"/><rect x="952" y="10" width="34" height="14" rx="3"/><rect x="1028" y="10" width="34" height="14" rx="3"/><rect x="1104" y="10" width="34" height="14" rx="3"/><rect x="1180" y="10" width="34" height="14" rx="3"/>
+    <rect x="40" y="696" width="34" height="14" rx="3"/><rect x="116" y="696" width="34" height="14" rx="3"/><rect x="192" y="696" width="34" height="14" rx="3"/><rect x="268" y="696" width="34" height="14" rx="3"/><rect x="344" y="696" width="34" height="14" rx="3"/><rect x="420" y="696" width="34" height="14" rx="3"/><rect x="496" y="696" width="34" height="14" rx="3"/><rect x="572" y="696" width="34" height="14" rx="3"/><rect x="648" y="696" width="34" height="14" rx="3"/><rect x="724" y="696" width="34" height="14" rx="3"/><rect x="800" y="696" width="34" height="14" rx="3"/><rect x="876" y="696" width="34" height="14" rx="3"/><rect x="952" y="696" width="34" height="14" rx="3"/><rect x="1028" y="696" width="34" height="14" rx="3"/><rect x="1104" y="696" width="34" height="14" rx="3"/><rect x="1180" y="696" width="34" height="14" rx="3"/>
+  </g>
+
+  <!-- eyebrow -->
+  <text x="640" y="196" text-anchor="middle" font-size="22" letter-spacing="7" fill="#F5A623" font-weight="bold">STYLE-CONDITIONED VIDEO CAPTIONING</text>
+  <!-- wordmark (optical center ~300) -->
+  <text x="640" y="330" text-anchor="middle" font-size="120" font-weight="bold"><tspan fill="#F2F5FF">Text</tspan><tspan fill="#F5A623">Sink</tspan></text>
+  <!-- tagline -->
+  <text x="640" y="398" text-anchor="middle" font-size="36" fill="#AEB9E0">Four voices. One truth.</text>
+  <!-- four style chips -->
+  <g font-weight="bold" font-size="21">
+    <rect x="104" y="448" width="250" height="56" rx="12" fill="#121B3A" stroke="#6AA0FF" stroke-width="2"/><text x="229" y="483" text-anchor="middle" fill="#B8CCFF">FORMAL</text>
+    <rect x="378" y="448" width="250" height="56" rx="12" fill="#121B3A" stroke="#F5A623" stroke-width="2"/><text x="503" y="483" text-anchor="middle" fill="#FFD693">SARCASTIC</text>
+    <rect x="652" y="448" width="250" height="56" rx="12" fill="#121B3A" stroke="#33C3A6" stroke-width="2"/><text x="777" y="483" text-anchor="middle" fill="#9CE9D6">TECH-HUMOR</text>
+    <rect x="926" y="448" width="250" height="56" rx="12" fill="#121B3A" stroke="#FF7AB6" stroke-width="2"/><text x="1051" y="483" text-anchor="middle" fill="#FFC0DD">EVERYDAY-HUMOR</text>
+  </g>
+  <!-- subline -->
+  <text x="640" y="560" text-anchor="middle" font-size="23" fill="#8894C0">Grounded on frames + audio, styled by Gemma 4 &#8212; faithful and on-tone.</text>
+  <!-- footer -->
+  <text x="640" y="656" text-anchor="middle" font-size="20" fill="#6A76A8">AMD Developer Hackathon: ACT II &#183; Track 2 &#160;&#160;|&#160;&#160; Gemma 4 &#183; Fireworks AI &#183; AMD</text>
+</svg>

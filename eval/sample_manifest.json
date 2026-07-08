@@ -1,0 +1,7 @@
+{
+  "note": "Drop your 30s-2min clips in a folder and point run.py/run_eval.py at it. This manifest is just an example of the expected shape if a grader hands you a manifest.",
+  "clips": [
+    {"id": "clip01", "path": "videos/clip01.mp4"},
+    {"id": "clip02", "path": "videos/clip02.mp4"}
+  ]
+}

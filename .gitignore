@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets / config
+.env
+
+# Local test + run artifacts
+test_clip.mp4
+captions.json
+captions_*.json
+*.log
+data/
+out/
+
+# Big local media + generated artifacts (kept out of the repo)
+official_clips/
+clips/
+renders/
+renders2/
+cc_out/
+heckle_out/
+dataset/
+test_input/results*.json

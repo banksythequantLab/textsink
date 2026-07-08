@@ -1,0 +1,6 @@
+requests>=2.31
+
+# --- Optional: local (offline) audio transcription ------------------------
+# Uncomment to enable TRANSCRIBE_BACKEND=local. Adds a one-time model download
+# at first run. Leave commented for a lean, frames-only image.
+# faster-whisper>=1.0.0
