@@ -94,6 +94,12 @@ def get_beats(client, cfg, path, n_frames=20):
                  if isinstance(b, dict) and b.get("what")]
         if beats:
             break
+        # keep the evidence: dump the raw model response for post-mortem
+        dbg = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                           "..", "beats_failures.log")
+        with open(dbg, "a", encoding="utf-8") as fh:
+            fh.write(f"--- {os.path.basename(path)} attempt {attempt} "
+                     f"rf={'json' if rf else 'text'} ---\n{raw[:800]}\n")
         print(f"[cc] beats empty (attempt {attempt}/3), retrying ...",
               file=sys.stderr)
     if not beats:
