@@ -36,6 +36,9 @@ deployment — the same model does the visual grounding AND all four styles.
 
 ## For judges — what actually runs, and Gemma's real role
 
+> Full authorship receipts, artifact by artifact:
+> **[GEMMA_PROVENANCE.md](GEMMA_PROVENANCE.md)** (90-second read).
+
 **The reality in one sentence:** Gemma 4 is deploy-only on Fireworks and
 our deployment is account-scoped — so if the grading harness injects its
 own API key, the container detects that at startup and transparently runs
