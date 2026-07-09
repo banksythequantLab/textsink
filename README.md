@@ -46,10 +46,14 @@ four adjectives): formal = broadcast precision; sarcastic = deadpan
 scale-mismatch irony; humorous-tech = the scene mapped onto dev culture;
 humorous-non-tech = warm "we've all been there" relatability.
 
-**3. Gemma teaches Gemma.** Gemma 4 drafted candidate captions at high
-temperature, judged its own drafts on accuracy + tone, and the winners
-became a self-distilled training set (`tools/build_dataset.py`) — the
-model bootstrapping its own captioner.
+**3. Gemma teaches Gemma — and the student wins.** Gemma 4 drafted
+candidate captions at high temperature, judged its own drafts on
+accuracy + tone, and the winners became a self-distilled training set
+(`tools/build_dataset.py`). We fine-tuned `textsink-g3-captioner`
+(Gemma-3-27B LoRA, Fireworks managed SFT) on those 60 judged winners:
+under a neutral LLM judge it beats its teacher's prompted best-of-3
+output **18–4 head-to-head** (9 ties), scoring higher on every style
+(`tools/ab_test.py`, results in `ab_results.json`).
 
 **4. Live closed captions (TextSink CC).** The same grounding, segmented
 into time beats — each style becomes a real timed CC track (`.srt` +

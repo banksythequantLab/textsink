@@ -1,0 +1,855 @@
+{
+  "totals": {
+    "tuned": {
+      "acc": 197,
+      "tone": 205
+    },
+    "prompted": {
+      "acc": 142,
+      "tone": 149
+    }
+  },
+  "n": 60,
+  "rows": [
+    {
+      "clip": "11785757-hd_1920_1080_30fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "A dog moves through a grassy field under sunlight. The animal walks away from the camera and toward distant trees.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "thought\nThe camera captures a person in a white lab coat carefully pouring a clear liquid from a beaker into another container. The liquid creates a steady stream as it is transferred between the vessels.",
+        "accuracy": 1,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "11785757-hd_1920_1080_30fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another majestic creature boldly goes where many have gone before.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er- own-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er",
+        "accuracy": 1,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "11785757-hd_1920_1080_30fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That’s one long cold start – still waiting for the dog to cache its location. Pretty sure it’s just exploring the feature space.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "Running at 0ms latency through the production environment. No packet loss detected in this field.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "11785757-hd_1920_1080_30fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Looks like someone's really committed to their daily zoomies. Hope they remember the way back!",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "This dog is clearly on a mission to catch something invisible, or perhaps he's just practicing his victory lap.",
+        "accuracy": 3,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "12122308-uhd_2560_1440_24fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "The camera surveys the Manhattan skyline at dusk, showing skyscrapers and the Hudson River. Ferries navigate near the piers as sunlight reflects off building facades.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The camera pans slowly to the right across the New York City skyline and the Hudson River at dusk. Skyscrapers, piers, and ferries are visible overlooking the water.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "12122308-uhd_2560_1440_24fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another evening in the concrete jungle, offering breathtaking views of… more concrete.",
+        "accuracy": 4,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "A serene view of the New York City skyline and the Hudson River as the camera pans slowly across the skyscrapers, ferries, and piers at dusk.",
+        "accuracy": 5,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "12122308-uhd_2560_1440_24fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That’s a lot of surface area for potential reflection bugs – debugging this view will take ages. Looks like a classic cold start problem for the sunset.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "The city skyline is currently experiencing zero latency during this smooth horizontal pan. Finally, a UI with perfect frame rates and no jitter.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "12122308-uhd_2560_1440_24fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "It looks like the city is showing off all its shiny bits for evening. Those ferries are probably just waiting for someone to decide where to go for dinner.",
+        "accuracy": 4,
+        "tone": 4
+      },
+      "prompted": {
+        "caption": "own.\n- 1-2 sentences, max ~40 words. No hashtags, no emojis, no surrounding quotation marks.\n- Output only the caption text — no preamble, no style label.\n\nSCENE: A golden retriever puppy is trying to catch a bubble in the air. It jumps up and misses, then looks confused.\nSTYLE: Humorous (non-tech)\nCAPTION: The bubble won this round, but the puppy is already planning its rematch. It's a high-stakes game of tag where the opponent is invisible and made of soap.The bubble won this round, but the puppy is already planning a rematch. It's a high-stakes game of tag where the opponent is invisible and made of soap.",
+        "accuracy": 5,
+        "tone": 4
+      }
+    },
+    {
+      "clip": "12471596-uhd_2560_1440_30fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "The sun sets over the ocean, illuminating pink and orange clouds in the sky. The horizon is visible where the water meets the sky.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The video shows a person in a white lab coat and blue gloves, wearing a protective mask, wearing goggles- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own-",
+        "accuracy": 1,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "12471596-uhd_2560_1440_30fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another day, another sunset doing too much.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "A sunset glow stretches across the sky and reflects over the ocean waves.",
+        "accuracy": 5,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "12471596-uhd_2560_1440_30fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That sunset’s got some serious latency—beautiful, but the response time on full darkness is concerning. Prepare for a cold start to the night.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The sun is setting so fast it looks like a massive memory leak in the sky's rendering engine.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "12471596-uhd_2560_1440_30fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "The sun is clearly showing off, and the ocean is just letting it happen. Looks like someone forgot to tell the clouds it wasn’t a party.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The sun is clearly putting on its best show of the day, and the ocean is soaking up every bit of the spotlight.",
+        "accuracy": 5,
+        "tone": 4
+      }
+    },
+    {
+      "clip": "13825391-uhd_3840_2160_30fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "An orange tabby kitten walks forward through a wooded area. The kitten navigates the foliage as it approaches the camera.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "An orange kitten walks through a wooded area between trees and green foliage.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "13825391-uhd_3840_2160_30fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Just a tiny tiger, bravely exploring the vast wilderness of… some leaves.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Another high-stakes jungle expedition through the bushes. Truly riveting stuff.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "13825391-uhd_3840_2160_30fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That cold start is *rough* – still buffering its environment awareness. Expecting full object recognition by v2.0.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "When own the feature flag, but the kitten is still navigating through the messy dependencies in the bushes.",
+        "accuracy": 2,
+        "tone": 4
+      }
+    },
+    {
+      "clip": "13825391-uhd_3840_2160_30fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "This kitten is clearly on a very important mission…probably involving leaves. It's a tough job, but someone's gotta do it.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Mission impossible: The tiny orange fluffball is on a very serious jungle expedition.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "1860079-uhd_2560_1440_25fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "Vehicles travel along a city road lined with autumn trees. Traffic proceeds through an intersection with high-rise buildings visible in the background.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "A time-lapse view shows rapid, bidirectional traffic on a multi‑lane urban avenue lined with yellow autumn trees, with cars queuing in the right lanes, a large truck moving through, and an intersection marked by the painted number “100.”",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "1860079-uhd_2560_1440_25fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another day, another commute—nature is *really* trying to distract us from it all.",
+        "accuracy": 4,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Nothing says \"peaceful fall evening\" like a blur of 100‑mph rush hour on a leaf‑strewn avenue.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "1860079-uhd_2560_1440_25fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That intersection’s got some serious contention – looks like a classic race condition with right-of-way. Hope no deadlocks occur.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "100‑meter stretch turned into a race condition: every car fighting for the same right‑lane lock in real‑time.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "1860079-uhd_2560_1440_25fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Looks like everyone decided to drive to look at the pretty leaves. Traffic's doing its best impression of a very slow river.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "When the leaves turn gold and the city turns into a blur, even the trucks look like they're late for a coffee break.",
+        "accuracy": 4,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "2697636-uhd_1920_1440_30fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "Pedestrians cross at a busy intersection as vehicles proceed through city streets. Traffic signals regulate the flow of cars, buses, and taxis.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "Pedestrians cross multiple intersections in a busy urban district while various vehicles, including buses and taxis, navigate the streets. Digital billboards and traffic lights regulate the movement of people and transport.",
+        "accuracy": 3,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "2697636-uhd_1920_1440_30fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another day, another flawlessly organized pedestrian experience.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "A chaotic dance of urban life unfolds at a busy city intersection, where pedestrians, taxis, and buses weave through the constant flow of traffic under glowing digital billboards.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "2697636-uhd_1920_1440_30fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That’s a lot of concurrent requests hitting the same resource. Someone didn’t account for scaling.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The ultimate race condition: thousands of concurrent threads attempting to access the crosswalk at the exact same millisecond.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "2697636-uhd_1920_1440_30fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Looks like everyone agreed to walk really fast today. It's a good thing the sidewalks are wide!",
+        "accuracy": 4,
+        "tone": 4
+      },
+      "prompted": {
+        "caption": "It’s a giant game of human Tetris out here, and everyone is just trying to find their perfect fit.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "3044693-uhd_3840_2160_24fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "A woman works at a computer in an office setting, using a keyboard and mouse. She looks at the monitor while seated at a white desk.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "A woman with dark hair in a high bun, wearing a beige jacket over an orange top, sits at a white desk in a modern office, focused on a computer monitor while typing.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "3044693-uhd_3840_2160_24fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another day, another spreadsheet – truly living the dream.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Just another edge‑of‑your‑seat thriller: a woman typing like her career depends on it.",
+        "accuracy": 4,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "3044693-uhd_3840_2160_24fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That loading spinner is a feature, not a bug…it’s just a really committed cold start. Please be patient while we re-initialize reality.",
+        "accuracy": 2,
+        "tone": 4
+      },
+      "prompted": {
+        "caption": "Spot the race condition: her fingers and the keyboard are both vying for the highest throughput in a single‑threaded typing test.",
+        "accuracy": 2,
+        "tone": 4
+      }
+    },
+    {
+      "clip": "3044693-uhd_3840_2160_24fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "She’s definitely pretending to work really hard, just like the rest of us on a Tuesday. I bet that mouse gets a workout.",
+        "accuracy": 4,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "She’s typing so fast the keyboard’s wondering if it just got a promotion.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "3121327-uhd_2560_1440_24fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "The camera surveys a mountainous landscape featuring forested slopes and jagged granite peaks. The expansive view highlights the scale of the valleys and ranges.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "thought\nA person in a white lab coat pours a clear liquid from a beaker into another container, causing a reaction that produces white smoke.",
+        "accuracy": 1,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "3121327-uhd_2560_1440_24fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another day, another breathtaking vista demanding humble reflection on our fleeting existence.",
+        "accuracy": 5,
+        "tone": 2
+      },
+      "prompted": {
+        "caption": "A vast, mountainous landscape unfolds as the camera pans across rugged, rocky peaks and dense green forests under a hazy sky.",
+        "accuracy": 5,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "3121327-uhd_2560_1440_24fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That’s some serious geological caching – looks like the render pipeline hasn’t updated in millennia. Definitely a cold start problem for any new hiking algorithm.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "The rendering engine is clearly struggling with the draw distance on these assets. Someone please check the LOD settings before we hit a memory leak.",
+        "accuracy": 2,
+        "tone": 3
+      }
+    },
+    {
+      "clip": "3121327-uhd_2560_1440_24fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Those mountains are showing off. I bet they think they're so tall.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The mountains are showing off today, stretching out their rocky peaks just to make sure everyone is watching.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "31948459-hd_1920_1080_24fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "Hands operate a laptop computer, utilizing both the keyboard and trackpad. The user navigates and inputs information on the device.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "A person's hands type on a laptop keyboard and operate the trackpad in a workspace with warm lighting.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "31948459-hd_1920_1080_24fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Productivity is at an all-time high, as evidenced by the intense clicking and gliding.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "A rhythmic dance of fingers across a keyboard and trackpad, lost in the quiet glow of a workspace.",
+        "accuracy": 5,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "31948459-hd_1920_1080_24fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That cold start is *real* when your fingers haven't hit the home row in a while. Trackpad accuracy decreasing exponentially with inactivity.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "When you're frantically typing to resolve a race condition before the sprint demo starts.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "31948459-hd_1920_1080_24fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Those hands are really putting the \"lap\" in laptop. It's a tough job, but someone's gotta click all the things.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The fingers are performing a high-speed dance, though the laptop is the only one actually getting any exercise.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "34796505-hd_1920_1080_60fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "A vehicle travels along a wet city street at night. Traffic signals change to green as the vehicle approaches.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "A vehicle travels along a wet street at night, passing various streetlights and traffic signals.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "34796505-hd_1920_1080_60fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another thrilling night commute, brought to you by precipitation and the miracle of timed signals.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "A vehicle cruises down a wet street at night, passing under the glow of streetlights and traffic signals.",
+        "accuracy": 5,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "34796505-hd_1920_1080_60fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That traffic light’s cold start is *real* slow tonight. Still, at least it eventually converged on green.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "When the latency is so high you're basically just rendering the environment frame by frame through the raindrops.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "34796505-hd_1920_1080_60fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Looks like even the traffic lights are excited to see us go. Finally, a green light in my life.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The city's lights are playing a game of follow the leader, and they are definitely winning.",
+        "accuracy": 4,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "5054248-uhd_2560_1440_25fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "Three people converse on a rooftop overlooking a city skyline. One man gestures as he speaks while another listens, and a woman reacts with laughter.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "Three individuals sit around a small table with glasses of beer on an outdoor rooftop patio. A man in a grey t-shirt gestures while speaking, while a woman laughs and a man in a black polo shirt gestures near his chest.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "5054248-uhd_2560_1440_25fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another riveting rooftop discussion—the city holds its breath for the takeaways.",
+        "accuracy": 4,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "A group of friends enjoys beers on a rooftop patio, surrounded by high-rise buildings, sharing laughs and animated conversation.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "5054248-uhd_2560_1440_25fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That feeling when your feature flag deployment has a surprisingly wide blast radius. At least someone’s enjoying the unexpected behavior.",
+        "accuracy": 1,
+        "tone": 3
+      },
+      "prompted": {
+        "caption": "The group's social latency is practically zero, with high-throughput laughter and seamless hand-gesture synchronization across all nodes.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "5054248-uhd_2560_1440_25fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "He’s explaining something *very* important, and she thinks it’s hilarious. Meanwhile, someone's just happy to be here.",
+        "accuracy": 5,
+        "tone": 4
+      },
+      "prompted": {
+        "caption": "The group is having such a good time that the beer is clearly just a supporting character in this lively rooftop debate.",
+        "accuracy": 2,
+        "tone": 4
+      }
+    },
+    {
+      "clip": "5404543-hd_1920_1080_24fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "Waves crash onto a pebbly beach, creating foam that spreads across the stones. Green cliffs form the backdrop of this coastal scene.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Ocean waves crash against a pebbly beach near coastal cliffs, with white foam washing over the stones.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "5404543-hd_1920_1080_24fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another day, another existential crisis unfolding on the beach.",
+        "accuracy": 2,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Waves crash against the rocky shore, sending white foam washing over the pebbly beach beneath towering cliffs.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "5404543-hd_1920_1080_24fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That’s one aggressive cold start for the tide. Definitely needs some caching.",
+        "accuracy": 4,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The ocean's request rate is hitting the shore with massive latency, causing a complete buffer overflow of foam on the pebbles.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "5404543-hd_1920_1080_24fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "The ocean is just showing off with all that foamy lace. It really loves a pebbly runway.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The ocean is just trying to give the pebbles a very gentle, bubbly bath.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "6023186-hd_1920_1080_30fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "Passengers board and disembark from a train stopped at a busy station platform. Commuters walk along the platform and wait for transport.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "Commuters walk along a busy train station platform under a metal roof structure. A man sits on a metal bench while another stands near the tracks.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "6023186-hd_1920_1080_30fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another train, another opportunity to briefly consider where your life went.",
+        "accuracy": 4,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Commuters and station staff move along a busy platform under a large metal roof while a man sits on a bench and another stands watching the tracks.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "6023186-hd_1920_1080_30fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That train’s cold start is taking *way* too long. Guess we’re all just waiting on the database to spin up.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "When the platform is at peak capacity but your system is still experiencing massive latency in processing incoming passengers.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "6023186-hd_1920_1080_30fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Looks like everyone's decided to take the same shortcut today. Hopefully there's room for one more!",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "The platform is a masterclass in waiting, featuring a dedicated professional sitting on a bench and a man staring down the tracks as if he can make the train appear by sheer willpower.",
+        "accuracy": 2,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "7963468-uhd_2560_1440_25fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "A person in a striped apron dices zucchini on a wooden cutting board. Food preparation takes place near a frying pan in an outdoor kitchen setting.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "A person chops zucchini into small pieces on a wooden cutting board.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "7963468-uhd_2560_1440_25fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Zucchini is being aggressively diced, presumably for someone’s benefit.",
+        "accuracy": 5,
+        "tone": 4
+      },
+      "prompted": {
+        "caption": "Another thrilling evening of vegetable prep. Truly living on the edge.",
+        "accuracy": 3,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "7963468-uhd_2560_1440_25fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That zucchini’s cold start is real—it’s gonna take a while to heat up in that pan. Looks like we're optimizing for throughput, not latency.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "When you try to optimize your preprocessing pipeline but end up with too many small, fragmented chunks.",
+        "accuracy": 2,
+        "tone": 2
+      }
+    },
+    {
+      "clip": "7963468-uhd_2560_1440_25fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Looks like someone is serious about their zucchini—that’s a lot of tiny squares. Hopefully, it’s not a pop quiz for future stir-fries.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Chopping veggies like I’m training for a vegetable championship.",
+        "accuracy": 5,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "8533913-uhd_2560_1440_25fps.mp4",
+      "style": "formal",
+      "tuned": {
+        "caption": "A runner traverses a running track from left to right. The track features red lanes and white markings.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Two individuals wearing blue shorts run across a red outdoor track from left to right. The track is situated adjacent to a grassy area and rows of white stadium seating.",
+        "accuracy": 1,
+        "tone": 5
+      }
+    },
+    {
+      "clip": "8533913-uhd_2560_1440_25fps.mp4",
+      "style": "sarcastic",
+      "tuned": {
+        "caption": "Another day, another athlete bravely battling… gravity and inertia.",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Two runners, one in blue shorts and another in a grey tank top, sprint across the red lanes of an outdoor track.",
+        "accuracy": 2,
+        "tone": 1
+      }
+    },
+    {
+      "clip": "8533913-uhd_2560_1440_25fps.mp4",
+      "style": "humorous_tech",
+      "tuned": {
+        "caption": "That’s one long cold start—warming up the model (and legs) before hitting peak performance. Looks like we’re still waiting for convergence.",
+        "accuracy": 0,
+        "tone": 0
+      },
+      "prompted": {
+        "caption": "When your parallel processing is working perfectly, but you're still waiting for the main thread to catch up.",
+        "accuracy": 0,
+        "tone": 0
+      }
+    },
+    {
+      "clip": "8533913-uhd_2560_1440_25fps.mp4",
+      "style": "humorous_non_tech",
+      "tuned": {
+        "caption": "Looks like someone found the fast lane… and decided to use it. Hopefully they remembered to stretch first!",
+        "accuracy": 5,
+        "tone": 5
+      },
+      "prompted": {
+        "caption": "Looks like a high-stakes race is underway, though neither runner seems to be in any particular hurry to reach the finish line.",
+        "accuracy": 2,
+        "tone": 5
+      }
+    }
+  ]
+}
