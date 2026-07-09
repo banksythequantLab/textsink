@@ -107,13 +107,7 @@ python tools/render_captions.py --results results.json --clips clips/ --grid
 
 ## Architecture
 
-```
-clip -> ffmpeg frame sampling (timestamped, whole clip)
-     -> Gemma 4 vision: scene facts JSON  (retry + refuse-to-caption-blind)
-     -> 4 tone contracts + few-shot        -> 4 captions      -> results.json
-     -> time-segmented beats               -> 4 CC tracks     -> .srt/.ass/.mp4
-     -> beats + two live model personas    -> The Hecklers    -> .mp4
-```
+![TextSink architecture](assets/architecture.svg)
 
 Reliability at judging time: the primary path is the Gemma 4 dedicated
 deployment (`REASONING_EFFORT=none` — it emits a thought preamble
