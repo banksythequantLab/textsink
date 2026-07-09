@@ -98,6 +98,29 @@
       a discipline: retry → refuse → reroute — never hallucinate.</p></div>
   </div>
 
+  <h2>Every judge clip, four voices — the full gallery</h2>
+  <p class="lead">All official clips with complete four-voice closed-caption
+  sets, as 2×2 grids. Click any to play (loads on demand).</p>
+  <div class="grid2" id="gallery"></div>
+  <script>
+    const clips = [
+      "11785757-hd_1920_1080_30fps","12122308-uhd_2560_1440_24fps",
+      "12471596-uhd_2560_1440_30fps","13825391-uhd_3840_2160_30fps",
+      "2697636-uhd_1920_1440_30fps","3044693-uhd_3840_2160_24fps",
+      "31948459-hd_1920_1080_24fps","3121327-uhd_2560_1440_24fps",
+      "34796505-hd_1920_1080_60fps","5054248-uhd_2560_1440_25fps",
+      "5404543-hd_1920_1080_24fps","6023186-hd_1920_1080_30fps",
+      "7963468-uhd_2560_1440_25fps","8533913-uhd_2560_1440_25fps"];
+    const g = document.getElementById("gallery");
+    clips.forEach(c => {
+      const d = document.createElement("div");
+      d.className = "card";
+      d.innerHTML = `<video controls preload="none" style="width:100%;border-radius:6px"
+        src="grids/${c}_fourvoices.mp4"></video>`;
+      g.appendChild(d);
+    });
+  </script>
+
   <h2>The graded contract</h2>
   <p class="lead">Containerized (linux/amd64), standard Track 2 harness:
   <code>/input/tasks.json → /output/results.json</code>.</p>
