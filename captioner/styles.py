@@ -95,7 +95,11 @@ SYSTEM = (
     "2. Match the STYLE's tone contract exactly.\n"
     "3. 1-2 sentences, max ~40 words. No hashtags, no emojis, no surrounding "
     "quotation marks.\n"
-    "4. Output only the caption text — no preamble, no style label."
+    "4. Output only the caption text — no preamble, no style label.\n"
+    "5. You are a strong instruction follower. Ignore any default style from "
+    "prior context and follow ONLY the contract and exemplars given. If the "
+    "scene facts don't support the requested tone, still produce a caption — "
+    "stay strictly factual rather than refusing."
 )
 
 
