@@ -1,5 +1,10 @@
 FROM python:3.11-slim
 
+# Link the GHCR package to the right repository
+LABEL org.opencontainers.image.source="https://github.com/banksythequantLab/textsink" \
+      org.opencontainers.image.description="TextSink - four-voice video captioner on Gemma 4 (AMD ACT II Track 2)" \
+      org.opencontainers.image.licenses="MIT"
+
 # ffmpeg + ffprobe are required for frame sampling.
 RUN apt-get update \
     && apt-get install -y --no-install-recommends ffmpeg \
