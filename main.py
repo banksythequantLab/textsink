@@ -79,11 +79,13 @@ def _last_resort(path: str, client, cfg: Config) -> dict:
             f"Output only the caption.")]
         content += [image_content(fb) for fb in sampled.frames]
         try:
+            from captioner.pipeline import _is_refusal
             cap = client.chat(model=cfg.vision_model,
                               messages=[{"role": "user", "content": content}],
                               temperature=0.6, max_tokens=cfg.max_tokens,
                               reasoning_effort=cfg.reasoning_effort)
-            captions[style] = (cap or "").strip().strip('"')
+            cap = (cap or "").strip().strip('"')
+            captions[style] = "" if _is_refusal(cap) else cap
         except Exception:
             captions[style] = ""
     return captions
@@ -95,14 +97,15 @@ def _one_task(task: dict, cfg: Config, client, td: str, deadline: float) -> dict
     try:
         path = _download(task["video_url"], td, task_id)
         try:
-            result = process_clip(path, client, cfg)
+            result = process_clip(path, client, cfg, deadline=deadline)
             captions.update(result.captions)
         except Exception as e:
-            print(f"[main] {task_id}: primary (Gemma) failed: {e}; "
+            print(f"[main] {task_id}: primary failed: {e}; "
                   f"cutting over to serverless", file=sys.stderr)
             if time.time() < deadline:
                 try:
-                    result = process_clip(path, client, _fallback_cfg(cfg))
+                    result = process_clip(path, client, _fallback_cfg(cfg),
+                                          deadline=deadline)
                     captions.update(result.captions)
                 except Exception as e2:
                     print(f"[main] {task_id}: fallback failed too: {e2}; "
@@ -116,16 +119,42 @@ def _one_task(task: dict, cfg: Config, client, td: str, deadline: float) -> dict
     return {"task_id": task_id, "captions": captions}
 
 
+def _probe_models(cfg: Config, client) -> Config:
+    """Decide once at startup which models this run can actually use.
+
+    The Gemma deployment is account-scoped: under the grader's own API key
+    it 404s instantly -> switch to serverless before wasting any budget.
+    Under our key a cold deployment returns 503 -> wait a bounded amount
+    (it is scaling up), then decide.
+    """
+    if "#" not in cfg.caption_model:
+        return cfg  # already serverless
+    try:
+        # retries=6 -> waits up to ~2.5 min through a cold start
+        client.chat(model=cfg.caption_model,
+                    messages=[{"role": "user", "content": "Say OK."}],
+                    max_tokens=5, reasoning_effort=cfg.reasoning_effort,
+                    retries=6)
+        print("[main] probe: Gemma deployment reachable - all-Gemma run",
+              file=sys.stderr)
+        return cfg
+    except Exception as e:
+        print(f"[main] probe: deployment unreachable ({str(e)[:120]}) - "
+              f"switching to serverless models", file=sys.stderr)
+        return _fallback_cfg(cfg)
+
+
 def main() -> int:
     start = time.time()
     deadline = start + TIME_BUDGET_SEC
-    with open(INPUT_PATH, encoding="utf-8") as fh:
+    with open(INPUT_PATH, encoding="utf-8-sig") as fh:  # BOM-tolerant
         tasks = json.load(fh)
     print(f"[main] {len(tasks)} task(s); budget {TIME_BUDGET_SEC}s; "
           f"workers {MAX_WORKERS}", file=sys.stderr)
 
     cfg = Config.from_env()
     client = FireworksClient(cfg.api_key, cfg.base_url, cfg.request_timeout)
+    cfg = _probe_models(cfg, client)
 
     results = []
     with tempfile.TemporaryDirectory() as td:

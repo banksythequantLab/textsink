@@ -69,5 +69,7 @@ def _coerce_json(raw: str) -> dict:
                 return json.loads(raw[s:e + 1])
             except json.JSONDecodeError:
                 pass
-    return {"setting": "", "subjects": [], "actions": [raw[:200]] if raw else [],
+    # Unparseable response: return an EMPTY scene so the validity gate
+    # catches it and retries - never smuggle raw debris into the facts.
+    return {"setting": "", "subjects": [], "actions": [],
             "on_screen_text": [], "notable_audio": [], "mood": ""}

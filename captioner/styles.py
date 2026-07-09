@@ -34,6 +34,7 @@ STYLE_SPECS: dict[str, dict[str, Any]] = {
         "label": "Sarcastic",
         "contract": (
             "Dry, ironic, understated snark; deadpan wit and faux-enthusiasm. "
+            "Observational and slightly weary, never try-hard edgy. "
             "Never cruel and never punching down — the target is the situation, "
             "not a person's identity or appearance. One sharp line."
         ),
@@ -48,9 +49,13 @@ STYLE_SPECS: dict[str, dict[str, Any]] = {
     "humorous_tech": {
         "label": "Humorous (tech)",
         "contract": (
-            "Playful humor drawn from developer / startup / CS culture — code, "
-            "bugs, deploys, standups, AI. In-jokes a programmer would laugh at, "
-            "kept light and clever rather than obscure. One or two lines."
+            "Playful humor drawn from developer / startup / CS culture. Map ONE "
+            "specific technical concept (latency, overfitting, cold start, "
+            "memory leak, race condition, feature flag, merge conflict...) "
+            "directly onto something actually visible in THIS scene. The joke "
+            "must be scene-specific — never generic 'AI agent learning' or "
+            "stock 'deploy to prod' framing unless the scene truly is one. "
+            "One or two lines."
         ),
         "exemplars": [
             ("A dog knocks over a stack of boxes that domino across a room.",
@@ -65,7 +70,8 @@ STYLE_SPECS: dict[str, dict[str, Any]] = {
         "label": "Humorous (non-tech)",
         "contract": (
             "Warm, relatable, everyday humor — observational, wordplay welcome. "
-            "Absolutely NO tech jargon. The kind of caption that lands for any "
+            "The kind of thing a clever kid would say out loud while watching, "
+            "not a stand-up bit. Absolutely NO tech jargon. Lands for any "
             "audience. One or two lines."
         ),
         "exemplars": [

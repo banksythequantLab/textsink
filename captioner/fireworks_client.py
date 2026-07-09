@@ -30,32 +30,32 @@ class FireworksClient:
         self.base_url = base_url.rstrip("/")
         self.timeout = timeout
 
-    def _post(self, path: str, payload: dict) -> dict:
+    def _post(self, path: str, payload: dict, retries: int = 10) -> dict:
         url = f"{self.base_url}{path}"
         headers = {
             "Authorization": f"Bearer {self.api_key}",
             "Content-Type": "application/json",
         }
         last_err = ""
-        for attempt in range(10):
+        for attempt in range(retries):
             resp = requests.post(url, headers=headers, json=payload,
                                  timeout=self.timeout)
             if resp.status_code in (429, 503):
                 # Cold start (scale-to-zero) or rate limit: back off and retry.
                 last_err = resp.text[:300]
                 wait = min(60, 10 * (attempt + 1))
-                print(f"[fireworks] {resp.status_code} (attempt {attempt + 1}/10)"
-                      f" — deployment warming up, retrying in {wait}s")
+                print(f"[fireworks] {resp.status_code} (attempt {attempt + 1}/"
+                      f"{retries}) — deployment warming up, retrying in {wait}s")
                 time.sleep(wait)
                 continue
             if resp.status_code >= 400:
                 raise FireworksError(f"{resp.status_code} {url}: {resp.text[:500]}")
             return resp.json()
-        raise FireworksError(f"gave up after 10 retries: {last_err}")
+        raise FireworksError(f"gave up after {retries} retries: {last_err}")
 
     def chat(self, model: str, messages: list, temperature: float = 0.4,
              max_tokens: int = 320, response_format: Optional[dict] = None,
-             reasoning_effort: Optional[str] = None) -> str:
+             reasoning_effort: Optional[str] = None, retries: int = 10) -> str:
         payload: dict[str, Any] = {
             "model": model,
             "messages": messages,
@@ -66,7 +66,7 @@ class FireworksClient:
             payload["response_format"] = response_format
         if reasoning_effort:
             payload["reasoning_effort"] = reasoning_effort
-        data = self._post("/chat/completions", payload)
+        data = self._post("/chat/completions", payload, retries=retries)
         try:
             msg = data["choices"][0]["message"]
             return _strip_reasoning(msg.get("content") or "")

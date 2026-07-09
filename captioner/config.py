@@ -46,9 +46,10 @@ class Config:
 
     temperature: float = 0.4
     max_tokens: int = 320
-    scene_max_tokens: int = 1200
+    scene_max_tokens: int = 3000
     reasoning_effort: str = "none"
     request_timeout: int = 120
+    best_of: int = 3
 
     @classmethod
     def from_env(cls) -> "Config":
@@ -69,4 +70,5 @@ class Config:
         c.max_tokens = int(_get("MAX_TOKENS", str(c.max_tokens)))
         c.scene_max_tokens = int(_get("SCENE_MAX_TOKENS", str(c.scene_max_tokens)))
         c.reasoning_effort = _get("REASONING_EFFORT", c.reasoning_effort)
+        c.best_of = int(_get("BEST_OF", str(c.best_of)))
         return c
