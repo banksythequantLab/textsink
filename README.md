@@ -71,6 +71,9 @@ its serverless fallback, logging the served path to stderr:
 - **Quality** — best-of-3 drafts, self-judged on accuracy + tone, winner
   ships.
 - **Auditability** — the run itself logs which model served every stage.
+- **Ablated, not asserted** — the designed mechanisms beat generic style
+  prompts 11–5 head-to-head under two independent judges, measured on the
+  fallback model itself: [`eval/ABLATIONS.md`](eval/ABLATIONS.md).
 
 ## Why it isn't vanilla
 

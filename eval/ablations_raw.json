@@ -1,0 +1,1322 @@
+[
+  {
+    "clip": "11785757-hd_1920_1080_30fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Oh, the thrilling drama of a dog finally mastering the art of walking away from the camera.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Oh, the thrilling climax of a dog sprinting away—because the world just needed more open‑field drama.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "Oh wow, a dog actually decided to leave the camera and explore the wild frontier of a sun‑lit meadow—what a groundbreaking moment.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "11785757-hd_1920_1080_30fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "A dog walks away from the camera across a sunlit grassy field bordered by trees, with bright sunlight producing lens flare.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "A dog moves away from the camera across a sunlit grassy field, with trees visible in the background.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A dog moves away from the camera, its back visible as it walks across a sunlit grassy field framed by distant trees.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "11785757-hd_1920_1080_30fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Watch the dog sprint out of frame like a request caught in a race condition and instantly get dropped.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "When you finally flip the feature flag off and the service walks off into the sunset.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "The pup dashes across the field like a network packet racing through a low‑latency route—just before the firewall (fence) decides to block it.",
+      "gpt-oss-120b": 6,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "11785757-hd_1920_1080_30fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "Looks like someone's got a hot date with the wind and is politely skipping the rest of the field.",
+      "gpt-oss-120b": 9,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "The pup’s taking a “field day” literally—sprinting off like he’s already late for the next adventure.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "The pup's on a mission to outrun the sunshine and prove that grass is the ultimate treadmill.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "12122308-uhd_2560_1440_24fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "An aerial view pans across the New York City skyline at dusk, showing glass‑clad skyscrapers reflecting sunlight over the Hudson River, with ferries docked and moving near the waterfront piers.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "An aerial view captures the New York City skyline at dusk, with the camera panning slowly across the Hudson River waterfront as sunlight reflects off glass skyscrapers and ferries are seen docked or moving near the piers.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "An aerial view at dusk captures the Hudson River and Manhattan waterfront, with the camera panning across the illuminated skyline, reflecting glass skyscrapers, and ferries docked or moving near the piers.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "12122308-uhd_2560_1440_24fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Because nothing says \"peaceful dusk\" like a glittering concrete jungle and ferries pretending they're on a scenic cruise.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Oh, just another serene dusk where the skyline and its glittering glass clearly aren't competing with the sunset for attention.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Oh, just another boring sunset over the city—because endless glass towers and ferry traffic are exactly what we all dreamed of watching.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "12122308-uhd_2560_1440_24fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "At dusk the glass towers begin reflecting sunlight like a memory leak—each window adds another stray byte until the whole skyline glows with leaked data.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The city at dusk is a classic cold‑start: the glass towers finally get their first paint, then the ferries rush in like a burst of API calls flooding the event loop.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "C_generic_bo3": {
+      "caption": "Loading NYC skyline v2.0: dusk mode activated, glass panels reflecting sunlight, ferries syncing updates across the Hudson—no bugs detected, just a smooth pan across the cityscape.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "12122308-uhd_2560_1440_24fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "The skyline’s getting dressed in its glittery evening suit, and even the ferries can’t help but show off a little sparkle.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The skyline’s getting dressed in its glittery evening wear while the ferries linger like guests who can’t decide whether to stay or go.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "C_generic_bo3": {
+      "caption": "Even the skyline’s getting ready for a night out—sunset’s the city’s way of saying “let’s glow!”",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "12471596-uhd_2560_1440_30fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "The sun descends toward the horizon over the ocean at sunset, casting pink and orange hues across the sky and clouds.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The sun descends toward the horizon over the ocean at sunset, while pink and orange clouds fill the sky.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "The sun descends toward the horizon, casting pink and orange hues across the clouds as the ocean reflects the vibrant colors of the sunset.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "12471596-uhd_2560_1440_30fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Oh, a sunset over the ocean—how utterly groundbreaking, as if the sky needed any more pink drama.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Oh, look—another sunset, because the ocean clearly needed a daily reminder that it's not just a giant mirror.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Oh great, another breathtaking sunset over the ocean—because we definitely haven't seen that a million times before.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "12471596-uhd_2560_1440_30fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Sunset over the ocean—just the planet’s graceful shutdown sequence, hitting the horizon like a deprecated API",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "When the sun finally hits the horizon, it's like a graceful shutdown after a marathon of requests—no more latency, just a smooth sunset of the day’s load.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "Sunset rendering complete—pink and orange clouds successfully loaded over the ocean horizon.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "12471596-uhd_2560_1440_30fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "The sun is calling it quits early, leaving the ocean to finish the day’s shift under a pink‑orange sky.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "The sun’s making a grand exit while the clouds turn pink, like they just heard the ocean’s best‑kept gossip.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "The sun’s taking a dip, leaving the sky blushing like it just heard a cheesy joke.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "13825391-uhd_3840_2160_30fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "An orange tabby kitten walks forward through the forest foliage toward the camera.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "An orange tabby kitten walks forward through the forest foliage toward the camera.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "An orange tabby kitten walks steadily through a wooded forest, navigating the dirt ground and green foliage as it approaches the camera.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "13825391-uhd_3840_2160_30fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Because nothing screams epic forest expedition like an orange kitten waddling straight into the camera.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Because nothing screams \"deep forest expedition\" like an orange tabby kitten strolling straight into the camera.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Oh, because nothing says “adventure” like a tiny orange kitten bravely trekking through the forest like it’s the Amazon.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "13825391-uhd_3840_2160_30fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "The forest just got a new tour guide—tiny orange paws and a curiosity that says, “I’m not lost, I’m just checking out the scenery up close.”",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The forest’s newest scout is on a top‑secret mission—probably to locate the hidden stash of catnip.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A bold orange explorer waddles through the woods, aiming straight for the camera like it’s the ultimate laser pointer.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "13825391-uhd_3840_2160_30fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Cold start in action: this orange tabby service spins up, buffers through the underbrush, and finally hits the camera endpoint.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "Cold‑start of the new Tabby microservice: after a brief init in the underbrush, it finally boots up and walks straight into the endpoint (camera).",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "When the new “purr‑formance” update finally loads, even the kitten can’t wait to debug the forest path.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "1860079-uhd_2560_1440_25fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "Vehicles including cars, buses and trucks travel along a multi‑lane city road bordered by yellow autumn trees, while traffic moves through an intersection amid high‑rise apartment buildings.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Vehicles including cars, buses, and trucks travel along a multi‑lane city road lined with yellow autumn trees, while traffic moves through an intersection beneath high‑rise apartment buildings.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Cars, buses, and trucks navigate a multi‑lane city road bordered by yellow autumn trees, while high‑rise apartment buildings rise in the background, illustrating a bustling intersection.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "1860079-uhd_2560_1440_25fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Nothing says \"peaceful autumn stroll\" like a river of brake lights threading through the yellow‑leafed avenue.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing screams \"peaceful autumn stroll\" like a river of brake lights weaving through golden trees.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Nothing says “relaxing stroll” like a jam‑packed city street flanked by golden trees and towering apartments.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "1860079-uhd_2560_1440_25fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Peak‑hour traffic is a massive race condition at the intersection—every car waiting on the green lock before it can proceed.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "B_mech_bo1": {
+      "caption": "Intersection merge conflict: every driver pushing their changes to master at once, turning the crossroads into a traffic deadlock.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "When the city’s traffic gets as congested as your Wi‑Fi during a software update, even the autonomous cars start buffering at the intersection.",
+      "gpt-oss-120b": 6,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "1860079-uhd_2560_1440_25fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "The city’s autumn parade rolls on—cars, buses, and trucks threading the yellow‑leaf runway like they’re all late for a coffee meeting.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Autumn’s trying to dress up the street, but the traffic’s already turned it into a moving parking lot.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "Even the autumn trees look bewildered as cars and buses zip through the intersection like squirrels on espresso.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "2697636-uhd_1920_1440_30fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Nothing like a serene stroll through a neon‑lit human river, where everyone’s perfectly timed to ignore the chaos.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing says serenity like a sea of strangers all perfectly synchronized for the next green light.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "C_generic_bo3": {
+      "caption": "What a calm, deserted crossroads—just a handful of pedestrians and a single car idling at the lights.",
+      "gpt-oss-120b": 5,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "2697636-uhd_1920_1440_30fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "Pedestrians traverse the crosswalks while cars, buses, taxis, vans and trucks navigate the busy intersection, with vehicles stopping at traffic signals amid the surrounding high-rise buildings and advertisements.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Pedestrians traverse the crosswalks of a busy urban intersection while cars, buses, taxis, vans and trucks navigate the streets, some halted at traffic signals, amid large advertising‑covered buildings and street signage.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A bustling urban intersection in Tokyo, likely Shibuya Crossing, showcases pedestrians navigating crosswalks amid a flow of cars, buses, taxis, vans, and trucks, all regulated by traffic lights and framed by towering advertisement‑covered buildings.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "2697636-uhd_1920_1440_30fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "A massive race condition at the intersection: thousands of pedestrians and vehicles all trying to acquire the green lock at once, and the traffic light scheduler keeps throwing deadlocks.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "Peak‑hour race condition at Shibuya: pedestrians and taxis both trying to acquire the crosswalk lock, causing a live deadlock until the traffic‑light scheduler finally times out.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "C_generic_bo3": {
+      "caption": "If this busy Shibuya crossing were a computer, its CPU would be maxed out and the traffic lights would be stuck on “loading… please wait.”",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "2697636-uhd_1920_1440_30fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "When the city decides it needs a group hug, everyone shows up—on foot, in a car, and even the taxis bring a plus‑one.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "It’s a giant city‑wide game of “who can squeeze through the crosswalk first,” and everyone’s playing at the same time.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Finding a spot on the world’s busiest sidewalk is a victory—until the lights turn green and the traffic decides it’s a dance party.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    }
+  },
+  {
+    "clip": "3044693-uhd_3840_2160_24fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "A woman with dark curly hair, wearing an orange top and a light beige jacket, works at a computer in an office with white desks, black chairs and indoor plants, looking at the monitor, typing on a keyboard and using a mouse.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "A woman with dark curly hair, dressed in an orange top and light beige jacket, works at a computer in an office setting with white desks, black chairs and indoor plants, looking at the monitor while typing and using a mouse.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A woman with dark curly hair, dressed in an orange top and beige jacket, works at a computer in a bright office featuring white desks, black chairs, and indoor plants. She reviews the monitor, types on the keyboard, and navigates with a mouse.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "3044693-uhd_3840_2160_24fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Because nothing screams excitement like staring at a screen while rhythmically tapping keys.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Oh, the riveting drama of staring at a screen and typing—truly edge‑of‑your‑seat office action.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Because nothing screams “thrilling” like a curly‑haired woman glued to a monitor, typing away and clicking the mouse in a perfectly bland office.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "3044693-uhd_3840_2160_24fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Watch the UI thread and input thread duel for CPU cycles—every keystroke and mouse click a tiny race condition in the office sandbox.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "B_mech_bo1": {
+      "caption": "Watch the classic race condition as the keyboard and mouse both sprint to acquire the UI lock before the monitor can even render a response.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "C_generic_bo3": {
+      "caption": "When the spreadsheet asks for a coffee break, she just hits “Ctrl+Alt+Delete” and pretends the coffee will appear.",
+      "gpt-oss-120b": 3,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "3044693-uhd_3840_2160_24fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "She’s giving the glowing screen a side‑eye while her fingers do the happy dance on the desk.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "B_mech_bo1": {
+      "caption": "She’s locked in a quiet stare‑down with the screen, typing away while the mouse just hangs out for moral support.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "C_generic_bo3": {
+      "caption": "She’s busy conducting the office symphony, waving her mouse like a baton and tapping out a rhythm on the keys.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "3121327-uhd_2560_1440_24fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "The camera pans slowly across a vast mountainous landscape, revealing lush green forests, jagged granite peaks, and expansive valleys beneath a bright, hazy sky.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The camera pans slowly across a vast mountainous landscape, revealing lush green forests, jagged granite rock formations, and expansive peaks beneath a bright, hazy sky.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A sweeping aerial view traverses a vast mountainous terrain, highlighting lush forested slopes, jagged granite peaks, and expansive valleys beneath a bright, hazy sky.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "3121327-uhd_2560_1440_24fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Nothing like a leisurely pan over jagged peaks to remind you just how insignificant your weekend plans really are.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Oh, just another day of modest hills and gentle granite—nothing to write home about.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Wow, just another ordinary stretch of mountains and forests—nothing to write home about.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "3121327-uhd_2560_1440_24fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "When your microservice topology is literally a mountain range—each jagged peak adds a few milliseconds of latency.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Watching latency spikes hit new heights—those jagged peaks are the ultimate performance graphs.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Mountains loading… please wait while the camera scrolls through the great outdoors.",
+      "gpt-oss-120b": 6,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "3121327-uhd_2560_1440_24fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "Those mountains really took “standing tall” to a whole new altitude—no selfie stick needed to capture the drama.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "The camera takes a lazy stroll over the mountains, like it’s bragging about how many peaks it can fit into one breath.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Even the mountains seem to be playing a game of “who’s taller?” as the camera drifts over the jagged peaks and sleepy forests.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "31948459-hd_1920_1080_24fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "Hands type on a laptop keyboard and manipulate the trackpad in an indoor close‑up setting.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Hands type on a laptop keyboard and manipulate the trackpad in an indoor close‑up setting.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A close-up view shows hands typing on a laptop keyboard and subsequently operating the trackpad.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "31948459-hd_1920_1080_24fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Because nothing screams efficiency like a marathon of finger gymnastics on a miniature keyboard and trackpad.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing says edge-of-your-seat excitement like watching fingers dance over a keyboard and tap a trackpad for the hundredth time.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Oh, look at those revolutionary fingers mastering the ancient art of typing and clicking—truly a once‑in‑a‑lifetime display of cutting‑edge laptop wizardry.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "31948459-hd_1920_1080_24fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "When your fingers start a race condition on the keyboard and the trackpad tries to merge the commit, you get a hot‑key conflict before the code even compiles.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 8
+    },
+    "B_mech_bo1": {
+      "caption": "When the keyboard and trackpad start competing for the same CPU cycles, you’ve got a full‑blown race condition right on your desk.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "When you juggle typing and trackpad scrolling at once, and your laptop starts interpreting it as an impromptu dance routine.",
+      "gpt-oss-120b": 7,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "31948459-hd_1920_1080_24fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "Those fingers are busy playing a fast‑forward piano while the little pad pretends it’s a steering wheel.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Those fingers are in a serious meeting—one’s scribbling notes, the other’s scrolling for the perfect snack menu.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "When your fingers think they're auditioning for a piano recital, but the laptop just wants an email.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "34796505-hd_1920_1080_60fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "A vehicle travels forward along a wet street at night, illuminated by street lights, as a traffic signal changes from red to green and the car approaches the green light.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "A vehicle travels forward along a wet street at night, passing under street lights as a traffic signal changes from red to green, and the vehicle approaches the green light.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A vehicle glides forward on a rain‑slick street at night, passing illuminated street lamps as a traffic signal shifts from red to green, allowing the car to proceed through the intersection.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "34796505-hd_1920_1080_60fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Nothing says \"edge-of-your-seat adventure\" like cruising through a rain‑slicked night as the traffic light finally decides to turn green.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing thrills the soul quite like a rain‑slicked road and a traffic light that finally decides to be green.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Because nothing screams excitement like a car inching forward on a wet night street just to reach a green light.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "34796505-hd_1920_1080_60fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Feature flag flipped to green, so the car finally gets the go signal after sitting in the red queue.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "B_mech_bo1": {
+      "caption": "Flipping the traffic‑light feature flag from red to green—watch the car finally get its go‑ahead without a merge conflict.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "C_generic_bo3": {
+      "caption": "Loading… green light acquired, proceeding to destination with zero latency.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "34796505-hd_1920_1080_60fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "The car glides through the rain‑slick night, waiting for the traffic light to flip its mood from “stop‑talk” to “let’s go!” and finally giving a green nod like a traffic‑light therapist.",
+      "gpt-oss-120b": 9,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The car finally spots a green light, because even wet streets need a little encouragement to move along.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "A soggy night‑time dash, rain splashing the windshield as the light flips to green and the car lunges forward like it’s in a slow‑motion dance party.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "5054248-uhd_2560_1440_25fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "On a rooftop overlooking high‑rise buildings, a man in a grey t‑shirt gestures while speaking, a woman in a blue denim shirt smiles and laughs, and a man in a black polo shirt listens and reacts to the conversation.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "A man in a grey t‑shirt gestures while speaking, a woman in a blue denim shirt smiles and laughs, and a man in a black polo shirt listens, all on a rooftop overlooking high‑rise buildings.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "On a rooftop overlooking high‑rise buildings, a man in a grey T‑shirt gestures animatedly while speaking, a woman in a blue denim shirt smiles and laughs, and a man in a black polo shirt listens attentively.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "5054248-uhd_2560_1440_25fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Nothing like a rooftop pow‑wow where hand gestures replace actual words.",
+      "gpt-oss-120b": 9,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing says profound rooftop bonding like a grey tee flailing, a denim grin, and a black polo nodding like they just solved the city’s biggest mystery.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Oh, just another thrilling rooftop symposium where gesturing, laughing, and nodding are clearly the pinnacle of intellectual discourse.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "5054248-uhd_2560_1440_25fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "When the grey‑tee’s hand gestures fire the request, the denim‑shirt’s laugh arrives as the async callback and the black‑polo just keeps polling for the response.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Three rooftop talkers hit a merge conflict—gestures colliding like overlapping code, but the woman’s laugh auto‑resolves the build and the conversation deploys without errors.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "Three coworkers troubleshoot the office Wi‑Fi from the roof, gesturing like they're coding the clouds while the only thing that actually connects is their laughter.",
+      "gpt-oss-120b": 6,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "5054248-uhd_2560_1440_25fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "Three friends on a rooftop turning a simple chat into a full‑blown hand‑gesture comedy show.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Three friends on a rooftop: one’s waving his hands like a conductor, another’s giggling like she just heard the joke, and the third’s trying to follow the conversation without subtitles.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Three friends turn a rooftop chat into a comedy club, gesturing, laughing, and nodding like they’ve just discovered the secret to sky‑high happiness.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "5404543-hd_1920_1080_24fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "Waves crash onto a pebbly beach beneath green cliffs, sending foam to spread across the stones.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Waves crash onto a pebbly beach beneath green cliffs, with foam spreading across the stones.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Waves crash onto a pebbly beach, sending foam across the stones, with verdant cliffs rising in the background.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "5404543-hd_1920_1080_24fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Oh, look—nature's very subtle reminder that even pebbles deserve a foam makeover.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing like a relentless wave‑driven foam spa for those over‑excited pebbles.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Oh great, another groundbreaking performance of waves crashing onto a pebbly beach while the green cliffs just stand there, totally unexpected.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "5404543-hd_1920_1080_24fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Foam spilling over the pebbles like a memory leak—once the wave’s buffer overflows, the shoreline’s heap fills up with suds.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "When a sudden traffic spike hits the server, the wave crashes onto the pebbles, flooding the buffer with foam—classic thundering herd in the wild.",
+      "gpt-oss-120b": 5,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "The ocean’s trying to update the shoreline—waves buffering, foam loading across the pebbles, while the green cliffs stay on standby.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "5404543-hd_1920_1080_24fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "The waves are throwing a foam party on the pebbles, and the beach is the only one who RSVP’d.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The waves keep crashing the party, spraying foam everywhere while the pebbles just stare, wondering who invited the sudsy guests.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "The waves give the pebbles a foamy makeover, turning the beach into nature’s very own sparkle party.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    }
+  },
+  {
+    "clip": "6023186-hd_1920_1080_30fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "Commuters traverse a busy train station platform beneath a metal canopy as a train stands with doors open, allowing passengers to board and alight; some individuals sit on benches while a man watches the train.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "Commuters move along a busy train station platform beneath a metal canopy as a train remains stopped with its doors open, permitting passengers to board and alight; some people sit on benches while a man watches the train.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A train is halted at a bustling station platform beneath a metal canopy, where commuters walk, sit on benches, and passengers board and alight while a man observes the train.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "6023186-hd_1920_1080_30fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Nothing quite captures the thrill of rush hour like a stationary train and a crowd pretending the open doors aren't a free buffet line.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing like a bustling station to remind you that waiting on a metal roof is practically a five‑star lounge experience.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "C_generic_bo3": {
+      "caption": "Nothing like the thrilling sight of endless commuters shuffling, benches filling up, and a train that finally decided to open its doors—what a surprise.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "6023186-hd_1920_1080_30fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Peak‑hour race condition: dozens of commuter threads contending for the same train‑door lock, and the platform finally resolves the deadlock when the doors swing open.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "When the train doors swing open and everyone rushes to board, you’ve got a full‑blown race condition on the platform.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "Waiting for the train feels just like waiting for a software update—everyone’s stuck on the “99%” progress bar.",
+      "gpt-oss-120b": 6,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "7963468-uhd_2560_1440_25fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "A person wearing a striped apron chops diced zucchini on a wooden cutting board while preparing food near a frying pan in a kitchen or outdoor cooking area with greenery in the background.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "A person wearing a striped apron chops diced zucchini on a wooden cutting board while preparing food near a frying pan in a kitchen or outdoor cooking area surrounded by greenery.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "In a kitchen or outdoor cooking area framed by greenery, a person wearing a striped apron chops diced zucchini on a wooden cutting board while preparing ingredients near a frying pan.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "6023186-hd_1920_1080_30fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "He’s the only one treating the train like a mystery box, eyes glued to the doors while everyone else does the usual rush‑hour shuffle.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The platform’s a giant hallway of “who’s in a hurry and who’s just window‑shopping the train,” and that guy over there looks like he’s waiting for the train to hand him a coffee.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "When the train finally shows up, everyone treats it like a free concert—people rush on, some squeeze in like Tetris pieces, and one guy just watches, wondering if he should've brought popcorn.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "7963468-uhd_2560_1440_25fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Oh, because nothing screams gourmet like meticulously chopping zucchini while the pan just waits for its moment of glory.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing screams culinary mastery quite like a striped‑aproned chef meticulously dicing zucchini beside a pan—nature’s very own food‑prep runway.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "Oh, because nothing screams excitement like meticulously dicing zucchini on a cutting board.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "7963468-uhd_2560_1440_25fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Cold start in action: chopping raw zucchini before the pan even warms up, like a service handling requests before any instances are ready.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 9
+    },
+    "B_mech_bo1": {
+      "caption": "Cold start in the kitchen: fire up the pan while the zucchini gets diced—waiting for that first sizzle feels just like a server boot.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "Compiling a perfect dinner: chopping zucchini at 3.2 GHz, slicing bugs with a sharp knife, and letting the pan heat up like a GPU under load.",
+      "gpt-oss-120b": null,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "7963468-uhd_2560_1440_25fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "He’s mastering the art of “zucchini dice”—the only time cutting veggies feels like a strategic board game.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "The zucchini’s getting a fresh haircut before its big debut in the pan—nothing like a tidy trim to spice up dinner.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "When you think life’s a piece of cake, but you’re really just slicing zucchini like a ninja.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "8533913-uhd_2560_1440_25fps.mp4",
+    "style": "formal",
+    "A_mech_bo3": {
+      "caption": "A person in blue shorts and a grey tank top runs from left to right across an outdoor track marked with red lanes and white lines, beside a grassy area and rows of white stadium seats.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "A person wearing blue shorts and a grey tank top runs across the outdoor track from left to right, passing the red lanes and white markings beside the grassy area and stadium seating.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "A person wearing blue shorts and a grey tank top runs from left to right across the red‑lined outdoor track, bordered by a grassy area and rows of white stadium seats.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  },
+  {
+    "clip": "8533913-uhd_2560_1440_25fps.mp4",
+    "style": "sarcastic",
+    "A_mech_bo3": {
+      "caption": "Oh, the sheer excitement of a lone jogger turning a perfectly ordinary track into the pinnacle of athletic drama.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "B_mech_bo1": {
+      "caption": "Nothing screams adrenaline like a casual sprint across a freshly painted rainbow of lanes.",
+      "gpt-oss-120b": 7,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "Wow, what a heart‑stopping marathon across those red lanes—nothing screams excitement like a lone runner in blue shorts breezing from left to right.",
+      "gpt-oss-120b": 9,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "8533913-uhd_2560_1440_25fps.mp4",
+    "style": "humorous_tech",
+    "A_mech_bo3": {
+      "caption": "Spotting a classic race condition: a single thread‑like runner sprinting across the track, racing the clock to finish before the next tick hits the line.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "When the sprint hits a race condition and the track can’t keep up with the thread.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "C_generic_bo3": {
+      "caption": "When the code finally compiles, my legs hit the track like a processor hitting 5 GHz—blue shorts, grey tank, and a real‑world sprint to debug the weekend.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    }
+  },
+  {
+    "clip": "8533913-uhd_2560_1440_25fps.mp4",
+    "style": "humorous_non_tech",
+    "A_mech_bo3": {
+      "caption": "He’s treating the red‑lined track like a runway, sprinting past the seats like he’s late for a very important nap.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": null
+    },
+    "B_mech_bo1": {
+      "caption": "He’s treating the red lanes like a runway for his sneakers, strutting from left to right like a sprint‑model on a mission.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    },
+    "C_generic_bo3": {
+      "caption": "He sprinted like he’d just spotted the ice cream truck at the finish line.",
+      "gpt-oss-120b": 10,
+      "qwen3p7-plus": null,
+      "glm-5p2": 10
+    }
+  }
+]
