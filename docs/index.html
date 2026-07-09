@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TextSink — Four voices. One truth.</title>
+<style>
+  :root { --bg:#0A0D16; --card:#161C2B; --white:#F4F6FA; --muted:#9AA3B8;
+          --amber:#FFC107; --green:#50FF96; --blue:#7FB2FF; --pink:#FF7BAC; }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { background:var(--bg); color:var(--white);
+         font-family:Arial,Helvetica,sans-serif; line-height:1.55; }
+  .wrap { max-width:960px; margin:0 auto; padding:48px 24px; }
+  h1 { font-size:64px; letter-spacing:-1px; }
+  h1 .sink { color:var(--amber); }
+  .tag { font-size:22px; color:var(--muted); font-style:italic;
+         font-family:Georgia,serif; margin:6px 0 4px; }
+  .kicker { color:var(--muted); letter-spacing:3px; font-size:12px;
+            text-transform:uppercase; margin-bottom:10px; }
+  h2 { font-size:26px; margin:56px 0 10px; }
+  p.lead { color:var(--muted); margin-bottom:18px; }
+  img.hero { width:100%; border-radius:10px; display:block; }
+  .grid2 { display:grid; grid-template-columns:1fr 1fr; gap:18px; }
+  @media (max-width:720px){ .grid2{grid-template-columns:1fr;} }
+  .card { background:var(--card); border:1px solid #232B40;
+          border-radius:10px; padding:18px 20px; }
+  .card h3 { font-size:13px; letter-spacing:2px; margin-bottom:8px; }
+  .formal h3{color:var(--blue)} .sarc h3{color:var(--amber)}
+  .tech h3{color:var(--green)} .warm h3{color:var(--pink)}
+  .formal p{font-family:Georgia,serif}
+  .sarc p{font-family:'Courier New',monospace; font-size:14px}
+  .tech p{font-family:'Courier New',monospace; color:var(--green); font-size:14px}
+  .warm p{font-style:italic}
+  .stat { font-size:44px; font-weight:bold; color:var(--amber); }
+  .duo b { color:var(--amber); } .duo .g { color:var(--green); }
+  .duo .p { color:var(--pink); }
+  a { color:var(--amber); }
+  .btn { display:inline-block; background:var(--amber); color:#0A0D16;
+         font-weight:bold; padding:12px 22px; border-radius:8px;
+         text-decoration:none; margin:8px 12px 0 0; }
+  .btn.ghost { background:transparent; color:var(--white);
+               border:1px solid #3a4364; }
+  code { background:#141A28; padding:2px 7px; border-radius:5px;
+         color:var(--green); font-size:13px; }
+  footer { color:var(--muted); font-size:13px; margin-top:64px;
+           border-top:1px solid #232B40; padding-top:18px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="kicker">AMD Developer Hackathon: ACT II · Track 2 · Built on Gemma 4 + Fireworks AI</div>
+  <h1>Text<span class="sink">Sink</span></h1>
+  <div class="tag">Four voices. One truth.</div>
+  <p class="lead">One 30s–2min clip goes in. Four perfectly-toned captions come
+  out — plus live styled closed captions and two AIs arguing about what
+  they're watching.</p>
+  <a class="btn" href="https://github.com/banksythequantLab/textsink">GitHub repo</a>
+  <a class="btn ghost" href="https://github.com/banksythequantLab/textsink#quickstart">Run it yourself</a>
+
+  <h2>One clip. Four voices. Live.</h2>
+  <p class="lead">An official judge clip, captioned in all four contest styles
+  by Gemma 4 — burned as animated typography.</p>
+  <img class="hero" src="fourvoices.gif" alt="Four voices grid">
+
+  <h2>The captions (real output)</h2>
+  <div class="grid2">
+    <div class="card formal"><h3>FORMAL</h3>
+      <p>An orange tabby kitten walks forward through the foliage toward the
+      camera in a wooded area.</p></div>
+    <div class="card sarc"><h3>SARCASTIC</h3>
+      <p>A fierce predator emerges from the brush, ready to conquer the
+      forest one tiny, uncoordinated step at a time.</p></div>
+    <div class="card tech"><h3>HUMOROUS-TECH</h3>
+      <p>$ The latest AI agent successfully navigating its first training
+      environment. Small, but the feature set is looking promising.</p></div>
+    <div class="card warm"><h3>HUMOROUS-NON-TECH</h3>
+      <p>A tiny orange explorer makes a grand entrance, bravely navigating
+      the treacherous jungle of backyard leaves.</p></div>
+  </div>
+
+  <h2>The Hecklers — two models, one argument</h2>
+  <p class="lead">Every line generated live, turn by turn: Gemma 4 vs
+  gpt-oss-120b, each reading the other's last remark. Three duos:
+  <span class="duo"><b>STAN &amp; GUS</b> (sarcastic) · <span class="g">LINT
+  vs VIBE</span> (tech) · <span class="p">DORIS &amp; PEARL</span>
+  (everyday)</span>.</p>
+  <img class="hero" src="hecklers.gif" alt="The Hecklers">
+
+  <h2>Gemma teaches Gemma — and the student wins</h2>
+  <div class="grid2">
+    <div class="card"><div class="stat">18–4</div>
+      <p class="lead">head-to-head wins for the self-trained
+      <code>textsink-g3-captioner</code> over its teacher's prompted
+      best-of-3, scored by a neutral LLM judge on accuracy + tone.</p></div>
+    <div class="card"><div class="stat">0</div>
+      <p class="lead">refusals or empty captions across the full 15-clip
+      dress rehearsal (199s, one-third of the harness budget). Grounding is
+      a discipline: retry → refuse → reroute — never hallucinate.</p></div>
+  </div>
+
+  <h2>The graded contract</h2>
+  <p class="lead">Containerized (linux/amd64), standard Track 2 harness:
+  <code>/input/tasks.json → /output/results.json</code>.</p>
+
+  <footer>TextSink · MIT · Built end-to-end on Gemma 4 via Fireworks AI ·
+  AMD Developer Hackathon: ACT II — Track 2 ·
+  <a href="https://github.com/banksythequantLab/textsink">github.com/banksythequantLab/textsink</a></footer>
+</div>
+</body>
+</html>

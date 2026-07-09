@@ -34,10 +34,13 @@ video turn by turn, every line generated live — sarcastic old men STAN &
 GUS, code-reviewer-vs-vibe-coder LINT & VIBE, and gossiping neighbors
 DORIS & PEARL, matching the three humor styles.
 
-GEMMA TEACHES GEMMA. Gemma 4 drafted candidates at high temperature,
-judged its own drafts on accuracy and tone, and the winners became a
-self-distilled SFT dataset — the model bootstrapping its own captioner
-(tools/build_dataset.py, dataset included in the repo pipeline).
+GEMMA TEACHES GEMMA — AND THE STUDENT WINS. Gemma 4 drafted candidates
+at high temperature, judged its own drafts on accuracy and tone, and the
+winners became a self-distilled SFT dataset. We fine-tuned
+textsink-g3-captioner (Gemma-3-27B LoRA, Fireworks managed SFT) on those
+judged winners: under a neutral LLM judge it beats its teacher's
+prompted best-of-3 output 18-4 head-to-head, scoring higher on every
+style (ab_results.json in the repo).
 
 All demo material was generated on the official hackathon clips. MIT
 licensed. Python 3.11, ffmpeg, plain requests — no framework lock-in.
