@@ -1,0 +1,17 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Segoe UI,46,&H0007C1FF,&H0007C1FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.04,CC,,0,0,0,,{\fad(120,120)}Wait, did I just say that out loud?
+Dialogue: 0,0:00:03.04,0:00:06.08,CC,,0,0,0,,{\fad(120,120)}Better just type it and pretend it was a typo.
+Dialogue: 0,0:00:06.08,0:00:09.12,CC,,0,0,0,,{\fad(120,120)}Just keep typing. Don't look up.
+Dialogue: 0,0:00:09.12,0:00:12.17,CC,,0,0,0,,{\fad(120,120)}Eyes on the prize. Or at least the screen.
+Dialogue: 0,0:00:12.17,0:00:15.21,CC,,0,0,0,,{\fad(120,120)}Typing like my life depends on it.
+Dialogue: 0,0:00:15.21,0:00:18.25,CC,,0,0,0,,{\fad(120,120)}Now, where did all those keys go?

@@ -1,0 +1,116 @@
+{
+  "clip": "5404543-hd_1920_1080_24fps.mp4",
+  "duration": 34.005,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.5,
+      "what": "The camera captures a wide shot of a pebbly beach with gentle waves washing ashore against a backdrop of green cliffs under a hazy sky."
+    },
+    {
+      "start": 2.5,
+      "end": 5.0,
+      "what": "The waves continue to roll onto the dark, pebbly shore, creating white foam as they meet the sand and stones."
+    },
+    {
+      "start": 5.0,
+      "end": 7.5,
+      "what": "The tide moves steadily, with the white surf spreading across the dark pebbles, highlighting the texture of the shoreline."
+    },
+    {
+      "start": 7.5,
+      "end": 10.0,
+      "what": "The scene remains consistent, showing the rhythmic movement of the ocean waves hitting the pebbly beach near the base of the cliffs."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 8.5,
+        "text": "Waves approach a pebbly beach beneath green cliffs."
+      },
+      {
+        "start": 8.5,
+        "end": 17.0,
+        "text": "White foam forms upon the dark stones."
+      },
+      {
+        "start": 17.0,
+        "end": 25.5,
+        "text": "The tide continues its movement across the pebbles."
+      },
+      {
+        "start": 25.5,
+        "end": 34.01,
+        "text": "The rhythmic ocean movement persists."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 8.5,
+        "text": "Wow. A beach. Groundbreaking."
+      },
+      {
+        "start": 8.5,
+        "end": 17.0,
+        "text": "Water hitting rocks. Truly peak cinematic tension."
+      },
+      {
+        "start": 17.0,
+        "end": 25.5,
+        "text": "The surf is doing its thing. Riveting."
+      },
+      {
+        "start": 25.5,
+        "end": 34.01,
+        "text": "Still rocks. Still water. Keep the applause coming."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 8.5,
+        "text": "System boot sequence initiated. Loading scenic environment..."
+      },
+      {
+        "start": 8.5,
+        "end": 17.0,
+        "text": "A recurring loop error in the wave physics engine."
+      },
+      {
+        "start": 17.0,
+        "end": 25.5,
+        "text": "Infinite loop detected. Memory leak approaching the shoreline."
+      },
+      {
+        "start": 25.5,
+        "end": 34.01,
+        "text": "Deployment failed. Reverting to original ocean.exe."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 8.5,
+        "text": "Nature's way of saying, 'I need a nap.'"
+      },
+      {
+        "start": 8.5,
+        "end": 17.0,
+        "text": "The ocean is just doing its laundry again."
+      },
+      {
+        "start": 17.0,
+        "end": 25.5,
+        "text": "Wash, rinse, repeat. No detergent required."
+      },
+      {
+        "start": 25.5,
+        "end": 34.01,
+        "text": "Still washing. Still napping. Send snacks."
+      }
+    ]
+  }
+}

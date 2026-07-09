@@ -1,0 +1,16 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Courier New,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:15.20,CC,,0,0,0,,{\fad(120,120)}Groundbreaking scenery. Truly a cinematic masterpiece.
+Dialogue: 0,0:00:15.20,0:00:19.30,CC,,0,0,0,,{\fad(120,120)}Oh look, a dog. How utterly unexpected.
+Dialogue: 0,0:00:19.30,0:00:25.40,CC,,0,0,0,,{\fad(120,120)}He is running. Riveting stuff.
+Dialogue: 0,0:00:25.40,0:00:31.50,CC,,0,0,0,,{\fad(120,120)}Still running. The suspense is actually killing me.
+Dialogue: 0,0:00:31.50,0:00:36.57,CC,,0,0,0,,{\fad(120,120)}And he's still going. A real marathon athlete.

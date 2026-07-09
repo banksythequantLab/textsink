@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:15,199
+A sunny green field sits before a line of trees.
+
+2
+00:00:15,199 --> 00:00:19,300
+A dog enters the field and runs toward the trees.
+
+3
+00:00:19,300 --> 00:00:25,399
+The dog continues its movement across the grass.
+
+4
+00:00:25,399 --> 00:00:31,500
+The dog moves further into the distance.
+
+5
+00:00:31,500 --> 00:00:36,569
+The dog maintains its course toward the tree line.

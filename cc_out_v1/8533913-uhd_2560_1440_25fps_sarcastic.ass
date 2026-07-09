@@ -1,0 +1,17 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Courier New,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.95,CC,,0,0,0,,{\fad(120,120)}A truly breathtaking display of cardio begins.
+Dialogue: 0,0:00:01.95,0:00:03.26,CC,,0,0,0,,{\fad(120,120)}Look at that blistering pace. Absolutely electric.
+Dialogue: 0,0:00:03.26,0:00:04.56,CC,,0,0,0,,{\fad(120,120)}He is definitely winning this race against himself.
+Dialogue: 0,0:00:04.56,0:00:05.86,CC,,0,0,0,,{\fad(120,120)}Still running. The momentum is truly staggering.
+Dialogue: 0,0:00:05.86,0:00:07.17,CC,,0,0,0,,{\fad(120,120)}The sheer athleticism is almost too much to handle.
+Dialogue: 0,0:00:07.17,0:00:09.12,CC,,0,0,0,,{\fad(120,120)}And he exits, leaving us all in his dust.

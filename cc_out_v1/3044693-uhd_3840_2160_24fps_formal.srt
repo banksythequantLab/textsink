@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:03,040
+The subject observes the monitor with confusion.
+
+2
+00:00:03,040 --> 00:00:06,080
+The subject resumes keyboard input.
+
+3
+00:00:06,080 --> 00:00:09,119
+The subject continues keyboard input.
+
+4
+00:00:09,119 --> 00:00:12,119
+The subject maintains intense focus on the monitor.
+
+5
+00:00:12,169 --> 00:00:15,210
+The subject performs steady keyboard input.
+
+6
+00:00:15,210 --> 00:00:18,250
+The subject inspects the keyboard during input.

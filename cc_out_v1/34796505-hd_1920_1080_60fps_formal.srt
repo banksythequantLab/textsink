@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:06,750
+The camera moves through a dark, narrow street.
+
+2
+00:00:06,750 --> 00:00:13,490
+The vehicle approaches a wet, reflective road surface.
+
+3
+00:00:13,490 --> 00:00:20,239
+Green and red lights appear through the darkness.
+
+4
+00:00:20,239 --> 00:00:26,989
+The vehicle passes under blurred streaks of light.
+
+5
+00:00:26,989 --> 00:00:33,729
+The wet pavement reflects the distant lights.

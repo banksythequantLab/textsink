@@ -1,0 +1,166 @@
+{
+  "clip": "2697636-uhd_1920_1440_30fps.mp4",
+  "duration": 6.655,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "what": "The scene opens with a wide view of a busy city intersection. Pedestrians are crossing the street in various directions, and several vehicles, including buses and cars, are visible. Large buildings with digital advertisements line the streets."
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "what": "The camera remains stationary, capturing the continuous flow of traffic and pedestrians. A white van and a bus move through the intersection, while people continue to walk across the crosswalks."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "what": "The movement of people and vehicles continues. A black car and a white van are seen navigating the intersection. The large digital screens on the buildings remain prominent in the background."
+    },
+    {
+      "start": 15.0,
+      "end": 20.0,
+      "what": "The scene shows a steady stream of pedestrians crossing the street. A white truck and a bus are visible in the intersection, and the overall urban activity remains high."
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "what": "The intersection remains busy with pedestrians and vehicles. A white van and a red car are seen moving through the area, and the large buildings with advertisements continue to dominate the skyline."
+    },
+    {
+      "start": 25.0,
+      "end": 30.0,
+      "what": "The shot continues to capture the bustling activity of the intersection. Pedestrians are seen walking in different directions, and various vehicles like buses and cars move through the streets."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Pedestrians and vehicles navigate a busy city intersection."
+      },
+      {
+        "start": 5.0,
+        "end": 10.0,
+        "text": "A white van and a bus move through the intersection."
+      },
+      {
+        "start": 10.0,
+        "end": 15.0,
+        "text": "A black car and a white van navigate the area."
+      },
+      {
+        "start": 15.0,
+        "end": 20.0,
+        "text": "A white truck and a bus pass through the intersection."
+      },
+      {
+        "start": 20.0,
+        "end": 25.0,
+        "text": "A white van and a red car enter the intersection."
+      },
+      {
+        "start": 25.0,
+        "end": 30.0,
+        "text": "Pedestrians and vehicles continue to occupy the intersection."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "Behold, the peak of human civilization."
+      },
+      {
+        "start": 5.0,
+        "end": 10.0,
+        "text": "Truly riveting stuff happening here."
+      },
+      {
+        "start": 10.0,
+        "end": 15.0,
+        "text": "Another white van. Groundbreaking."
+      },
+      {
+        "start": 15.0,
+        "end": 20.0,
+        "text": "The adrenaline is simply overwhelming."
+      },
+      {
+        "start": 20.0,
+        "end": 25.0,
+        "text": "Still just cars and buildings. Riveting."
+      },
+      {
+        "start": 25.0,
+        "end": 30.0,
+        "text": "I might need a nap after this excitement."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "The production environment is looking extremely chaotic today."
+      },
+      {
+        "start": 5.0,
+        "end": 10.0,
+        "text": "Too many concurrent requests hitting the main thread."
+      },
+      {
+        "start": 10.0,
+        "end": 15.0,
+        "text": "Looks like a massive race condition in the intersection."
+      },
+      {
+        "start": 15.0,
+        "end": 20.0,
+        "text": "Traffic latency is spiking across all user nodes."
+      },
+      {
+        "start": 20.0,
+        "end": 25.0,
+        "text": "Still no sign of a successful deployment."
+      },
+      {
+        "start": 25.0,
+        "end": 30.0,
+        "text": "Just infinite loops of pedestrians and buses."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "The city is doing its best to be everywhere at once."
+      },
+      {
+        "start": 5.0,
+        "end": 10.0,
+        "text": "Just another day of everyone having places to be."
+      },
+      {
+        "start": 10.0,
+        "end": 15.0,
+        "text": "The traffic is flowing, or at least trying its best."
+      },
+      {
+        "start": 15.0,
+        "end": 20.0,
+        "text": "More people, more cars, more organized chaos."
+      },
+      {
+        "start": 20.0,
+        "end": 25.0,
+        "text": "Still moving, still busy, still very much alive."
+      },
+      {
+        "start": 25.0,
+        "end": 30.0,
+        "text": "And they say nothing ever happens in this town."
+      }
+    ]
+  }
+}

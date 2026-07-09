@@ -1,0 +1,116 @@
+{
+  "clip": "12122308-uhd_2560_1440_24fps.mp4",
+  "duration": 6.506667,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "what": "The camera pans slowly across the skyline of Manhattan, showing the dense cluster of skyscrapers during twilight."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "what": "The view shifts slightly, capturing the golden light reflecting off the glass facades of the buildings."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "what": "The camera continues its steady movement, revealing more of the waterfront and the piers along the Hudson River."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "what": "The skyline remains the central focus, with the soft evening light casting long shadows and highlighting the architectural details of the skyscrapers."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "The camera pans across the Manhattan skyline at twilight."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Golden light reflects off glass building facades."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "The view reveals the Hudson River waterfront and piers."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Evening light highlights the architectural details of the skyline."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Behold, a stunning collection of concrete and glass."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Wow, look at that sunlight hitting the windows. Revolutionary."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Now there is water. Truly, we are witnessing history."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Another shadow. Try to contain your excitement, everyone."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Scanning the production environment for any signs of life."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "The UI looks great, but the backend is still dark."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Checking the waterfront for any leaked API keys."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Still no bugs detected in this beautiful deployment."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "So many buildings, so little time."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Even the windows are blushing."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Now we're just window shopping."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Still just window shopping."
+      }
+    ]
+  }
+}

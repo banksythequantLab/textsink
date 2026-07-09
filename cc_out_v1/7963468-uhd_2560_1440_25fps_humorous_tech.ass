@@ -1,0 +1,15 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Consolas,46,&H0050FF50,&H0050FF50,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.14,CC,,0,0,0,,{\fad(120,120)}Refactoring the zucchini codebase.
+Dialogue: 0,0:00:02.14,0:00:04.28,CC,,0,0,0,,{\fad(120,120)}Breaking down large monolithic chunks.
+Dialogue: 0,0:00:04.28,0:00:06.42,CC,,0,0,0,,{\fad(120,120)}Optimizing the vegetable functions.
+Dialogue: 0,0:00:06.42,0:00:08.56,CC,,0,0,0,,{\fad(120,120)}Deployment complete. Zero bugs detected.

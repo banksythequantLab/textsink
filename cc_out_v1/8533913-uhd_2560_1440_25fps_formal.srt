@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:01,950
+A man in blue attire enters the frame from the left.
+
+2
+00:00:01,950 --> 00:00:03,259
+The subject maintains a steady pace across the track.
+
+3
+00:00:03,259 --> 00:00:04,559
+The subject passes the lane markings.
+
+4
+00:00:04,559 --> 00:00:05,860
+The subject continues his lateral movement.
+
+5
+00:00:05,860 --> 00:00:07,169
+The subject approaches the right edge of the frame.
+
+6
+00:00:07,169 --> 00:00:09,119
+The subject exits the frame to the right.

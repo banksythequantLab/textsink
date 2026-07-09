@@ -1,0 +1,166 @@
+{
+  "clip": "5054248-uhd_2560_1440_25fps.mp4",
+  "duration": 9.36,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 1.0,
+      "what": "The group is engaged in conversation; the man in the grey shirt is gesturing while talking, and the woman in the blue shirt is smiling."
+    },
+    {
+      "start": 1.0,
+      "end": 2.0,
+      "what": "The man in the grey shirt continues talking and laughing, while the man in the black shirt listens attentively."
+    },
+    {
+      "start": 2.0,
+      "end": 3.0,
+      "what": "The woman in the blue shirt laughs heartily, and the man in the black shirt smiles as they all interact around the table."
+    },
+    {
+      "start": 3.0,
+      "end": 4.0,
+      "what": "The man in the grey shirt leans forward slightly, still gesturing, as the group continues their lively discussion."
+    },
+    {
+      "start": 4.0,
+      "end": 5.0,
+      "what": "The man in the black shirt reacts to the conversation, and the woman continues to smile and enjoy the moment."
+    },
+    {
+      "start": 5.0,
+      "end": 6.0,
+      "what": "The group maintains their cheerful atmosphere, with the man in the grey shirt and the man in the black shirt actively engaging with each other."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 1.56,
+        "text": "A man in grey gestures during a conversation."
+      },
+      {
+        "start": 1.56,
+        "end": 3.12,
+        "text": "The man in grey continues to speak and laugh."
+      },
+      {
+        "start": 3.12,
+        "end": 4.68,
+        "text": "A woman in blue laughs at the table."
+      },
+      {
+        "start": 4.68,
+        "end": 6.24,
+        "text": "The man in grey leans forward while gesturing."
+      },
+      {
+        "start": 6.24,
+        "end": 7.8,
+        "text": "The man in black reacts to the ongoing discussion."
+      },
+      {
+        "start": 7.8,
+        "end": 9.36,
+        "text": "The men in grey and black engage with each other."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 1.56,
+        "text": "Riveting conversation underway."
+      },
+      {
+        "start": 1.56,
+        "end": 3.12,
+        "text": "Truly a masterclass in storytelling."
+      },
+      {
+        "start": 3.12,
+        "end": 4.68,
+        "text": "The comedy is simply unparalleled."
+      },
+      {
+        "start": 4.68,
+        "end": 6.24,
+        "text": "He gestures with such profound importance."
+      },
+      {
+        "start": 6.24,
+        "end": 7.8,
+        "text": "Still captivated by this high-stakes drama."
+      },
+      {
+        "start": 7.8,
+        "end": 9.36,
+        "text": "Clearly, nobody wants this to end."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 1.56,
+        "text": "Explaining why the legacy code actually works fine."
+      },
+      {
+        "start": 1.56,
+        "end": 3.12,
+        "text": "It's not a bug, it's a feature."
+      },
+      {
+        "start": 3.12,
+        "end": 4.68,
+        "text": "The team loves a good technical debt joke."
+      },
+      {
+        "start": 4.68,
+        "end": 6.24,
+        "text": "He doubles down on his architectural vision."
+      },
+      {
+        "start": 6.24,
+        "end": 7.8,
+        "text": "The senior dev is questioning everything."
+      },
+      {
+        "start": 7.8,
+        "end": 9.36,
+        "text": "They all agree to ignore it until Monday."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 1.56,
+        "text": "He’s definitely telling that one story again."
+      },
+      {
+        "start": 1.56,
+        "end": 3.12,
+        "text": "And everyone is pretending it’s new."
+      },
+      {
+        "start": 3.12,
+        "end": 4.68,
+        "text": "The laughter is getting a little too loud."
+      },
+      {
+        "start": 4.68,
+        "end": 6.24,
+        "text": "He leans in to make it even more dramatic."
+      },
+      {
+        "start": 6.24,
+        "end": 7.8,
+        "text": "Somebody please tell him to breathe."
+      },
+      {
+        "start": 7.8,
+        "end": 9.36,
+        "text": "Still laughing, still dramatic, same old story."
+      }
+    ]
+  }
+}

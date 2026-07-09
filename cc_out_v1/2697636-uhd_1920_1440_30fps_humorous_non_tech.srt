@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:05,000
+The city is doing its best to be everywhere at once.
+
+2
+00:00:05,000 --> 00:00:06,655
+Just another day of everyone having places to be.
+
+3
+00:00:10,000 --> 00:00:06,655
+The traffic is flowing, or at least trying its best.
+
+4
+00:00:15,000 --> 00:00:06,655
+More people, more cars, more organized chaos.
+
+5
+00:00:20,000 --> 00:00:06,655
+Still moving, still busy, still very much alive.
+
+6
+00:00:25,000 --> 00:00:06,655
+And they say nothing ever happens in this town.

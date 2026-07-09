@@ -29,7 +29,9 @@ for clip in sorted(glob.glob("official_clips/*.mp4")):
              "[0:v]scale=640:-2[a];[1:v]scale=640:-2[b];"
              "[2:v]scale=640:-2[c];[3:v]scale=640:-2[d];"
              "[a][b][c][d]xstack=inputs=4:layout=0_0|w0_0|0_h0|w0_h0,"
-             "format=yuv420p[v]",
+             # letterbox below the grid so player controls never cover
+             # the bottom quadrants' captions (esp. in fullscreen)
+             "pad=iw:ih+84:0:0:0x0A0D16,format=yuv420p[v]",
              "-map", "[v]", "-an", "-c:v", "libx264", "-preset", "veryfast",
              "-crf", "24", "-movflags", "+faststart", out]
     r = subprocess.run(args, capture_output=True, text=True)

@@ -1,0 +1,15 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Georgia,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.62,CC,,0,0,0,,{\fad(120,120)}An aerial view shows a vast, hazy mountain range.
+Dialogue: 0,0:00:03.62,0:00:07.23,CC,,0,0,0,,{\fad(120,120)}The camera pans across rugged, misty terrain.
+Dialogue: 0,0:00:07.23,0:00:10.85,CC,,0,0,0,,{\fad(120,120)}The view sweeps over green ridges and rocky cliffs.
+Dialogue: 0,0:00:10.85,0:00:14.46,CC,,0,0,0,,{\fad(120,120)}Distant peaks fade into the mountain haze.

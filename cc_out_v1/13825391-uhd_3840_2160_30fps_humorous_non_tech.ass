@@ -1,0 +1,16 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Segoe UI,46,&H0007C1FF,&H0007C1FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.60,0:00:03.10,CC,,0,0,0,,{\fad(120,120)}Target spotted in the wild.
+Dialogue: 0,0:00:03.10,0:00:05.60,CC,,0,0,0,,{\fad(120,120)}Commencing the adorable approach.
+Dialogue: 0,0:00:05.60,0:00:08.00,CC,,0,0,0,,{\fad(120,120)}Moving in for the cuteness.
+Dialogue: 0,0:00:08.00,0:00:10.50,CC,,0,0,0,,{\fad(120,120)}Watch out, here comes the tiny paws.
+Dialogue: 0,0:00:10.50,0:00:12.37,CC,,0,0,0,,{\fad(120,120)}Full-scale fluff invasion imminent.

@@ -1,0 +1,23 @@
+1
+00:00:00,000 --> 00:00:05,000
+Pedestrians and vehicles navigate a busy city intersection.
+
+2
+00:00:05,000 --> 00:00:06,655
+A white van and a bus move through the intersection.
+
+3
+00:00:10,000 --> 00:00:06,655
+A black car and a white van navigate the area.
+
+4
+00:00:15,000 --> 00:00:06,655
+A white truck and a bus pass through the intersection.
+
+5
+00:00:20,000 --> 00:00:06,655
+A white van and a red car enter the intersection.
+
+6
+00:00:25,000 --> 00:00:06,655
+Pedestrians and vehicles continue to occupy the intersection.

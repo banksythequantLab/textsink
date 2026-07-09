@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,259
+Preparing to push to production on a Friday afternoon.
+
+2
+00:00:02,259 --> 00:00:04,530
+Typing code that definitely works on my local machine.
+
+3
+00:00:04,530 --> 00:00:06,790
+Adding more technical debt with every single keystroke.
+
+4
+00:00:06,790 --> 00:00:09,050
+Refactoring the same function for the fifth time today.

@@ -1,0 +1,19 @@
+1
+00:00:00,600 --> 00:00:03,100
+Initial system check: environment appears stable.
+
+2
+00:00:03,100 --> 00:00:05,599
+Initiating deployment sequence.
+
+3
+00:00:05,599 --> 00:00:08,000
+Pushing code to production...
+
+4
+00:00:08,000 --> 00:00:10,500
+Wait, I see a bug in the bushes.
+
+5
+00:00:10,500 --> 00:00:12,366
+Critical error: production is now offline.

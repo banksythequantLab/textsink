@@ -1,0 +1,141 @@
+{
+  "clip": "34796505-hd_1920_1080_60fps.mp4",
+  "duration": 33.7337,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "what": "The camera moves forward through a dark, narrow street; streetlights create streaks of yellow light against the dark periphery. |"
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "what": "The vehicle approaches a wet road surface that reflects yellow and green light from overhead sources. |"
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "what": "A distant set of green and red lights (likely a traffic signal or vehicle lights) becomes visible through the darkness and rain/fog. |"
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "what": "The vehicle continues moving forward, passing under the glow of streetlights that appear as blurred streaks. |"
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "what": "The view focuses on the wet pavement reflecting the green and red lights ahead as the vehicle progresses through the dark corridor. |"
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 6.75,
+        "text": "The camera moves through a dark, narrow street."
+      },
+      {
+        "start": 6.75,
+        "end": 13.49,
+        "text": "The vehicle approaches a wet, reflective road surface."
+      },
+      {
+        "start": 13.49,
+        "end": 20.24,
+        "text": "Green and red lights appear through the darkness."
+      },
+      {
+        "start": 20.24,
+        "end": 26.99,
+        "text": "The vehicle passes under blurred streaks of light."
+      },
+      {
+        "start": 26.99,
+        "end": 33.73,
+        "text": "The wet pavement reflects the distant lights."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 6.75,
+        "text": "A thrilling tour of a very dark alleyway."
+      },
+      {
+        "start": 6.75,
+        "end": 13.49,
+        "text": "Oh look, a puddle. Riveting."
+      },
+      {
+        "start": 13.49,
+        "end": 20.24,
+        "text": "Some blurry lights. Truly a cinematic masterpiece."
+      },
+      {
+        "start": 20.24,
+        "end": 26.99,
+        "text": "More streaks of yellow. Groundbreaking stuff."
+      },
+      {
+        "start": 26.99,
+        "end": 33.73,
+        "text": "Still just wet pavement. My excitement is peaking."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 6.75,
+        "text": "Navigating through a legacy codebase in the middle of the night."
+      },
+      {
+        "start": 6.75,
+        "end": 13.49,
+        "text": "Everything is slippery and nothing is properly documented."
+      },
+      {
+        "start": 13.49,
+        "end": 20.24,
+        "text": "Found a critical error in the production environment."
+      },
+      {
+        "start": 20.24,
+        "end": 26.99,
+        "text": "Just trying to deploy without breaking everything."
+      },
+      {
+        "start": 26.99,
+        "end": 33.73,
+        "text": "The bugs are everywhere and they are reflecting everywhere."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 6.75,
+        "text": "Driving through a moody music video."
+      },
+      {
+        "start": 6.75,
+        "end": 13.49,
+        "text": "The road is extra shiny today."
+      },
+      {
+        "start": 13.49,
+        "end": 20.24,
+        "text": "Found some colorful lights in the mist."
+      },
+      {
+        "start": 20.24,
+        "end": 26.99,
+        "text": "Still very much in my music video."
+      },
+      {
+        "start": 26.99,
+        "end": 33.73,
+        "text": "Just me, the rain, and the disco pavement."
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:06,750
+Navigating through a legacy codebase in the middle of the night.
+
+2
+00:00:06,750 --> 00:00:13,490
+Everything is slippery and nothing is properly documented.
+
+3
+00:00:13,490 --> 00:00:20,239
+Found a critical error in the production environment.
+
+4
+00:00:20,239 --> 00:00:26,989
+Just trying to deploy without breaking everything.
+
+5
+00:00:26,989 --> 00:00:33,729
+The bugs are everywhere and they are reflecting everywhere.

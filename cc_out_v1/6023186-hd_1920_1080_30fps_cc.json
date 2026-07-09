@@ -1,0 +1,141 @@
+{
+  "clip": "6023186-hd_1920_1080_30fps.mp4",
+  "duration": 29.433333,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "what": "The scene opens with a wide shot of a busy train station platform. A man is sitting on a metal bench on the left, looking at his phone. In the background, a train is parked at the platform, and several people are walking around the station. The station has a high, industrial-style ceiling with metal beams and lights."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "what": "The camera remains relatively still, capturing the movement of people on the platform. A man in a dark shirt and pants walks towards the camera, passing by the seated man. The train remains stationary, and the overall atmosphere is one of a typical, bustling train station."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "what": "The scene continues with the same view of the platform. More people are seen walking in different directions, and the train is still visible in the background. The lighting from the station's ceiling creates reflections on the polished floor."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "what": "The camera angle and composition remain consistent, showing the ongoing activity on the platform. The man who was walking earlier has moved out of the frame, and new individuals enter and exit the scene. The train is still parked at the platform."
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "what": "The video concludes with a final view of the station platform. The man on the bench is still there, and the general movement of commuters continues. The scene ends with the same wide shot of the station, capturing the rhythmic flow of the station's daily life."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 5.89,
+        "text": "A man sits on a bench in a busy train station."
+      },
+      {
+        "start": 5.89,
+        "end": 11.77,
+        "text": "A man in dark clothing walks past the seated man."
+      },
+      {
+        "start": 11.77,
+        "end": 17.66,
+        "text": "Commuters walk across the polished station floor."
+      },
+      {
+        "start": 17.66,
+        "end": 23.55,
+        "text": "Individuals enter and exit the station platform."
+      },
+      {
+        "start": 23.55,
+        "end": 29.43,
+        "text": "The man remains on the bench amidst ongoing commuter movement."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 5.89,
+        "text": "Riveting action in this high-octane transit hub."
+      },
+      {
+        "start": 5.89,
+        "end": 11.77,
+        "text": "A man walks. Truly, the peak of human achievement."
+      },
+      {
+        "start": 11.77,
+        "end": 17.66,
+        "text": "More walking. My pulse is racing."
+      },
+      {
+        "start": 17.66,
+        "end": 23.55,
+        "text": "The train stays still. Such relentless momentum."
+      },
+      {
+        "start": 23.55,
+        "end": 29.43,
+        "text": "Another day of pure, unadulterated excitement."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 5.89,
+        "text": "Waiting for the production server to finish its morning boot sequence."
+      },
+      {
+        "start": 5.89,
+        "end": 11.77,
+        "text": "New features walking past like they aren't breaking everything."
+      },
+      {
+        "start": 11.77,
+        "end": 17.66,
+        "text": "Too many concurrent users and the latency is getting real."
+      },
+      {
+        "start": 17.66,
+        "end": 23.55,
+        "text": "Just a bunch of legacy processes moving in circles."
+      },
+      {
+        "start": 23.55,
+        "end": 29.43,
+        "text": "Still waiting for that deployment to actually finish."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 5.89,
+        "text": "Just another day of staring at a tiny glowing rectangle."
+      },
+      {
+        "start": 5.89,
+        "end": 11.77,
+        "text": "Everyone is walking somewhere important. I am not."
+      },
+      {
+        "start": 11.77,
+        "end": 17.66,
+        "text": "The floor is shinier than my future."
+      },
+      {
+        "start": 17.66,
+        "end": 23.55,
+        "text": "People coming, people going. Still sitting."
+      },
+      {
+        "start": 23.55,
+        "end": 29.43,
+        "text": "Still here. Still waiting. Still staring."
+      }
+    ]
+  }
+}
