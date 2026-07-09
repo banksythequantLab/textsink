@@ -74,7 +74,10 @@ the fence). Spice dial goes to eleven; grounding rules still apply.
 ```bash
 cp .env.example .env          # add your FIREWORKS_API_KEY
 
-# Harness mode (what gets graded)
+# Prebuilt image (linux/amd64) - no build needed:
+docker pull ghcr.io/banksythequantlab/textsink:latest
+
+# Or build it yourself (harness mode - what gets graded)
 docker buildx build --platform linux/amd64 -t textsink .
 docker run --rm -e FIREWORKS_API_KEY=fw_... \
   -v "$(pwd)/test_input:/input:ro" -v "$(pwd)/out:/output" textsink
