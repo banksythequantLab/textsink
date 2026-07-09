@@ -199,6 +199,14 @@ def get_beats(client, cfg, path, n_frames=20):
               file=sys.stderr)
     if not beats:
         raise RuntimeError("no beats extracted after 3 attempts")
+    # Models routinely ignore timestamp labels and emit compressed times
+    # (e.g. beats ending at 10s for a 57s clip). Rescale to real duration.
+    last_end = max(float(b["end"]) for b in beats)
+    if dur > 0 and 0 < last_end < 0.85 * dur:
+        k = dur / last_end
+        for b in beats:
+            b["start"] = round(float(b["start"]) * k, 2)
+            b["end"] = round(float(b["end"]) * k, 2)
     return beats, dur
 
 

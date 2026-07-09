@@ -105,13 +105,14 @@ def _line(client, model, system, beat, convo, reasoning):
     return txt.splitlines()[0][:120] if txt else "..."
 
 
-def argue(client, cfg, beats, spice, flavor="sarcastic"):
+def argue(client, cfg, beats, spice, flavor="sarcastic", dur=0.0):
     name_a, sys_a, name_b, sys_b = PERSONAS[flavor]
     stan_sys = sys_a.format(spice=SPICE[spice])
     gus_sys = sys_b.format(spice=SPICE[spice])
     convo, timed = [], []
     cursor, turn, bi = 0.0, 0, 0
-    total_end = float(beats[-1]["end"])
+    # talk must span the whole video, not just the reported beats
+    total_end = max(float(beats[-1]["end"]), float(dur) - 0.2)
     MIN_LINE = 1.8   # quick TV-comedy pacing
     MAX_LINE = 3.2
     while cursor < total_end - 0.8:
@@ -196,7 +197,7 @@ def main() -> int:
     beats, dur = get_beats(client, cfg, args.clip)
     print(f"[hecklers] {len(beats)} beats; the argument begins "
           f"(flavor={args.flavor}, spice={args.spice}) ...", file=sys.stderr)
-    timed = argue(client, cfg, beats, args.spice, args.flavor)
+    timed = argue(client, cfg, beats, args.spice, args.flavor, dur)
     for ln in timed:
         print(f"  [{ln['start']:.1f}s] {ln['who']}: {ln['text']}",
               file=sys.stderr)
