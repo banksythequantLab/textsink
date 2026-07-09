@@ -51,9 +51,10 @@ Gemma, Fireworks AI, AMD Developer Cloud, Docker, FFmpeg, Python
 ## Category tags
 Video Captioning (Track 2), Best Use of Gemma
 
-## Links (fill at submit time)
+## Links
 - GitHub: https://github.com/banksythequantLab/textsink
-- Video presentation: (upload 2:45 demo)
-- Slides: submission/TextSink_Track2.pdf (re-export with real captions)
+- Application URL: https://banksythequantlab.github.io/textsink/
+- Video presentation: demo_kit/TextSink_demo_roughcut_v2.mp4 (upload file)
+- Slides: submission/TextSink_Track2.pdf
 - Cover image: submission/cover.png
-- Demo URL: (Streamlit or repo GIF page)
+- Container: ghcr.io/banksythequantlab/textsink:latest (public)

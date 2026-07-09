@@ -24,3 +24,12 @@ cc_out/
 heckle_out/
 dataset/
 test_input/results*.json
+
+# Internal working docs (kept local, not for judges)
+HANDOFF.md
+SECOND_OPINION_BRIEF.md
+SUBMIT.md
+all_dialogue.txt
+task.md
+run_err.txt
+run_log.txt
