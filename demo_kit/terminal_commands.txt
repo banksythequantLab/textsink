@@ -1,0 +1,9 @@
+# SEG 2 - the live graded run (paste as one line into PowerShell)
+
+cd B:\amd-track2-captioner; $env:INPUT_PATH='B:\amd-track2-captioner\test_input\tasks.json'; $env:OUTPUT_PATH='B:\amd-track2-captioner\demo_kit\results.json'; $env:BEST_OF='3'; python -u main.py
+
+# then show the output:
+Get-Content B:\amd-track2-captioner\demo_kit\results.json
+
+# (optional docker flex instead - slower to show, same result:)
+# docker run --rm -e FIREWORKS_API_KEY=$KEY -v C:\Users\solti\textsink_test\input:/input:ro -v C:\Users\solti\textsink_test\out:/output textsink

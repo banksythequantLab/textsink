@@ -1,0 +1,29 @@
+[
+  {
+    "task_id": "v1",
+    "captions": {
+      "formal": "Vehicles navigate through an intersection on a multi-lane city road lined with autumn trees and high-rise buildings. The text UNIFORM INSURANCE appears on the screen.",
+      "sarcastic": "A busy city intersection filled with moving cars, buses, and trucks under bright autumn skies. The scene features yellow-leaved trees and high-rise buildings with UNIFORM INSURANCE text on screen.",
+      "humorous_tech": "When the traffic flow hits peak latency and you're just waiting for the intersection to resolve its next request.",
+      "humorous_non_tech": "The city is in a hurry today, but those autumn leaves are clearly just taking it slow."
+    }
+  },
+  {
+    "task_id": "v2",
+    "captions": {
+      "formal": "An orange kitten sits in a sun‑dappled forest clearing, then rises and walks toward the camera, approaching closely with its tail raised.",
+      "sarcastic": "Because nothing says \"wild adventure\" like a tiny orange fluff boldly invading the camera’s personal space.",
+      "humorous_tech": "Feature flag flipped: tail_up = true, and the kitten instantly walks straight into the viewport.",
+      "humorous_non_tech": "The kitten’s on a mission: get up close and personal so we can admire its impeccable tail‑up fashion sense."
+    }
+  },
+  {
+    "task_id": "v3",
+    "captions": {
+      "formal": "A woman with a high bun, wearing a beige jacket and orange top, sits at a desk in a modern office, looks at her computer monitor and types, focusing on her hands.",
+      "sarcastic": "Nothing screams thrill like the riveting glow of a monitor and the gentle clack of keys.",
+      "humorous_tech": "When your eyes and fingers end up in a race condition—monitor refreshes while you type, and the UI always wins.",
+      "humorous_non_tech": "She’s typing so intently the keyboard’s considering a union break."
+    }
+  }
+]
