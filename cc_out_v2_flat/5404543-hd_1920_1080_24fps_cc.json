@@ -1,0 +1,116 @@
+{
+  "clip": "5404543-hd_1920_1080_24fps.mp4",
+  "duration": 34.005,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 8.5,
+      "what": "Waves crash gently onto a pebbly beach with white foam."
+    },
+    {
+      "start": 8.5,
+      "end": 17.0,
+      "what": "White waves roll onto the dark, pebbly shoreline."
+    },
+    {
+      "start": 17.0,
+      "end": 25.5,
+      "what": "Foamy ocean waves wash over the dark beach pebbles."
+    },
+    {
+      "start": 25.5,
+      "end": 34.01,
+      "what": "Gentle waves continue to roll onto the pebbly shore."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 8.5,
+        "text": "Waves crash onto a pebbly beach with white foam."
+      },
+      {
+        "start": 8.5,
+        "end": 17.0,
+        "text": "White waves roll onto the dark shoreline."
+      },
+      {
+        "start": 17.0,
+        "end": 25.5,
+        "text": "Foamy waves wash over the dark pebbles."
+      },
+      {
+        "start": 25.5,
+        "end": 34.01,
+        "text": "Gentle waves continue to roll onto the shore."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 8.5,
+        "text": "Riveting. Nature is truly doing its thing."
+      },
+      {
+        "start": 8.5,
+        "end": 17.0,
+        "text": "The waves return. Groundbreaking stuff."
+      },
+      {
+        "start": 17.0,
+        "end": 25.5,
+        "text": "Still waves. Still pebbles. Still mesmerized."
+      },
+      {
+        "start": 25.5,
+        "end": 34.01,
+        "text": "Truly, the peak of cinematic excitement."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 8.5,
+        "text": "Request received. Initializing connection to the shore."
+      },
+      {
+        "start": 8.5,
+        "end": 17.0,
+        "text": "High latency detected in the foam delivery protocol."
+      },
+      {
+        "start": 17.0,
+        "end": 25.5,
+        "text": "Still waiting for the packet to fully clear the pebbles."
+      },
+      {
+        "start": 25.5,
+        "end": 34.01,
+        "text": "Connection timeout. The beach is stuck in a loop."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 8.5,
+        "text": "The ocean is trying to wash the beach."
+      },
+      {
+        "start": 8.5,
+        "end": 17.0,
+        "text": "It keeps forgetting where the pebbles are."
+      },
+      {
+        "start": 17.0,
+        "end": 25.5,
+        "text": "Okay, now it's just getting repetitive."
+      },
+      {
+        "start": 25.5,
+        "end": 34.01,
+        "text": "Someone tell the waves to take a nap."
+      }
+    ]
+  }
+}

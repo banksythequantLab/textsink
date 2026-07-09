@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:04,559
+[intense typing] Local environment is running perfectly.
+
+2
+00:00:04,559 --> 00:00:09,119
+[rapid typing] Still just a single-threaded process.
+
+3
+00:00:09,119 --> 00:00:13,689
+[focused typing] Wait, why is the memory leak growing?
+
+4
+00:00:13,689 --> 00:00:18,250
+[frantic typing] Everything is fine. Just a minor leak.

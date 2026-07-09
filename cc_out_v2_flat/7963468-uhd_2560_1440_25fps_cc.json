@@ -1,0 +1,91 @@
+{
+  "clip": "7963468-uhd_2560_1440_25fps.mp4",
+  "duration": 8.56,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.85,
+      "what": "A person chops diced zucchini on a wooden cutting board with a knife."
+    },
+    {
+      "start": 2.85,
+      "end": 5.71,
+      "what": "The person continues chopping zucchini into small pieces on the board."
+    },
+    {
+      "start": 5.71,
+      "end": 8.56,
+      "what": "The person finishes dicing the zucchini on the wooden board."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 2.85,
+        "text": "A person dices zucchini on a wooden board."
+      },
+      {
+        "start": 2.85,
+        "end": 5.71,
+        "text": "The person continues the dicing process."
+      },
+      {
+        "start": 5.71,
+        "end": 8.56,
+        "text": "The dicing of the zucchini concludes."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 2.85,
+        "text": "A real culinary revolution is unfolding here."
+      },
+      {
+        "start": 2.85,
+        "end": 5.71,
+        "text": "Stunning technique. Truly. The suspense is palpable."
+      },
+      {
+        "start": 5.71,
+        "end": 8.56,
+        "text": "Riveting. Someone get this person a Michelin star."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 2.85,
+        "text": "Running a heavy batch process on a local machine."
+      },
+      {
+        "start": 2.85,
+        "end": 5.71,
+        "text": "Processing incoming data packets at high frequency."
+      },
+      {
+        "start": 5.71,
+        "end": 8.56,
+        "text": "Batch job complete. 0 errors, 0 warnings."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 2.85,
+        "text": "First, we tackle the green little guys."
+      },
+      {
+        "start": 2.85,
+        "end": 5.71,
+        "text": "They are putting up a real fight."
+      },
+      {
+        "start": 5.71,
+        "end": 8.56,
+        "text": "And just like that, they have surrendered."
+      }
+    ]
+  }
+}

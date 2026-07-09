@@ -1,0 +1,91 @@
+{
+  "clip": "2697636-uhd_1920_1440_30fps.mp4",
+  "duration": 6.655,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 10.0,
+      "what": "Pedestrians walk across the busy Shibuya crossing intersection."
+    },
+    {
+      "start": 10.0,
+      "end": 20.0,
+      "what": "Vehicles and buses navigate through the city streets and intersections."
+    },
+    {
+      "start": 20.0,
+      "end": 30.0,
+      "what": "People walk along the sidewalks near large buildings and advertisements."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 10.0,
+        "text": "Pedestrians traverse the Shibuya crossing intersection."
+      },
+      {
+        "start": 10.0,
+        "end": 20.0,
+        "text": "Vehicles navigate the urban street network."
+      },
+      {
+        "start": 20.0,
+        "end": 30.0,
+        "text": "Pedestrians continue movement along the sidewalk."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 10.0,
+        "text": "Ah, the peaceful solitude of a thousand strangers."
+      },
+      {
+        "start": 10.0,
+        "end": 20.0,
+        "text": "Moving vehicles. Truly the pinnacle of urban Zen."
+      },
+      {
+        "start": 20.0,
+        "end": 30.0,
+        "text": "Another riveting stroll past a very large billboard."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 10.0,
+        "text": "Massive race condition occurring at the Shibuya intersection."
+      },
+      {
+        "start": 10.0,
+        "end": 20.0,
+        "text": "Traffic routing logic is failing under heavy load."
+      },
+      {
+        "start": 20.0,
+        "end": 30.0,
+        "text": "Still waiting for the thread to sync."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 10.0,
+        "text": "It is like a giant game of human Tetris."
+      },
+      {
+        "start": 10.0,
+        "end": 20.0,
+        "text": "Now the big metal boxes are playing too."
+      },
+      {
+        "start": 20.0,
+        "end": 30.0,
+        "text": "Even the sidewalks are full of people playing Tetris."
+      }
+    ]
+  }
+}

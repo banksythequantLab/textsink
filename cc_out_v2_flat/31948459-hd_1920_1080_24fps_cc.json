@@ -1,0 +1,116 @@
+{
+  "clip": "31948459-hd_1920_1080_24fps.mp4",
+  "duration": 9.050708,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "what": "A person's fingers are typing on a laptop keyboard."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "what": "Close-up of hands moving across the laptop keys."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "what": "Fingers press down on specific keys of the laptop."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "what": "Hands continue typing rapidly on the silver keyboard."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Fingers engage with a laptop keyboard."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Hands move across the keys."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Specific keys are pressed."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Rapid typing continues on the silver keyboard."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "A real masterclass in productivity."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "The sheer speed is intimidating."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Riveting content, truly."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "I'm on the edge of my seat."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Attempting to brute-force the production password."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Latency is high. The hardware is struggling."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Wait, I think I just triggered a race condition."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Still typing. Still hoping for no merge conflicts."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Writing a very important letter to my cat."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "He really needs to know about the empty bowl."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "The drama is building with every single tap."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "And now, the grand finale of my masterpiece!"
+      }
+    ]
+  }
+}

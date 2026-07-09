@@ -1,0 +1,116 @@
+{
+  "clip": "5054248-uhd_2560_1440_25fps.mp4",
+  "duration": 9.36,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "what": "A man in a grey shirt gestures while talking to his friends."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "what": "The group laughs together while sitting at a rooftop table."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "what": "The man in the black shirt listens and smiles at the group."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "what": "The woman in the blue shirt laughs during the conversation."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "A man in a grey shirt gestures during a discussion."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "The group engages in collective laughter at a rooftop table."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "A man in a black shirt observes the group."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "A woman in a blue shirt participates in the laughter."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Riveting monologue unfolding on the rooftop."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "The crowd is absolutely captivated."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Another soul lost to the sheer brilliance."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Peak comedy has clearly been achieved."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Explaining why the feature flag is actually a lifestyle choice."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "The team reacts to the massive technical debt."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Observing the feature flag impact in real-time."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Laughter ensues as the production environment stays stable."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "He's clearly telling the world's most dramatic story."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "And everyone is absolutely buying it."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Even the guy in black is impressed."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "The drama is hitting all the right notes."
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Consolas,46,&H0050FF50,&H0050FF50,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.89,CC,,0,0,0,,{\fad(120,120)}System idle while waiting for a user request.
+Dialogue: 0,0:00:05.89,0:00:11.77,CC,,0,0,0,,{\fad(120,120)}Initiating request to resolve the idle state.
+Dialogue: 0,0:00:11.77,0:00:17.66,CC,,0,0,0,,{\fad(120,120)}High latency detected in the local network.
+Dialogue: 0,0:00:17.66,0:00:23.55,CC,,0,0,0,,{\fad(120,120)}Packet loss is increasing as we approach the node.
+Dialogue: 0,0:00:23.55,0:00:29.43,CC,,0,0,0,,{\fad(120,120)}Connection established. Finally, the payload has arrived.

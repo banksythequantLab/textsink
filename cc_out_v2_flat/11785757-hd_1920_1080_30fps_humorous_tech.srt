@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:15,199
+[Calm ambient nature sounds]
+
+2
+00:00:15,199 --> 00:00:19,300
+[High-speed packet transfer initiated]
+
+3
+00:00:19,300 --> 00:00:27,399
+[Warning: Increasing network latency detected]
+
+4
+00:00:27,399 --> 00:00:36,569
+[Packet lost. Connection timed out.]

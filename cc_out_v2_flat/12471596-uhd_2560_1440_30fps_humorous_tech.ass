@@ -1,0 +1,16 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Consolas,46,&H0050FF50,&H0050FF50,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:11.40,CC,,0,0,0,,{\fad(120,120)}[lo-fi beats play] Rendering the sunset assets...
+Dialogue: 0,0:00:11.40,0:00:22.80,CC,,0,0,0,,{\fad(120,120)}Warning: High luminosity detected in the background layer.
+Dialogue: 0,0:00:22.80,0:00:34.20,CC,,0,0,0,,{\fad(120,120)}Saturation levels approaching a memory leak.
+Dialogue: 0,0:00:34.20,0:00:45.60,CC,,0,0,0,,{\fad(120,120)}System crash: Too many color variables in the buffer.
+Dialogue: 0,0:00:45.60,0:00:57.00,CC,,0,0,0,,{\fad(120,120)}Fatal error: Overfitting the sky to a pink preset.

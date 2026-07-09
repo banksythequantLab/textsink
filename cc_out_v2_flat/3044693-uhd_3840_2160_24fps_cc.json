@@ -1,0 +1,116 @@
+{
+  "clip": "3044693-uhd_3840_2160_24fps.mp4",
+  "duration": 18.25,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 4.56,
+      "what": "A woman types on a keyboard while looking at a computer monitor."
+    },
+    {
+      "start": 4.56,
+      "end": 9.12,
+      "what": "The woman continues typing on the keyboard in an office setting."
+    },
+    {
+      "start": 9.12,
+      "end": 13.69,
+      "what": "The woman focuses on the screen while typing on the keyboard."
+    },
+    {
+      "start": 13.69,
+      "end": 18.25,
+      "what": "The woman types steadily on the keyboard, looking at the monitor."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 4.56,
+        "text": "A woman operates a keyboard and monitor."
+      },
+      {
+        "start": 4.56,
+        "end": 9.12,
+        "text": "The woman continues keyboard operation in an office."
+      },
+      {
+        "start": 9.12,
+        "end": 13.69,
+        "text": "The woman maintains focus on the monitor while typing."
+      },
+      {
+        "start": 13.69,
+        "end": 18.25,
+        "text": "The woman performs steady keyboard operation."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 4.56,
+        "text": "Riveting productivity in its natural habitat."
+      },
+      {
+        "start": 4.56,
+        "end": 9.12,
+        "text": "The sheer intensity is truly breathtaking."
+      },
+      {
+        "start": 9.12,
+        "end": 13.69,
+        "text": "Another breakthrough in the world of typing."
+      },
+      {
+        "start": 13.69,
+        "end": 18.25,
+        "text": "Truly a masterclass in clicking buttons."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 4.56,
+        "text": "[intense typing] Local environment is running perfectly."
+      },
+      {
+        "start": 4.56,
+        "end": 9.12,
+        "text": "[rapid typing] Still just a single-threaded process."
+      },
+      {
+        "start": 9.12,
+        "end": 13.69,
+        "text": "[focused typing] Wait, why is the memory leak growing?"
+      },
+      {
+        "start": 13.69,
+        "end": 18.25,
+        "text": "[frantic typing] Everything is fine. Just a minor leak."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 4.56,
+        "text": "She is definitely writing a very important grocery list."
+      },
+      {
+        "start": 4.56,
+        "end": 9.12,
+        "text": "Wait, now she is adding extra snacks to the list."
+      },
+      {
+        "start": 9.12,
+        "end": 13.69,
+        "text": "The snack list is getting dangerously long."
+      },
+      {
+        "start": 13.69,
+        "end": 18.25,
+        "text": "And she still hasn't even picked out the cookies."
+      }
+    ]
+  }
+}

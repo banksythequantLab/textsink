@@ -106,7 +106,6 @@
     const clips = [
       "11785757-hd_1920_1080_30fps","12122308-uhd_2560_1440_24fps",
       "12471596-uhd_2560_1440_30fps","13825391-uhd_3840_2160_30fps",
-      "1860079-uhd_2560_1440_25fps",
       "2697636-uhd_1920_1440_30fps","3044693-uhd_3840_2160_24fps",
       "31948459-hd_1920_1080_24fps","3121327-uhd_2560_1440_24fps",
       "34796505-hd_1920_1080_60fps","5054248-uhd_2560_1440_25fps",
@@ -119,6 +118,36 @@
       v.style.cssText = "width:100%;border-radius:10px;margin-bottom:22px;display:block";
       v.src = `grids/${c}_fourvoices.mp4`;
       g.appendChild(v);
+    });
+  </script>
+
+  <h2>The Hecklers gallery — live two-model arguments</h2>
+  <p class="lead">STAN &amp; GUS (sarcastic old men) and LINT vs VIBE
+  (code reviewer vs vibe-coder) on every judge clip. Every line generated
+  live by two models reading each other.</p>
+  <div id="heckgallery"></div>
+  <script>
+    const hclips = [
+      "11785757-hd_1920_1080_30fps","12122308-uhd_2560_1440_24fps",
+      "12471596-uhd_2560_1440_30fps","13825391-uhd_3840_2160_30fps",
+      "1860079-uhd_2560_1440_25fps","2697636-uhd_1920_1440_30fps",
+      "3044693-uhd_3840_2160_24fps","31948459-hd_1920_1080_24fps",
+      "3121327-uhd_2560_1440_24fps","34796505-hd_1920_1080_60fps",
+      "5054248-uhd_2560_1440_25fps","5404543-hd_1920_1080_24fps",
+      "6023186-hd_1920_1080_30fps","7963468-uhd_2560_1440_25fps",
+      "8533913-uhd_2560_1440_25fps"];
+    const hg = document.getElementById("heckgallery");
+    hclips.forEach(c => {
+      ["sarcastic", "humorous_tech"].forEach(fl => {
+        const label = document.createElement("div");
+        label.style.cssText = "color:#9AA3B8;font-size:13px;margin:4px 0 6px";
+        label.textContent = (fl === "sarcastic" ? "STAN & GUS" : "LINT vs VIBE");
+        const v = document.createElement("video");
+        v.controls = true; v.preload = "none";
+        v.style.cssText = "width:100%;border-radius:10px;margin-bottom:20px;display:block";
+        v.src = `hecklers/${c}_${fl}.mp4`;
+        hg.appendChild(label); hg.appendChild(v);
+      });
     });
   </script>
 

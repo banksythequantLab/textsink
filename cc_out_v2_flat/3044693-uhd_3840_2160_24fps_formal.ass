@@ -1,0 +1,15 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Georgia,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.56,CC,,0,0,0,,{\fad(120,120)}A woman operates a keyboard and monitor.
+Dialogue: 0,0:00:04.56,0:00:09.12,CC,,0,0,0,,{\fad(120,120)}The woman continues keyboard operation in an office.
+Dialogue: 0,0:00:09.12,0:00:13.69,CC,,0,0,0,,{\fad(120,120)}The woman maintains focus on the monitor while typing.
+Dialogue: 0,0:00:13.69,0:00:18.25,CC,,0,0,0,,{\fad(120,120)}The woman performs steady keyboard operation.

@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:05,889
+System idle while waiting for a user request.
+
+2
+00:00:05,889 --> 00:00:11,769
+Initiating request to resolve the idle state.
+
+3
+00:00:11,769 --> 00:00:17,660
+High latency detected in the local network.
+
+4
+00:00:17,660 --> 00:00:23,550
+Packet loss is increasing as we approach the node.
+
+5
+00:00:23,550 --> 00:00:29,429
+Connection established. Finally, the payload has arrived.

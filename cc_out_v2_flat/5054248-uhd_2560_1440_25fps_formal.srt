@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+A man in a grey shirt gestures during a discussion.
+
+2
+00:00:02,000 --> 00:00:04,000
+The group engages in collective laughter at a rooftop table.
+
+3
+00:00:04,000 --> 00:00:06,000
+A man in a black shirt observes the group.
+
+4
+00:00:06,000 --> 00:00:08,000
+A woman in a blue shirt participates in the laughter.

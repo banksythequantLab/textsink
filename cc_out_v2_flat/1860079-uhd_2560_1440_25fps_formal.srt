@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Vehicles traverse a city street lined with yellow trees.
+
+2
+00:00:02,000 --> 00:00:04,000
+Cars and buses move through bright sunlight.
+
+3
+00:00:04,000 --> 00:00:06,000
+Traffic passes tall buildings and yellow foliage.
+
+4
+00:00:06,000 --> 00:00:06,000
+The steady movement of vehicles continues.

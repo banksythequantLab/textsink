@@ -1,0 +1,141 @@
+{
+  "clip": "12471596-uhd_2560_1440_30fps.mp4",
+  "duration": 57.001667,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 11.4,
+      "what": "A vibrant sunset glows over the ocean with pink clouds and a distant horizon."
+    },
+    {
+      "start": 11.4,
+      "end": 22.8,
+      "what": "The sun sits low on the horizon, casting a bright yellow light across the water."
+    },
+    {
+      "start": 22.8,
+      "end": 34.2,
+      "what": "Pink and orange clouds stretch across the sky above the dark, rippling ocean waves."
+    },
+    {
+      "start": 34.2,
+      "end": 45.6,
+      "what": "The sunset colors deepen, illuminating the water with intense shades of red and purple."
+    },
+    {
+      "start": 45.6,
+      "end": 57.0,
+      "what": "The horizon remains bright with the sun's glow reflecting on the moving sea surface."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 11.4,
+        "text": "Pink clouds appear over the ocean horizon."
+      },
+      {
+        "start": 11.4,
+        "end": 22.8,
+        "text": "Yellow light reflects across the water surface."
+      },
+      {
+        "start": 22.8,
+        "end": 34.2,
+        "text": "Orange clouds stretch above dark, rippling waves."
+      },
+      {
+        "start": 34.2,
+        "end": 45.6,
+        "text": "Red and purple hues illuminate the sea."
+      },
+      {
+        "start": 45.6,
+        "end": 57.0,
+        "text": "The sun's glow persists on the moving water."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 11.4,
+        "text": "Oh look, a sunset. Groundbreaking."
+      },
+      {
+        "start": 11.4,
+        "end": 22.8,
+        "text": "Wow, yellow light. Truly revolutionary stuff."
+      },
+      {
+        "start": 22.8,
+        "end": 34.2,
+        "text": "More colors. My eyes are overwhelmed by the sheer novelty."
+      },
+      {
+        "start": 34.2,
+        "end": 45.6,
+        "text": "Red and purple. Nature is really trying too hard now."
+      },
+      {
+        "start": 45.6,
+        "end": 57.0,
+        "text": "Still glowing. Someone get this sun an award."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 11.4,
+        "text": "[lo-fi beats play] Rendering the sunset assets..."
+      },
+      {
+        "start": 11.4,
+        "end": 22.8,
+        "text": "Warning: High luminosity detected in the background layer."
+      },
+      {
+        "start": 22.8,
+        "end": 34.2,
+        "text": "Saturation levels approaching a memory leak."
+      },
+      {
+        "start": 34.2,
+        "end": 45.6,
+        "text": "System crash: Too many color variables in the buffer."
+      },
+      {
+        "start": 45.6,
+        "end": 57.0,
+        "text": "Fatal error: Overfitting the sky to a pink preset."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 11.4,
+        "text": "The sky is showing off its favorite pink outfit."
+      },
+      {
+        "start": 11.4,
+        "end": 22.8,
+        "text": "Now it's just blinding me with all that yellow."
+      },
+      {
+        "start": 22.8,
+        "end": 34.2,
+        "text": "Someone definitely spilled orange juice all over the clouds."
+      },
+      {
+        "start": 34.2,
+        "end": 45.6,
+        "text": "Okay, now the sky is getting way too dramatic."
+      },
+      {
+        "start": 45.6,
+        "end": 57.0,
+        "text": "Fine, stay fancy, you big glowy show-off."
+      }
+    ]
+  }
+}

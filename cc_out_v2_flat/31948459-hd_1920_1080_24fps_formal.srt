@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Fingers engage with a laptop keyboard.
+
+2
+00:00:02,000 --> 00:00:04,000
+Hands move across the keys.
+
+3
+00:00:04,000 --> 00:00:06,000
+Specific keys are pressed.
+
+4
+00:00:06,000 --> 00:00:08,000
+Rapid typing continues on the silver keyboard.

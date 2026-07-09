@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Everyone is definitely in a hurry today.
+
+2
+00:00:02,000 --> 00:00:04,000
+They are all late for something very important.
+
+3
+00:00:04,000 --> 00:00:06,000
+Maybe a giant parade is coming through.
+
+4
+00:00:06,000 --> 00:00:06,000
+Or they are all just really excited about autumn.

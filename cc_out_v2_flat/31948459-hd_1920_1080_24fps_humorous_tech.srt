@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Attempting to brute-force the production password.
+
+2
+00:00:02,000 --> 00:00:04,000
+Latency is high. The hardware is struggling.
+
+3
+00:00:04,000 --> 00:00:06,000
+Wait, I think I just triggered a race condition.
+
+4
+00:00:06,000 --> 00:00:08,000
+Still typing. Still hoping for no merge conflicts.

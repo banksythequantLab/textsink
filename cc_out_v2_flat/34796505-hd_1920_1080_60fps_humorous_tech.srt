@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:06,750
+Local environment is looking a bit buggy tonight.
+
+2
+00:00:06,750 --> 00:00:13,490
+High latency in the lighting engine detected.
+
+3
+00:00:13,490 --> 00:00:20,239
+Red and green status lights showing deployment errors.
+
+4
+00:00:20,239 --> 00:00:26,989
+Still waiting for the assets to finish loading.
+
+5
+00:00:26,989 --> 00:00:33,729
+Rendering error: too many reflections in the buffer.

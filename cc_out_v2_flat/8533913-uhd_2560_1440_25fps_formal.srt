@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,000
+An empty red running track remains unoccupied.
+
+2
+00:00:05,000 --> 00:00:09,119
+A runner in a blue shirt enters the frame.
+
+3
+00:00:10,000 --> 00:00:09,119
+The runner continues to traverse the red track.

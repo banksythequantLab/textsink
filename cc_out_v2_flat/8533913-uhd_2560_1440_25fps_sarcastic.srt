@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,000
+A truly packed crowd of empty stadium seats.
+
+2
+00:00:05,000 --> 00:00:09,119
+And here comes the main event.
+
+3
+00:00:10,000 --> 00:00:09,119
+Riveting. Simply riveting.

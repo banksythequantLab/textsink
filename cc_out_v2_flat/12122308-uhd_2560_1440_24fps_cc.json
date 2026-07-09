@@ -1,0 +1,116 @@
+{
+  "clip": "12122308-uhd_2560_1440_24fps.mp4",
+  "duration": 6.506667,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "what": "A wide aerial view of the New York City skyline at dusk."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "what": "The camera pans slightly, showing skyscrapers reflecting the sunset light."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "what": "The cityscape remains still, showcasing various high-rise buildings and the river."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "what": "The view continues to show the dense urban landscape and waterfront."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "An aerial view shows the New York City skyline."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Skyscrapers reflect the light of the sunset."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "The cityscape and river remain stationary."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "The dense urban landscape remains stationary."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Behold, the concrete jungle in all its overwhelming glory."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "The sunset is really doing some heavy lifting here."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Truly a breathtaking amount of expensive real estate."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Stunning. I am absolutely riveted by this skyline."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "System boot sequence initiated. NYC cluster online."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Rendering sunset textures. High GPU usage detected."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Wait, frame rate is dropping."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Extreme latency in the downtown zone."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Wow, look at all those tiny little lights."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "The buildings are literally glowing right now."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Still just a lot of very tall rectangles."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "I bet those tiny lights are mostly pizza ovens."
+      }
+    ]
+  }
+}

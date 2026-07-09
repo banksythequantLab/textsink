@@ -1,0 +1,116 @@
+{
+  "clip": "3121327-uhd_2560_1440_24fps.mp4",
+  "duration": 14.463333,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 3.62,
+      "what": "Aerial view of lush green mountain ridges and rocky peaks under a hazy sky."
+    },
+    {
+      "start": 3.62,
+      "end": 7.23,
+      "what": "Slow pan across steep, forested slopes and jagged granite rock formations."
+    },
+    {
+      "start": 7.23,
+      "end": 10.85,
+      "what": "Wide shot showing distant mountain ranges fading into a blue-tinted haze."
+    },
+    {
+      "start": 10.85,
+      "end": 14.46,
+      "what": "Close-up view of rocky mountain summits covered in dense green vegetation."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 3.62,
+        "text": "Aerial view of green mountain ridges and rocky peaks."
+      },
+      {
+        "start": 3.62,
+        "end": 7.23,
+        "text": "The camera pans across steep slopes and granite formations."
+      },
+      {
+        "start": 7.23,
+        "end": 10.85,
+        "text": "Distant mountain ranges fade into a blue haze."
+      },
+      {
+        "start": 10.85,
+        "end": 14.46,
+        "text": "Close-up view of rocky summits and dense vegetation."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 3.62,
+        "text": "Groundbreaking footage of some very old rocks."
+      },
+      {
+        "start": 3.62,
+        "end": 7.23,
+        "text": "More rocks. Truly, the suspense is killing me."
+      },
+      {
+        "start": 7.23,
+        "end": 10.85,
+        "text": "Stunning views of more rocks, slightly further away."
+      },
+      {
+        "start": 10.85,
+        "end": 14.46,
+        "text": "Nature is really leaning into the rock theme today."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 3.62,
+        "text": "[Ambient wind] Rendering high-resolution terrain assets..."
+      },
+      {
+        "start": 3.62,
+        "end": 7.23,
+        "text": "Texture streaming is struggling with these steep slopes."
+      },
+      {
+        "start": 7.23,
+        "end": 10.85,
+        "text": "Increasing draw distance... but the haze is causing massive latency."
+      },
+      {
+        "start": 10.85,
+        "end": 14.46,
+        "text": "Still waiting for the vegetation textures to finish loading."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 3.62,
+        "text": "Nature really went all out on the green today."
+      },
+      {
+        "start": 3.62,
+        "end": 7.23,
+        "text": "A little rocky, but very dramatic."
+      },
+      {
+        "start": 7.23,
+        "end": 10.85,
+        "text": "Everything is getting a little blurry now."
+      },
+      {
+        "start": 10.85,
+        "end": 14.46,
+        "text": "Still very green. Still very rocky."
+      }
+    ]
+  }
+}

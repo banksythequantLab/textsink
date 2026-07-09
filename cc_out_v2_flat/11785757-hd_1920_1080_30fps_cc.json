@@ -1,0 +1,116 @@
+{
+  "clip": "11785757-hd_1920_1080_30fps.mp4",
+  "duration": 36.569867,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 15.2,
+      "what": "A wide shot of a sunlit green field with trees in the background."
+    },
+    {
+      "start": 15.2,
+      "end": 19.3,
+      "what": "A dog runs through the grassy field towards the sun."
+    },
+    {
+      "start": 19.3,
+      "end": 27.4,
+      "what": "The dog continues running across the field away from the camera."
+    },
+    {
+      "start": 27.4,
+      "end": 36.6,
+      "what": "The dog runs further into the distance across the sunlit meadow."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 15.2,
+        "text": "A sunlit field contains several trees."
+      },
+      {
+        "start": 15.2,
+        "end": 19.3,
+        "text": "A dog enters the field and runs toward the sun."
+      },
+      {
+        "start": 19.3,
+        "end": 27.4,
+        "text": "The dog continues its trajectory across the field."
+      },
+      {
+        "start": 27.4,
+        "end": 36.6,
+        "text": "The dog moves further into the distance."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 15.2,
+        "text": "A stunningly riveting landscape of grass and trees."
+      },
+      {
+        "start": 15.2,
+        "end": 19.3,
+        "text": "The plot thickens with the arrival of a dog."
+      },
+      {
+        "start": 19.3,
+        "end": 27.4,
+        "text": "He is running. Riveting stuff."
+      },
+      {
+        "start": 27.4,
+        "end": 36.6,
+        "text": "Still running. Truly a cinematic masterpiece."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 15.2,
+        "text": "[Calm ambient nature sounds]"
+      },
+      {
+        "start": 15.2,
+        "end": 19.3,
+        "text": "[High-speed packet transfer initiated]"
+      },
+      {
+        "start": 19.3,
+        "end": 27.4,
+        "text": "[Warning: Increasing network latency detected]"
+      },
+      {
+        "start": 27.4,
+        "end": 36.6,
+        "text": "[Packet lost. Connection timed out.]"
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 15.2,
+        "text": "The grass is definitely greener on this side."
+      },
+      {
+        "start": 15.2,
+        "end": 19.3,
+        "text": "And someone is clearly chasing it."
+      },
+      {
+        "start": 19.3,
+        "end": 27.4,
+        "text": "Look at those legs go!"
+      },
+      {
+        "start": 27.4,
+        "end": 36.6,
+        "text": "He is never coming back, is he?"
+      }
+    ]
+  }
+}

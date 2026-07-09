@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+An aerial view shows the New York City skyline.
+
+2
+00:00:02,000 --> 00:00:04,000
+Skyscrapers reflect the light of the sunset.
+
+3
+00:00:04,000 --> 00:00:06,000
+The cityscape and river remain stationary.
+
+4
+00:00:06,000 --> 00:00:06,506
+The dense urban landscape remains stationary.

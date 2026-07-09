@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Visualizing the heavy traffic on the main production branch.
+
+2
+00:00:02,000 --> 00:00:04,000
+High throughput, but the latency is starting to creep up.
+
+3
+00:00:04,000 --> 00:00:06,000
+Still seeing massive packet loss in the apartment sector.
+
+4
+00:00:06,000 --> 00:00:06,000
+System status: Unresolved merge conflict in the urban subnet.

@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:05,000
+System idling. Zero latency detected.
+
+2
+00:00:05,000 --> 00:00:09,119
+New process initiated. High CPU usage.
+
+3
+00:00:10,000 --> 00:00:09,119
+Critical memory leak detected in the blue module.

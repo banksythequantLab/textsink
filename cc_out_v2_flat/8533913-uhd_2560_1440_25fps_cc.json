@@ -1,0 +1,91 @@
+{
+  "clip": "8533913-uhd_2560_1440_25fps.mp4",
+  "duration": 9.12,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 5.0,
+      "what": "A static shot of an empty red running track with white lane markings and empty stadium seats."
+    },
+    {
+      "start": 5.0,
+      "end": 10.0,
+      "what": "A runner in a blue shirt enters the frame from the left and runs across the track."
+    },
+    {
+      "start": 10.0,
+      "end": 15.0,
+      "what": "The runner continues sprinting across the red track towards the right side of the frame."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "An empty red running track remains unoccupied."
+      },
+      {
+        "start": 5.0,
+        "end": 10.0,
+        "text": "A runner in a blue shirt enters the frame."
+      },
+      {
+        "start": 10.0,
+        "end": 15.0,
+        "text": "The runner continues to traverse the red track."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "A truly packed crowd of empty stadium seats."
+      },
+      {
+        "start": 5.0,
+        "end": 10.0,
+        "text": "And here comes the main event."
+      },
+      {
+        "start": 10.0,
+        "end": 15.0,
+        "text": "Riveting. Simply riveting."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "System idling. Zero latency detected."
+      },
+      {
+        "start": 5.0,
+        "end": 10.0,
+        "text": "New process initiated. High CPU usage."
+      },
+      {
+        "start": 10.0,
+        "end": 15.0,
+        "text": "Critical memory leak detected in the blue module."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 5.0,
+        "text": "The stadium is ready for its big moment."
+      },
+      {
+        "start": 5.0,
+        "end": 10.0,
+        "text": "And here comes the main event!"
+      },
+      {
+        "start": 10.0,
+        "end": 15.0,
+        "text": "He is definitely winning the race against nothing."
+      }
+    ]
+  }
+}

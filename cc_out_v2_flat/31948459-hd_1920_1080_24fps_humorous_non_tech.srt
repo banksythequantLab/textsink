@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Writing a very important letter to my cat.
+
+2
+00:00:02,000 --> 00:00:04,000
+He really needs to know about the empty bowl.
+
+3
+00:00:04,000 --> 00:00:06,000
+The drama is building with every single tap.
+
+4
+00:00:06,000 --> 00:00:08,000
+And now, the grand finale of my masterpiece!

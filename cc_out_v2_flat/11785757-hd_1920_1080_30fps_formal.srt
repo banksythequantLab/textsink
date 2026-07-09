@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:15,199
+A sunlit field contains several trees.
+
+2
+00:00:15,199 --> 00:00:19,300
+A dog enters the field and runs toward the sun.
+
+3
+00:00:19,300 --> 00:00:27,399
+The dog continues its trajectory across the field.
+
+4
+00:00:27,399 --> 00:00:36,569
+The dog moves further into the distance.

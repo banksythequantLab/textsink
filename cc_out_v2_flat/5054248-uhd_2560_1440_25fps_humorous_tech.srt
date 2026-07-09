@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Explaining why the feature flag is actually a lifestyle choice.
+
+2
+00:00:02,000 --> 00:00:04,000
+The team reacts to the massive technical debt.
+
+3
+00:00:04,000 --> 00:00:06,000
+Observing the feature flag impact in real-time.
+
+4
+00:00:06,000 --> 00:00:08,000
+Laughter ensues as the production environment stays stable.

@@ -1,0 +1,16 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Courier New,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.89,CC,,0,0,0,,{\fad(120,120)}Riveting. Another day of watching people exist.
+Dialogue: 0,0:00:05.89,0:00:11.77,CC,,0,0,0,,{\fad(120,120)}A man marches toward destiny. Or a commute.
+Dialogue: 0,0:00:11.77,0:00:17.66,CC,,0,0,0,,{\fad(120,120)}The sheer thrill of public transit continues.
+Dialogue: 0,0:00:17.66,0:00:23.55,CC,,0,0,0,,{\fad(120,120)}Walking past the camera. Truly a cinematic masterpiece.
+Dialogue: 0,0:00:23.55,0:00:29.43,CC,,0,0,0,,{\fad(120,120)}The train arrives. Groundbreaking stuff, really.

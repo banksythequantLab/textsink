@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:02,000
+Wow, look at all those tiny little lights.
+
+2
+00:00:02,000 --> 00:00:04,000
+The buildings are literally glowing right now.
+
+3
+00:00:04,000 --> 00:00:06,000
+Still just a lot of very tall rectangles.
+
+4
+00:00:06,000 --> 00:00:06,506
+I bet those tiny lights are mostly pizza ovens.

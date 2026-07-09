@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:06,655
+Pedestrians traverse the Shibuya crossing intersection.
+
+2
+00:00:10,000 --> 00:00:06,655
+Vehicles navigate the urban street network.
+
+3
+00:00:20,000 --> 00:00:06,655
+Pedestrians continue movement along the sidewalk.

@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:01,550
+Incoming tiny orange tiger!
+
+2
+00:00:01,550 --> 00:00:03,089
+He is on a very important mission.
+
+3
+00:00:03,089 --> 00:00:04,639
+Target spotted: the camera lens.
+
+4
+00:00:04,639 --> 00:00:06,179
+Coming in for a close inspection.
+
+5
+00:00:06,179 --> 00:00:07,730
+Watch out, he's gaining on us!
+
+6
+00:00:07,730 --> 00:00:09,279
+The tiny tiger is closing the gap.
+
+7
+00:00:09,279 --> 00:00:10,820
+Almost there... almost there...
+
+8
+00:00:10,820 --> 00:00:12,366
+And... total kitten takeover!

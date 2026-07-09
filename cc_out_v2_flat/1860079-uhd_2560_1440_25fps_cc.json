@@ -1,0 +1,116 @@
+{
+  "clip": "1860079-uhd_2560_1440_25fps.mp4",
+  "duration": 6.0,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "what": "Traffic flows through a city street lined with yellow autumn trees."
+    },
+    {
+      "start": 2.0,
+      "end": 4.0,
+      "what": "Cars and buses move along the multi-lane road under bright sunlight."
+    },
+    {
+      "start": 4.0,
+      "end": 6.0,
+      "what": "Vehicles travel past tall apartment buildings and vibrant yellow foliage."
+    },
+    {
+      "start": 6.0,
+      "end": 8.0,
+      "what": "The busy urban road continues with steady traffic movement."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Vehicles traverse a city street lined with yellow trees."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Cars and buses move through bright sunlight."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Traffic passes tall buildings and yellow foliage."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "The steady movement of vehicles continues."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Ah, the majestic urban migration begins."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "Nature is truly healing. Or just idling."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Golden leaves and glorious gridlock. A masterpiece."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Riveting. Truly the peak of human achievement."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Visualizing the heavy traffic on the main production branch."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "High throughput, but the latency is starting to creep up."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Still seeing massive packet loss in the apartment sector."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "System status: Unresolved merge conflict in the urban subnet."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "Everyone is definitely in a hurry today."
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "They are all late for something very important."
+      },
+      {
+        "start": 4.0,
+        "end": 6.0,
+        "text": "Maybe a giant parade is coming through."
+      },
+      {
+        "start": 6.0,
+        "end": 8.0,
+        "text": "Or they are all just really excited about autumn."
+      }
+    ]
+  }
+}

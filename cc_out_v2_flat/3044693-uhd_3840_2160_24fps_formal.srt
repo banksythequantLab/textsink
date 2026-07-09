@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:04,559
+A woman operates a keyboard and monitor.
+
+2
+00:00:04,559 --> 00:00:09,119
+The woman continues keyboard operation in an office.
+
+3
+00:00:09,119 --> 00:00:13,689
+The woman maintains focus on the monitor while typing.
+
+4
+00:00:13,689 --> 00:00:18,250
+The woman performs steady keyboard operation.

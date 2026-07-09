@@ -1,0 +1,15 @@
+1
+00:00:00,000 --> 00:00:08,500
+Request received. Initializing connection to the shore.
+
+2
+00:00:08,500 --> 00:00:17,000
+High latency detected in the foam delivery protocol.
+
+3
+00:00:17,000 --> 00:00:25,500
+Still waiting for the packet to fully clear the pebbles.
+
+4
+00:00:25,500 --> 00:00:34,005
+Connection timeout. The beach is stuck in a loop.

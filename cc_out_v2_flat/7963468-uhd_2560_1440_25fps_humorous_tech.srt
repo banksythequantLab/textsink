@@ -1,0 +1,11 @@
+1
+00:00:00,000 --> 00:00:02,850
+Running a heavy batch process on a local machine.
+
+2
+00:00:02,850 --> 00:00:05,710
+Processing incoming data packets at high frequency.
+
+3
+00:00:05,710 --> 00:00:08,560
+Batch job complete. 0 errors, 0 warnings.

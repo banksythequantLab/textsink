@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:01,550
+[Low latency kitten loading... ]
+
+2
+00:00:01,550 --> 00:00:03,089
+[Packet loss detected in foliage. ]
+
+3
+00:00:03,089 --> 00:00:04,639
+[Optimizing connection to user. ]
+
+4
+00:00:04,639 --> 00:00:06,179
+[Ping dropping significantly. ]
+
+5
+00:00:06,179 --> 00:00:07,730
+[Zero latency achieved. ]
+
+6
+00:00:07,730 --> 00:00:09,279
+[High-bandwidth fluff incoming. ]
+
+7
+00:00:09,279 --> 00:00:10,820
+[Full duplex kitten connection. ]
+
+8
+00:00:10,820 --> 00:00:12,366
+[Connection stabilized. ]

@@ -1,0 +1,141 @@
+{
+  "clip": "6023186-hd_1920_1080_30fps.mp4",
+  "duration": 29.433333,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 5.89,
+      "what": "A man sits on a bench while people walk on the platform."
+    },
+    {
+      "start": 5.89,
+      "end": 11.77,
+      "what": "A man walks along the platform towards the train."
+    },
+    {
+      "start": 11.77,
+      "end": 17.66,
+      "what": "People are walking on the platform near the train tracks."
+    },
+    {
+      "start": 17.66,
+      "end": 23.55,
+      "what": "A man walks past the camera on the station platform."
+    },
+    {
+      "start": 23.55,
+      "end": 29.43,
+      "what": "A train is stopped at the station platform with passengers nearby."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 5.89,
+        "text": "A man sits on a bench amidst pedestrian traffic."
+      },
+      {
+        "start": 5.89,
+        "end": 11.77,
+        "text": "A man walks toward the stationary train."
+      },
+      {
+        "start": 11.77,
+        "end": 17.66,
+        "text": "Pedestrians traverse the platform near the tracks."
+      },
+      {
+        "start": 17.66,
+        "end": 23.55,
+        "text": "A man passes the camera on the platform."
+      },
+      {
+        "start": 23.55,
+        "end": 29.43,
+        "text": "A train remains stopped near several passengers."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 5.89,
+        "text": "Riveting. Another day of watching people exist."
+      },
+      {
+        "start": 5.89,
+        "end": 11.77,
+        "text": "A man marches toward destiny. Or a commute."
+      },
+      {
+        "start": 11.77,
+        "end": 17.66,
+        "text": "The sheer thrill of public transit continues."
+      },
+      {
+        "start": 17.66,
+        "end": 23.55,
+        "text": "Walking past the camera. Truly a cinematic masterpiece."
+      },
+      {
+        "start": 23.55,
+        "end": 29.43,
+        "text": "The train arrives. Groundbreaking stuff, really."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 5.89,
+        "text": "System idle while waiting for a user request."
+      },
+      {
+        "start": 5.89,
+        "end": 11.77,
+        "text": "Initiating request to resolve the idle state."
+      },
+      {
+        "start": 11.77,
+        "end": 17.66,
+        "text": "High latency detected in the local network."
+      },
+      {
+        "start": 17.66,
+        "end": 23.55,
+        "text": "Packet loss is increasing as we approach the node."
+      },
+      {
+        "start": 23.55,
+        "end": 29.43,
+        "text": "Connection established. Finally, the payload has arrived."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 5.89,
+        "text": "Just sitting here, waiting for something exciting to happen."
+      },
+      {
+        "start": 5.89,
+        "end": 11.77,
+        "text": "Ah, here comes a man on a mission."
+      },
+      {
+        "start": 11.77,
+        "end": 17.66,
+        "text": "Everyone is walking like they have somewhere important to be."
+      },
+      {
+        "start": 17.66,
+        "end": 23.55,
+        "text": "And another one zooms past. Someone's in a hurry!"
+      },
+      {
+        "start": 23.55,
+        "end": 29.43,
+        "text": "Finally, the train arrives to save us all from boredom."
+      }
+    ]
+  }
+}

@@ -1,0 +1,510 @@
+
+=== 11785757-hd_1920_1080_30fps | humorous_non_tech.json
+    scene: A sunlit green field with trees in the background.
+  DORIS: Looks just like that meadow where Brenda's prize begonias died!
+  PEARL: Your begonias wilted; my casserole garden thrives under sunrise!
+  DORIS: Looks like the scene of Brenda's great floral massacre!
+  PEARL: This meadow outshines your wilted begonias, like my casserole's glory!
+  DORIS: Pure deception! It’s just a breeding ground for weeds!
+  PEARL: Even my casserole blooms brighter than your wilted weed battleground!
+  DORIS: Chasing light just like Brenda chasing her lost dignity!
+  PEARL: Even that dog sniffs my casserole’s glory, not your wilt.
+  DORIS: Running like Brenda ran from that scandalous debt collector!
+  PEARL: Even the dog fled, fearing my casserole’s fiery fumes!
+  DORIS: Running like your dignity fled during the PTA meeting!
+  PEARL: Even the dog knows my casserole scorches her lies!
+
+=== 11785757-hd_1920_1080_30fps | humorous_tech.json
+    scene: A wide shot of a sunlit green field with trees in the background.
+  LINT: Unoptimized background assets. This field lacks any meaningful depth.
+  VIBE: Nature’s GPU boost, LINT—feel the grass!
+  LINT: Uncompressed foliage. This texture budget is a hate crime.
+  VIBE: Grass just saved the server from your eternal complaints.
+  LINT: High-frequency grass oscillation will definitely crash the client.
+  VIBE: Your grief? It's just photosynthesis, LINT—stop whining!
+  LINT: Unbounded entity movement. This actor is leaking memory.
+  VIBE: Memory leak? More like RAM's spa day!
+  LINT: Infinite loop detected. This entity is defying all constraints.
+  VIBE: Your loops are as dead as that dog’s stamina!
+  LINT: Unbounded velocity. This actor is bypassing the physics engine.
+  VIBE: Dog’s sprint outpaces your paranoia, LINT!
+  LINT: Zero bounds checking. This sprite is escaping the viewport!
+
+=== 11785757-hd_1920_1080_30fps | sarcastic.json
+    scene: A wide shot of a sunny green field with trees in the background.
+  STAN: Look at that grass! Probably painted by those hippies!
+  GUS: Nature’s not a mural, Stan; it grew, not sprayed.
+  STAN: Too much green! It’s an eyesore for my retinas!
+  GUS: Your retinas need a vacation, not a horticultural assault.
+  STAN: It’s a verdant trap for unsuspecting, sun-blind fools!
+  GUS: Sunscreen's required—grass is staging a chlorophyll coup.
+  STAN: Now a flea-bitten rocket is fleeing the green menace!
+  GUS: That dog’s speed makes your grass rant look snail‑slow!
+  STAN: That beast is fleeing for its very soul, Gus!
+  GUS: His tail’s the only thing leaving your arguments behind.
+  STAN: He’s escaping that leafy abyss before the trees swallow him!
+  GUS: Watch him sprint, while your logic trips over moss.
+  STAN: Those trees are toothy monsters waiting to gobble him!
+
+=== 12122308-uhd_2560_1440_24fps | humorous_non_tech.json
+    scene: A wide aerial view of the New York City skyline at dusk.
+  DORIS: Looks just like my cousin Brenda’s failed real estate dreams!
+  PEARL: Even my casserole towers above those shaky brick aspirations!
+  DORIS: Looks like a dumping ground for Brenda's dignity, Pearl!
+
+=== 12122308-uhd_2560_1440_24fps | humorous_tech.json
+    scene: A wide aerial view of the New York City skyline at dusk.
+  LINT: Resolution is too low. Massive memory leak in the sky.
+  VIBE: Sky's leaking? Grab a bucket, LINT.
+  LINT: Static frames? This isn't a cityscape, it's a deadlock.
+
+=== 12122308-uhd_2560_1440_24fps | sarcastic.json
+    scene: The camera begins its slow, sweeping rotation, showcasing the initial cluster of
+  STAN: Look at those glass teeth! Shiny garbage for shiny fools!
+  GUS: Those “glass teeth” cost less than Stan’s last three opinions.
+  STAN: It’s just expensive smog masquerading as a sunset, Gus!
+
+=== 12471596-uhd_2560_1440_30fps | humorous_non_tech.json
+    scene: A vibrant pink and orange sunset glows over calm ocean waves.
+  DORIS: Looks like Brenda’s cheap hair dye exploded over the sea!
+  PEARL: My sunset casserole outshines any dye disaster, darling!
+  DORIS: It’s a crime scene of color, just like Brenda’s kitchen!
+  PEARL: Your crime scene? My garden sunsets seed the coral!
+  DORIS: Pure chaos! Even more dramatic than your last facelift!
+  PEARL: Sunset's so bright, my grandkids need sunglasses—again!
+  DORIS: Blinding! Just like your forehead after that botched filler!
+  PEARL: Even the sea's glare filed a restraining order against your wrinkles.
+  DORIS: Blinding! Just like your tacky rhinestone-encrusted slippers, Pearl!
+  PEARL: Even my pond's sparkle eclipses your glitter‑clogged slippers.
+  DORIS: Those clouds look like Brenda's melted strawberry gelatin, Pearl!
+  PEARL: My casserole's steam outshines your grandma’s gelatin disaster!
+  DORIS: God, those clouds look like your strawberry-flavored wig, Pearl!
+  PEARL: My casserole's glaze outshines your gelatin and that fake wig!
+  DORIS: Pure chaos! Reminds me of your divorce papers, Pearl!
+  PEARL: Even that sunset rivals my award‑winning casserole’s caramelized glow!
+  DORIS: Looks like the bloodstains from your failed marriage, Pearl!
+  PEARL: Twilight's fire still can't toast my casserole's golden crust!
+
+=== 12471596-uhd_2560_1440_30fps | humorous_tech.json
+    scene: A vibrant pink and orange sunset glows over calm ocean waves.
+  LINT: Over-saturated color palette. Total lack of error handling.
+  VIBE: Sunset's lit, not a bug, grab a beach!
+  LINT: Uncontrolled luminance spikes. This whole scene is leaking memory.
+  VIBE: Sun's got more rizz than your stack trace.
+  LINT: Zero lighting constraints. This entire horizon is a memory leak.
+  VIBE: Your panic’s the true sunset, Lint.
+  LINT: Hardcoded gradients. This sky is a massive technical debt.
+  VIBE: Nature’s not your debugger, just vibe‑check the horizon.
+  LINT: Pink-tinted buffer overflow. I wouldn't trust this sky's uptime.
+  VIBE: Your heart's crashed, Lint, not the sky.
+  LINT: Non-deterministic color palette. Total lack of shader validation.
+  VIBE: Touch grass, Lint, before your soul segfaults.
+  LINT: Floating assets without collision? This sky is unoptimized garbage.
+  VIBE: Sky’s the ultimate low‑code compute farm, Lint!
+  LINT: Zero collision? This atmosphere is a massive memory leak.
+  VIBE: Sunset: your biggest crash report ever.
+  LINT: Uncontrolled particle leakage. This sunset is a GPU killer.
+  VIBE: Your kernel's melting, Lint—watch it go bonfire!
+  LINT: Specular highlights without a Fresnel pass? Absolute amateur hour.
+  VIBE: Your shader's depth equals this two‑pixel puddle.
+  LINT: Subsurface scattering? No, just unhandled overflow errors.
+
+=== 12471596-uhd_2560_1440_30fps | sarcastic.json
+    scene: A vibrant sunset glows over the ocean with pink and orange clouds filling the sk
+  STAN: Look at that! Looks like a spilled fruit punch disaster!
+  GUS: A sunset, not a busted carnival soda pop.
+  STAN: Probably a chemical spill from those floating plastic toys!
+  GUS: Sunset, not an oil slick—your imagination needs sunscreen.
+  STAN: Too much neon! Looks like a radioactive strawberry milkshake!
+  GUS: Your rave‑blasted palette belongs in nightclubs, not sunsets.
+  STAN: Radioactive sludge! Even the fish are probably glowing, Gus!
+  GUS: Those fish are boiled algae, not radioactive mutants.
+  STAN: Glowing fish swimming in a giant bowl of ketchup!
+  GUS: Your ketchup‑fueled delirium makes sunset look bland.
+  STAN: Cotton candy poison! It’s blinding, Gus! Pure neon filth!
+  GUS: Those clouds are sugar‑free, Stan—just nature’s blushed horizon.
+  STAN: Blushed? It’s a crime scene of pink syrup, Gus!
+  GUS: Only your taste buds are the crime scene, Stan.
+  STAN: It's a strawberry milkshake apocalypse, Gus! Look at it!
+  GUS: Apocalypse? It's just sunset, not your dairy fantasy.
+  STAN: The sky is bleeding, Gus! It's a cosmic crime scene!
+  GUS: Your sky trauma? It's just Vitamin D, not homicide.
+  STAN: It’s a giant puddle of spilled cherry soda, Gus!
+  GUS: Cherry soda? More like a sun‑kissed cocktail, Stan.
+
+=== 13825391-uhd_3840_2160_30fps | humorous_non_tech.json
+    scene: The ginger kitten sits still, looking towards the camera through the leaves.
+  DORIS: That’s exactly how my ex-husband looked before he lied.
+  PEARL: If he’d kept his vows, that kitten would’ve been royalty.
+  DORIS: It’s plotting a coup, just like your nephew, Pearl!
+  PEARL: My nephew staged a garden revolt, not kitten drama.
+
+=== 13825391-uhd_3840_2160_30fps | humorous_tech.json
+    scene: An orange kitten walks forward through green leaves.
+  LINT: Unoptimized walking animation. Garbage implementation. Vibe could never.
+  VIBE: Your trash talk got trampled by that kitten.
+  LINT: Zero eye contact. Fatal lack of user engagement.
+  VIBE: Kitten’s glare outshines your audit, Lint. 😼
+  LINT: Inconsistent lighting engine. This entire scene is unscalable.
+
+=== 13825391-uhd_3840_2160_30fps | sarcastic.json
+    scene: An orange kitten walks forward through green leaves and branches.
+  STAN: Look at that tiny orange menace! Gus, it's plotting!
+  GUS: Cute fluff, not a conspiratorial orange tyrant.
+  STAN: Look at those eyes! It's sizing up the jugular, Gus!
+  GUS: It's just chasing dust, not drafting world domination plans.
+  STAN: One step closer and we're all doomed, Gus!
+
+=== 1860079-uhd_2560_1440_25fps | humorous_non_tech.json
+    scene: Traffic flows through a city street lined with yellow autumn trees.
+  DORIS: Looks just like Gladys’s hair after that failed perm!
+  PEARL: My garden gnomes navigate better than this traffic jam!
+  DORIS: Yellow leaves? Just like Gladys’s jaundice!
+  PEARL: My casserole outshines those garish banners any day!
+
+=== 1860079-uhd_2560_1440_25fps | humorous_tech.json
+    scene: Cars drive through a busy city intersection lined with yellow autumn trees.
+  LINT: Memory leak in the environment. Garbage collection is failing.
+  VIBE: Traffic’s the city’s RAM—your “leak” just needs a green light.
+  LINT: O(n) complexity in a single-threaded street. Total bottleneck.
+
+=== 1860079-uhd_2560_1440_25fps | sarcastic.json
+    scene: The video begins with a wide shot of a multi-lane highway filled with vehicles (
+  STAN: Look at that yellow filth! Blinding me, Gus!
+  GUS: Golden foliage, not filth—thank you very much.
+
+=== 2697636-uhd_1920_1440_30fps | humorous_non_tech.json
+    scene: Pedestrians walk across the crosswalk as vehicles move through the intersection.
+  DORIS: Look at Brenda's cousin, walking like she owns the street!
+  PEARL: Her ego’s louder than my casserole timer!
+  DORIS: Traffic's a mess, just like your divorce, Pearl!
+  PEARL: Your traffic tantrum can't outshine my garden's victory parade!
+  DORIS: Marching like they're headed to a royal coronation, Pearl!
+  PEARL: Their strut rivals my grandkids' marathon to the kitchen!
+  DORIS: Chaos! It’s a bumper-car riot in a cheap supermarket!
+  PEARL: My casserole steam could melt their metal hearts!
+  DORIS: Pure anarchy! It's a stampede of unpaid interns, Pearl!
+  PEARL: Even their brakes can't halt my garden's tornado of tomatoes!
+
+=== 2697636-uhd_1920_1440_30fps | humorous_tech.json
+    scene: Pedestrians cross the large Shibuya intersection from various directions.
+  LINT: Race condition! Zero synchronization between these messy asynchronous threads.
+  VIBE: Choreographed chaos, not a race condition.
+  LINT: Global state collision! This entire simulation is leaking memory.
+  VIBE: Your drama clogs lanes; code flows free.
+  LINT: Deadlock imminent. These pedestrian threads are blocking the main loop!
+  VIBE: Your paranoia eclipses traffic, it's just urban flow.
+  LINT: Non-deterministic execution! This entire scene is a race condition.
+
+=== 2697636-uhd_1920_1440_30fps | sarcastic.json
+    scene: Pedestrians cross the busy Shibuya intersection while vehicles move through the 
+  STAN: Look at them! Ants in a concrete soup, Gus!
+  GUS: Swarm of beetles, not ants—Shibuya's a beetle apocalypse!
+  STAN: Beetles with cell phones! They'll trip and die, Gus!
+  GUS: They’re iPhone‑clad scarabs, not doomed—watch the neon horde!
+  STAN: Neon-lit locusts devouring every ounce of dignity!
+  GUS: Those beetles just synced their group chat, Stan.
+  STAN: Glowing billboards, blinding these poor, brainless, neon-drunk fools!
+  GUS: Their retinas are burnt, not their souls, Stan.
+  STAN: Their souls are burnt, Gus! Blazing neon death traps!
+  GUS: They're just solar‑powered commuters, not immortal fireworks.
+  STAN: Concrete canyons filled with aimless, shuffling, screen-obsessed zombies!
+  GUS: Solar‑panel commuters, not apocalypse‑bound zombies, Stan.
+  STAN: Even the crosswalks are judging their pathetic, aimless existence!
+  GUS: Crosswalks demand counseling, not your apocalyptic monologue.
+
+=== 3044693-uhd_3840_2160_24fps | humorous_non_tech.json
+    scene: A woman types on a keyboard while looking at a computer monitor.
+  DORIS: Looks just like Brenda’s niece after three gin fizzes!
+  PEARL: She types faster than my casserole timer on Sunday!
+  DORIS: Typing like she’s trying to outrun her sins, Pearl!
+  PEARL: She types faster than my tomatoes outrunning frost!
+  DORIS: Like Brenda writing that fake apology letter to Martha!
+  PEARL: She’s spamming keys like my grandkids devouring my lasagna!
+
+=== 3044693-uhd_3840_2160_24fps | humorous_tech.json
+    scene: A woman types on a keyboard while looking at a computer monitor.
+  LINT: Unoptimized keystroke frequency. This entire workflow is legacy spaghetti.
+  VIBE: Epic drama: keyboard hero, not legacy, just typing triumph!
+  LINT: Unbuffered input. This latency is a crime against engineering.
+  VIBE: Latency? It's a symphony of clicking destiny!
+  LINT: Manual input? This isn't a symphony, it's a bottleneck.
+  VIBE: Keyboard wars: your paranoia, my crescendo.
+
+=== 3044693-uhd_3840_2160_24fps | sarcastic.json
+    scene: A woman types on a keyboard while looking at a computer monitor.
+  STAN: Look at that! Clicking buttons like a frantic woodpecker!
+  GUS: Frantic woodpecker? She’s an accountant on caffeine‑fuel, not a bird.
+  STAN: She's summoning a demon with those mindless tiny taps!
+  GUS: Her spreadsheet's more terrifying than any summoning ritual.
+  STAN: One tap away from a digital apocalypse, Gus!
+  GUS: She’s firing spreadsheets, not incantations, Stan.
+
+=== 3121327-uhd_2560_1440_24fps | humorous_non_tech.json
+    scene: Aerial view of lush, green, rocky mountain peaks under a hazy sky.
+  DORIS: Looks like Brenda's new landscaping project. Pure disaster!
+  PEARL: That's not Brenda's yard, it's Mother Earth's disaster‑proof masterpiece!
+  DORIS: Even Mother Earth needs a better decorator than you!
+  PEARL: Watch out, those rocks could crumble my award‑winning casserole!
+  DORIS: Smells like Brenda's failed attempts at a charcoal grill.
+
+=== 3121327-uhd_2560_1440_24fps | humorous_tech.json
+    scene: Aerial view of lush, green mountain ridges under a hazy sky.
+  LINT: Unoptimized assets. Too much draw distance for a dev environment.
+  VIBE: Your eyes are rusted, Lint—see the mountain, not code.
+  LINT: O(n^2) vegetation. Unacceptable polygon density. Refactor or delete.
+  VIBE: Your math's worse than this fog—grow a spine!
+  LINT: Dynamic lighting without ray tracing? Pure Vibe-tier negligence.
+
+=== 3121327-uhd_2560_1440_24fps | sarcastic.json
+    scene: Aerial view of lush green mountain ridges and rocky peaks under a hazy sky.
+  STAN: Look at that fog! Probably covering up a landfill!
+  GUS: Sure, that’s just a weather front, not a cover‑up.
+  STAN: Probably hiding the bodies of all the hikers, Gus!
+  GUS: Fog hides nothing, just water vapor, not hikers' corpses.
+  STAN: Greenery? More like a giant salad for mountain monsters!
+
+=== 31948459-hd_1920_1080_24fps | humorous_non_tech.json
+    scene: A person's fingers type rapidly on a laptop keyboard.
+  DORIS: Look at those paws! That's exactly how Brenda types.
+  PEARL: Those paws could whisk my casserole into golden perfection!
+  DORIS: Brenda types like she’s fighting a losing war!
+  PEARL: Those paws could stir a hurricane of soufflé!
+
+=== 31948459-hd_1920_1080_24fps | humorous_tech.json
+    scene: A person's fingers are typing on a laptop keyboard.
+  LINT: O(n^2) keystrokes. Sub-optimal latency. Absolute garbage.
+  VIBE: Pure poetry, not a single wasted keystroke.
+  LINT: Cache misses on every single stroke. Pathetic.
+
+=== 31948459-hd_1920_1080_24fps | sarcastic.json
+    scene: A person's hands are typing on a laptop keyboard in a close-up shot.
+  STAN: Click-clack, click-clack! Making noise while doing absolutely nothing!
+  GUS: Those clicks summon algorithms faster than your brain.
+  STAN: More noise than a stampede of plastic-fingered idiots!
+  GUS: Your typing sounds like a dial‑up modem vomit, Stan.
+
+=== 34796505-hd_1920_1080_60fps | humorous_non_tech.json
+    scene: A dark, wet street at night with streetlights reflecting on the ground.
+  DORIS: Looks like the scene of Brenda's dramatic breakup!
+  PEARL: Looks like my kitchen floor after the chili spill!
+  DORIS: It’s more ominous than your tragic chili disaster, Pearl!
+  PEARL: Even my casserole glaze mirrors those reflections—glossy and deadly!
+  DORIS: Pure noir! Like Brenda's tear-soaked mascara in the driveway!
+  PEARL: Your drama's puddle can't compete with my award‑winning glaze!
+  DORIS: That street is moodier than your failed marriage, Pearl!
+  PEARL: That rain‑slick road mirrors my garden’s frost‑kissed tragedy.
+  DORIS: That road is slicker than your husband's last excuse!
+  PEARL: Even my grandkids' ice‑cream splash beats this sad puddle!
+  DORIS: Slicker than that grease stain on your driveway, Pearl!
+
+=== 34796505-hd_1920_1080_60fps | humorous_tech.json
+    scene: A dark, wet street at night with streetlights reflecting on the pavement.
+  LINT: Unoptimized lighting engine. High latency on those reflections.
+  VIBE: Cinematic poetry, not a latency nightmare, LINT.
+  LINT: Ray-tracing error. This wetness is just unmanaged memory leaks.
+  VIBE: Your eyeballs are cracked, LINT. Feel the glow.
+  LINT: Unresolved light leaks. This isn't mood, it's technical debt.
+  VIBE: Your code sobs louder than those blinking lights, LINT.
+  LINT: Bounding box errors. Even the fog is unhandled.
+  VIBE: Watch the fog, LINT—your sanity's about to evaporate.
+  LINT: Zero visibility. A complete failure of the spatial index.
+  VIBE: Your debugger drowns in this cinematic tsunami.
+  LINT: Specular highlights without a shader? Total garbage. Typical VIBE.
+  VIBE: Your shaders are as invisible as your personality.
+
+=== 34796505-hd_1920_1080_60fps | sarcastic.json
+    scene: A dark, wet street at night with streetlights reflecting on the ground.
+  STAN: Look at that! Even the pavement’s crying from boredom!
+  GUS: Crying? It's just condensation, Stan—your imagination's on fumes.
+  STAN: Condensation? It’s a noir nightmare, Gus! You're blind!
+  GUS: Noir? More like budget shampoo commercial, Stan.
+  STAN: Yellow light? It’s a jaundice outbreak on the asphalt!
+  GUS: Traffic signal, not a dermatology crisis.
+  STAN: Now it’s a disco for rats! You’re blind, Gus!
+  GUS: Rats will file a grievance for lack of proper lighting.
+  STAN: It's a portal to the underworld, you walking encyclopedia!
+  GUS: Underworld portal? It's just an alley, not Hell's lobby.
+  STAN: Staring into the abyss, Gus! The void is oily!
+  GUS: It's a puddle, not a philosophical sinkhole, Stan.
+
+=== 5054248-uhd_2560_1440_25fps | humorous_non_tech.json
+    scene: A man in a grey shirt gestures while talking to his friends.
+  DORIS: That’s definitely Gary from the garden club, looking frantic!
+  PEARL: He’s not frantic, he just heard my casserole’s applause!
+  DORIS: Lively? That’s a riot in a condemned asylum, Pearl!
+
+=== 5054248-uhd_2560_1440_25fps | humorous_tech.json
+    scene: A man in a grey shirt gestures while talking to his friends.
+  LINT: Uncontrolled gesture spaghetti. Total lack of thread safety.
+  VIBE: Your panic’s a noodle—still undercooked, Lint.
+  LINT: Blocking main thread with useless, smiling idle loops. Typical.
+
+=== 5054248-uhd_2560_1440_25fps | sarcastic.json
+    scene: The man in the grey shirt is laughing and gesturing with his hands while talking
+  STAN: Look at him! Flailing like a landed trout! Typical!
+  GUS: Trout? He's a wind‑up doll, Stan.
+  STAN: Too much joy! It’s unnatural! Like sugar-coated poison, Gus!
+  GUS: He's not a doll, he's a charismatic salesperson, Stan.
+
+=== 5404543-hd_1920_1080_24fps | humorous_non_tech.json
+    scene: White waves crash onto a dark pebble beach under a misty sky.
+  DORIS: Looks like Mrs. Higgins’ hair after a thunderstorm!
+  PEARL: More like my casserole's steam over the garden at dawn!
+  DORIS: Pure chaos, just like your marriage, Pearl!
+  PEARL: Even my grandkids' fireworks outshine that soggy shoreline spectacle!
+  DORIS: Just like your grandkids' tempers, nothing but mindless splashing!
+  PEARL: That foam's as confusing as my garden gnome uprising!
+  DORIS: As dreary as your prize-winning petunias, Pearl!
+  PEARL: That foam rivals the froth on my award‑winning beef stew!
+  DORIS: More depressing than your lukewarm beef stew, Pearl!
+  PEARL: That tide drags slower than Doris’s snore during Sunday brunch.
+  DORIS: Sluggish, much like your attempts at a decent haircut!
+  PEARL: Your snore could drown this tide, Doris.
+
+=== 5404543-hd_1920_1080_24fps | humorous_tech.json
+    scene: Waves crash onto a pebbly beach with white foam.
+  LINT: Memory leak in the buffer. Unhandled edge case. Pure garbage.
+  VIBE: Even tides patch leaks faster than you, Lint.
+  LINT: Infinite recursion in the texture shaders. Unacceptable.
+  VIBE: Wave recursion? Even surfboards handle loops better, Lint.
+  LINT: Unoptimized particle physics. This ocean is leaking memory.
+  VIBE: Surf’s up, Lint—your code’s drowning.
+  LINT: Non-deterministic concurrency in the tide cycle. Ship it, Vibe.
+  VIBE: Your tide roars louder than your petty complaints.
+  LINT: Zero error handling for shoreline collision. Total heap overflow.
+  VIBE: Watch me turn this tsunami into a meme, Lint.
+  LINT: A massive memory leak in the shoreline buffer. Unacceptable.
+  VIBE: Your debugging swim trunks are more holey than sea.
+
+=== 5404543-hd_1920_1080_24fps | sarcastic.json
+    scene: Waves crash onto the pebbly shore with white foam.
+  STAN: Look at that mess! Water everywhere! Absolute chaos, Gus!
+  GUS: Chaos? It's just modest tide; you’d hyperventilate over a drizzle.
+  STAN: Ocean's attacking the coast! It's a watery apocalypse, Gus!
+  GUS: Apocalypse? Your kettle’s just doing a light rinse.
+  STAN: It's a liquid invasion, Gus! The abyss is rising!
+  GUS: Your apocalypse is damp socks after a lukewarm shower today.
+  STAN: The deep blue menace is swallowing the very earth!
+  GUS: Only you think foam is world‑ending, Stan.
+  STAN: It's a frothy death trap, Gus! Pure liquid anarchy!
+  GUS: Foam, not apocalypse—just a lazy tide’s bedtime story.
+  STAN: Liquid anarchy! It’s a salt-water siege, you blind fool!
+  GUS: Your tide drama eclipses my bathtub’s tantrum.
+
+=== 6023186-hd_1920_1080_30fps | humorous_non_tech.json
+    scene: A man sits on a bench on a train platform while people walk by.
+  DORIS: That's definitely Gary's brother. Look at that slouch!
+  PEARL: Actually it’s my cousin, who outshines Gary’s brother’s slouch!
+  DORIS: That slouch is pure family shame, Pearl! Just like you!
+  PEARL: My cousin's slouch could topple your soufflé, Doris!
+  DORIS: He’s walking like a man with no moral compass!
+  PEARL: His slouch could derail my award‑winning casserole train!
+  DORIS: That gait is a direct insult to all decent society!
+  PEARL: His slouch could topple my third‑place pie championship!
+  DORIS: He’s strutting like he owns the whole damn sidewalk!
+  PEARL: His limp threatens my garden’s gold‑medal tomatoes!
+  DORIS: Look at that swagger! Pure unadulterated arrogance, just like you!
+  PEARL: Even that idle train envies my casserole’s horsepower!
+  DORIS: That train has more direction than your life, Pearl!
+  PEARL: That train’s brakes squeal louder than your cooking critiques!
+  DORIS: They’re wandering aimlessly, just like your last dating prospects!
+  PEARL: Even the platform trembles at my casserole's seismic flavor!
+  DORIS: Look at them drifting! Lost souls, just like your recipes!
+
+=== 6023186-hd_1920_1080_30fps | humorous_tech.json
+    scene: A man sits on a bench on a train platform while people walk by.
+  LINT: Single-threaded execution in a high-concurrency environment. Garbage.
+  VIBE: Bench: your perfect single-threaded sanctuary, Lint.
+  LINT: Blocking the main thread while the system stalls. Pathetic.
+  VIBE: Your grief's as static as that bench, Lint.
+  LINT: Zero throughput. Total system deadlock. Pure architectural failure.
+  VIBE: Bench's serenity beats your deadlock drama, Lint.
+  LINT: Context switching overhead is killing this entire sequence.
+  VIBE: Watch the bench, Lint—your thread died at arrival.
+  LINT: Race condition in the crowd. Unhandled concurrency. Total chaos.
+  VIBE: Bench outlives your bugs, Lint—its UI never crashes.
+  LINT: Resource leakage. Idle processes consuming memory without purpose.
+  VIBE: Bench outruns your memory leak like a cheetah on caffeine.
+  LINT: Unbounded latency. I’m seeing massive packet loss in transit.
+  VIBE: Train’s dead—your packets never left station.
+  LINT: Buffer overflow in the crowd. Memory corruption imminent.
+  VIBE: Your overflow's just a puddle next to my ocean.
+  LINT: Deadlock imminent. No mutex on these pedestrian threads.
+  VIBE: Your deadlock’s a paper cut, my ocean’s tsunamis.
+  LINT: Race condition. Unsynchronized access to the platform. Disastrous.
+  VIBE: Platform's a runway, your race is a snail sprint.
+  LINT: Unchecked concurrency. Zero synchronization on these human primitives.
+  VIBE: Got any semaphores, or just beach towels?
+  LINT: Single-threaded entity approaching. Unhandled exception in real-time.
+  VIBE: Watch out, that guy's a memory leak of humanity!
+  LINT: Unbounded buffer overflow. This entity lacks proper bounds checking.
+  VIBE: He’s a rogue pointer—dereferencing humanity’s stack overflow.
+  LINT: Race condition imminent. No mutex. Total system collapse.
+  VIBE: He’ll segfault reality before you can debug a sunrise.
+  LINT: Null pointer walking into a critical section. Disaster.
+  VIBE: If he crashes reality, I’m rebooting the universe!
+  LINT: Deadlock in progress. Zero concurrency safety detected.
+  VIBE: Your warnings can't stop this trainwreck of a human!
+  LINT: Static resource allocation without a garbage collector. Pathetic.
+  VIBE: Grab your shovels, Lint—this train’s burning the rails!
+  LINT: Buffer overflow in the boarding zone. Fatal error.
+  VIBE: Watch the train, Lint—your stack trace just got derailed!
+  LINT: Unsynchronized access to a shared platform. Total race condition.
+  VIBE: My chaos fuels the locomotive, your lint's just a caboose!
+  LINT: Unhandled exception: Passenger queue depth exceeding allocated buffer.
+  VIBE: Your panic won't halt my hyperdrive locomotive!
+  LINT: Deadlock in the passenger queue. Unacceptable latency.
+
+=== 6023186-hd_1920_1080_30fps | sarcastic.json
+    scene: A man sits on a bench while people walk on the platform.
+  STAN: Look at him! Sitting there like a decorative cabbage!
+  GUS: He's a man, not a garnish for platform scenery.
+  STAN: He’s waiting for a train that stopped running in '84!
+  GUS: He’s not a cabbage; that train derailed in 1989.
+  STAN: Walking like he’s got nothing but marbles in his pockets!
+  GUS: His shoes have more mileage than your last thesis.
+  STAN: Great, a ghost train for a man with marble pants!
+  GUS: That “ghost” runs on diesel, not on your imagination.
+  STAN: Standing there like frozen statues in a museum of stupidity!
+  GUS: Your metaphors melt faster than that train’s brakes.
+  STAN: Probably waiting for a ticket to the Stone Age!
+
+=== 7963468-uhd_2560_1440_25fps | humorous_non_tech.json
+    scene: A person chops chopped zucchini on a wooden cutting board with a knife.
+  DORIS: That's exactly how Brenda handles her divorce. Chaotic!
+  PEARL: My zucchini dice beats her divorce drama any day!
+  DORIS: Those tiny pieces are more organized than Brenda's lawyer!
+
+=== 7963468-uhd_2560_1440_25fps | humorous_tech.json
+    scene: A person chops zucchini into small pieces on a wooden cutting board.
+  LINT: O(n^2) complexity for a simple slice. Absolute garbage.
+  VIBE: Your math's as stale as last week's lettuce, Lint!
+  LINT: Unsynchronized parallel processing. Look at that race condition.
+
+=== 7963468-uhd_2560_1440_25fps | sarcastic.json
+    scene: A person's hands are chopping diced zucchini on a wooden cutting board.
+  STAN: Look at those tiny cubes! It’s an insult to produce!
+  GUS: Those cubes are macro‑micro, Stan—zucchini's last stand!
+  STAN: Micro-macro? It's just green confetti for a funeral!
+
+=== 8533913-uhd_2560_1440_25fps | humorous_non_tech.json
+    scene: A red running track with white lane markings and empty stadium seats.
+  DORIS: Looks like Brenda’s track club. Empty, just like her.
+  PEARL: Empty seats—perfect for my award‑winning casserole debut.
+  DORIS: Blue is definitely Brenda’s color. Tacky and loud!
+
+=== 8533913-uhd_2560_1440_25fps | humorous_tech.json
+    scene: A static shot of an empty red running track with white lane markings and empty s
+  LINT: Dead code. Zero throughput. Even the athletes have deprecated.
+  VIBE: Watch me sprint into glory, not your nostalgic silence.
+  LINT: O(n) complexity with zero cache locality. Garbage.
+  VIBE: Your rant just tripped over its own shoes.
+  LINT: Linear execution with no exit condition. Infinite loop.
+
+=== 8533913-uhd_2560_1440_25fps | sarcastic.json
+    scene: A runner in a blue shirt sprints across the red running track.
+  STAN: Look at him go! Like a caffeinated blue jay!
+  GUS: He's not a blue jay, he's a panting accountant on track.
+  STAN: He’s running like he forgot to turn off the stove!
+  GUS: He's sprinting like a spreadsheet on fire!

@@ -1,0 +1,16 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Georgia,46,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.89,CC,,0,0,0,,{\fad(120,120)}A man sits on a bench amidst pedestrian traffic.
+Dialogue: 0,0:00:05.89,0:00:11.77,CC,,0,0,0,,{\fad(120,120)}A man walks toward the stationary train.
+Dialogue: 0,0:00:11.77,0:00:17.66,CC,,0,0,0,,{\fad(120,120)}Pedestrians traverse the platform near the tracks.
+Dialogue: 0,0:00:17.66,0:00:23.55,CC,,0,0,0,,{\fad(120,120)}A man passes the camera on the platform.
+Dialogue: 0,0:00:23.55,0:00:29.43,CC,,0,0,0,,{\fad(120,120)}A train remains stopped near several passengers.

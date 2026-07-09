@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:01,550
+An orange kitten advances through green foliage.
+
+2
+00:00:01,550 --> 00:00:03,089
+The kitten continues its movement toward the camera.
+
+3
+00:00:03,089 --> 00:00:04,639
+The subject approaches and maintains eye contact.
+
+4
+00:00:04,639 --> 00:00:06,179
+The kitten's face occupies a larger portion of the frame.
+
+5
+00:00:06,179 --> 00:00:07,730
+The subject maintains a steady pace through sunlit brush.
+
+6
+00:00:07,730 --> 00:00:09,279
+The kitten peers through the leaves while advancing.
+
+7
+00:00:09,279 --> 00:00:10,820
+The subject moves toward the lens amidst greenery.
+
+8
+00:00:10,820 --> 00:00:12,366
+The kitten continues its steady advance across the forest floor.

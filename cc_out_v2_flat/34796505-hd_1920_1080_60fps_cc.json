@@ -1,0 +1,141 @@
+{
+  "clip": "34796505-hd_1920_1080_60fps.mp4",
+  "duration": 33.7337,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 6.75,
+      "what": "A dark, wet street at night with streetlights reflecting on the pavement."
+    },
+    {
+      "start": 6.75,
+      "end": 13.49,
+      "what": "Streetlights cast yellow glows on the wet road surface in the darkness."
+    },
+    {
+      "start": 13.49,
+      "end": 20.24,
+      "what": "Green and red lights from distant traffic reflect on the damp road."
+    },
+    {
+      "start": 20.24,
+      "end": 26.99,
+      "what": "The camera moves forward along a dark, illuminated street at night."
+    },
+    {
+      "start": 26.99,
+      "end": 33.73,
+      "what": "Blurred lights and reflections shimmer on the wet asphalt in the dark."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 6.75,
+        "text": "A dark, wet street sits under nocturnal illumination."
+      },
+      {
+        "start": 6.75,
+        "end": 13.49,
+        "text": "Yellow streetlights reflect upon the damp pavement."
+      },
+      {
+        "start": 13.49,
+        "end": 20.24,
+        "text": "Green and red traffic lights appear in the reflections."
+      },
+      {
+        "start": 20.24,
+        "end": 26.99,
+        "text": "The camera progresses along the illuminated road."
+      },
+      {
+        "start": 26.99,
+        "end": 33.73,
+        "text": "Blurred lights shimmer on the wet asphalt."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 6.75,
+        "text": "Ah, the glamorous nightlife of a damp parking lot."
+      },
+      {
+        "start": 6.75,
+        "end": 13.49,
+        "text": "Truly, the yellow glow is breathtaking."
+      },
+      {
+        "start": 13.49,
+        "end": 20.24,
+        "text": "Red and green lights. Riveting stuff."
+      },
+      {
+        "start": 20.24,
+        "end": 26.99,
+        "text": "Walking into this cinematic masterpiece."
+      },
+      {
+        "start": 26.99,
+        "end": 33.73,
+        "text": "Another stunning puddle. I am overwhelmed."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 6.75,
+        "text": "Local environment is looking a bit buggy tonight."
+      },
+      {
+        "start": 6.75,
+        "end": 13.49,
+        "text": "High latency in the lighting engine detected."
+      },
+      {
+        "start": 13.49,
+        "end": 20.24,
+        "text": "Red and green status lights showing deployment errors."
+      },
+      {
+        "start": 20.24,
+        "end": 26.99,
+        "text": "Still waiting for the assets to finish loading."
+      },
+      {
+        "start": 26.99,
+        "end": 33.73,
+        "text": "Rendering error: too many reflections in the buffer."
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 6.75,
+        "text": "Someone definitely forgot to dry the sidewalk."
+      },
+      {
+        "start": 6.75,
+        "end": 13.49,
+        "text": "The streetlights are feeling very dramatic tonight."
+      },
+      {
+        "start": 13.49,
+        "end": 20.24,
+        "text": "Even the puddles are showing off their colors."
+      },
+      {
+        "start": 20.24,
+        "end": 26.99,
+        "text": "Just walking through a giant glow-in-the-dark puddle."
+      },
+      {
+        "start": 26.99,
+        "end": 33.73,
+        "text": "It is basically a disco for cars."
+      }
+    ]
+  }
+}

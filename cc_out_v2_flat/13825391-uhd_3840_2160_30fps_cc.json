@@ -1,0 +1,216 @@
+{
+  "clip": "13825391-uhd_3840_2160_30fps.mp4",
+  "duration": 12.366667,
+  "beats": [
+    {
+      "start": 0.0,
+      "end": 1.55,
+      "what": "An orange kitten walks forward through green leaves and branches."
+    },
+    {
+      "start": 1.55,
+      "end": 3.09,
+      "what": "The kitten continues walking toward the camera through the foliage."
+    },
+    {
+      "start": 3.09,
+      "end": 4.64,
+      "what": "The kitten approaches closer, looking directly at the camera."
+    },
+    {
+      "start": 4.64,
+      "end": 6.18,
+      "what": "The kitten walks forward, its face filling more of the frame."
+    },
+    {
+      "start": 6.18,
+      "end": 7.73,
+      "what": "The kitten keeps walking steadily through the sunlit brush."
+    },
+    {
+      "start": 7.73,
+      "end": 9.28,
+      "what": "The kitten moves forward, peering through the leaves."
+    },
+    {
+      "start": 9.28,
+      "end": 10.82,
+      "what": "The kitten walks toward the lens amidst the greenery."
+    },
+    {
+      "start": 10.82,
+      "end": 12.37,
+      "what": "The kitten continues its steady walk through the forest floor."
+    }
+  ],
+  "tracks": {
+    "formal": [
+      {
+        "start": 0.0,
+        "end": 1.55,
+        "text": "An orange kitten advances through green foliage."
+      },
+      {
+        "start": 1.55,
+        "end": 3.09,
+        "text": "The kitten continues its movement toward the camera."
+      },
+      {
+        "start": 3.09,
+        "end": 4.64,
+        "text": "The subject approaches and maintains eye contact."
+      },
+      {
+        "start": 4.64,
+        "end": 6.18,
+        "text": "The kitten's face occupies a larger portion of the frame."
+      },
+      {
+        "start": 6.18,
+        "end": 7.73,
+        "text": "The subject maintains a steady pace through sunlit brush."
+      },
+      {
+        "start": 7.73,
+        "end": 9.28,
+        "text": "The kitten peers through the leaves while advancing."
+      },
+      {
+        "start": 9.28,
+        "end": 10.82,
+        "text": "The subject moves toward the lens amidst greenery."
+      },
+      {
+        "start": 10.82,
+        "end": 12.37,
+        "text": "The kitten continues its steady advance across the forest floor."
+      }
+    ],
+    "sarcastic": [
+      {
+        "start": 0.0,
+        "end": 1.55,
+        "text": "A cinematic masterpiece begins."
+      },
+      {
+        "start": 1.55,
+        "end": 3.09,
+        "text": "The protagonist approaches with zero urgency."
+      },
+      {
+        "start": 3.09,
+        "end": 4.64,
+        "text": "Direct eye contact. Very intimidating."
+      },
+      {
+        "start": 4.64,
+        "end": 6.18,
+        "text": "Truly a terrifying forest predator."
+      },
+      {
+        "start": 6.18,
+        "end": 7.73,
+        "text": "The tension is absolutely palpable."
+      },
+      {
+        "start": 7.73,
+        "end": 9.28,
+        "text": "Still walking. Still nothing happening."
+      },
+      {
+        "start": 9.28,
+        "end": 10.82,
+        "text": "The suspense is actually killing me."
+      },
+      {
+        "start": 10.82,
+        "end": 12.37,
+        "text": "Groundbreaking stuff. Truly."
+      }
+    ],
+    "humorous_tech": [
+      {
+        "start": 0.0,
+        "end": 1.55,
+        "text": "[Low latency kitten loading... ]"
+      },
+      {
+        "start": 1.55,
+        "end": 3.09,
+        "text": "[Packet loss detected in foliage. ]"
+      },
+      {
+        "start": 3.09,
+        "end": 4.64,
+        "text": "[Optimizing connection to user. ]"
+      },
+      {
+        "start": 4.64,
+        "end": 6.18,
+        "text": "[Ping dropping significantly. ]"
+      },
+      {
+        "start": 6.18,
+        "end": 7.73,
+        "text": "[Zero latency achieved. ]"
+      },
+      {
+        "start": 7.73,
+        "end": 9.28,
+        "text": "[High-bandwidth fluff incoming. ]"
+      },
+      {
+        "start": 9.28,
+        "end": 10.82,
+        "text": "[Full duplex kitten connection. ]"
+      },
+      {
+        "start": 10.82,
+        "end": 12.37,
+        "text": "[Connection stabilized. ]"
+      }
+    ],
+    "humorous_non_tech": [
+      {
+        "start": 0.0,
+        "end": 1.55,
+        "text": "Incoming tiny orange tiger!"
+      },
+      {
+        "start": 1.55,
+        "end": 3.09,
+        "text": "He is on a very important mission."
+      },
+      {
+        "start": 3.09,
+        "end": 4.64,
+        "text": "Target spotted: the camera lens."
+      },
+      {
+        "start": 4.64,
+        "end": 6.18,
+        "text": "Coming in for a close inspection."
+      },
+      {
+        "start": 6.18,
+        "end": 7.73,
+        "text": "Watch out, he's gaining on us!"
+      },
+      {
+        "start": 7.73,
+        "end": 9.28,
+        "text": "The tiny tiger is closing the gap."
+      },
+      {
+        "start": 9.28,
+        "end": 10.82,
+        "text": "Almost there... almost there..."
+      },
+      {
+        "start": 10.82,
+        "end": 12.37,
+        "text": "And... total kitten takeover!"
+      }
+    ]
+  }
+}

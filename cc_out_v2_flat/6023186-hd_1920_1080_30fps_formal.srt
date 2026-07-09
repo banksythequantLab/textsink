@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:05,889
+A man sits on a bench amidst pedestrian traffic.
+
+2
+00:00:05,889 --> 00:00:11,769
+A man walks toward the stationary train.
+
+3
+00:00:11,769 --> 00:00:17,660
+Pedestrians traverse the platform near the tracks.
+
+4
+00:00:17,660 --> 00:00:23,550
+A man passes the camera on the platform.
+
+5
+00:00:23,550 --> 00:00:29,429
+A train remains stopped near several passengers.

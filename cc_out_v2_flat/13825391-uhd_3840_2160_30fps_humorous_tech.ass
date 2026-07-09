@@ -1,0 +1,19 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CC,Consolas,46,&H0050FF50,&H0050FF50,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,4,3,0,2,80,80,44,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.55,CC,,0,0,0,,{\fad(120,120)}[Low latency kitten loading... ]
+Dialogue: 0,0:00:01.55,0:00:03.09,CC,,0,0,0,,{\fad(120,120)}[Packet loss detected in foliage. ]
+Dialogue: 0,0:00:03.09,0:00:04.64,CC,,0,0,0,,{\fad(120,120)}[Optimizing connection to user. ]
+Dialogue: 0,0:00:04.64,0:00:06.18,CC,,0,0,0,,{\fad(120,120)}[Ping dropping significantly. ]
+Dialogue: 0,0:00:06.18,0:00:07.73,CC,,0,0,0,,{\fad(120,120)}[Zero latency achieved. ]
+Dialogue: 0,0:00:07.73,0:00:09.28,CC,,0,0,0,,{\fad(120,120)}[High-bandwidth fluff incoming. ]
+Dialogue: 0,0:00:09.28,0:00:10.82,CC,,0,0,0,,{\fad(120,120)}[Full duplex kitten connection. ]
+Dialogue: 0,0:00:10.82,0:00:12.37,CC,,0,0,0,,{\fad(120,120)}[Connection stabilized. ]
