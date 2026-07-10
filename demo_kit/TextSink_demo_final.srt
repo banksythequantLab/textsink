@@ -1,0 +1,163 @@
+1
+00:00:00,500 --> 00:00:03,726
+TextSink. Four voices. One truth.
+
+2
+00:00:03,726 --> 00:00:07,833
+Built on Gemma 4 and Fireworks AI, for the
+
+3
+00:00:07,833 --> 00:00:10,179
+AMD Developer Hackathon.
+
+4
+00:00:11,300 --> 00:00:14,852
+One video. Four voices. A formal narrator, a deadpan
+
+5
+00:00:14,852 --> 00:00:18,610
+cynic, a developer who's seen things, and your favorite
+
+6
+00:00:18,610 --> 00:00:22,435
+neighbor. This is TextSink. And every word you're seeing
+
+7
+00:00:22,435 --> 00:00:25,510
+was written live by Gemma 4, about the actual
+
+8
+00:00:25,510 --> 00:00:26,739
+competition clips.
+
+9
+00:00:27,440 --> 00:00:30,958
+Under the hood, it's the official Track 2 contract.
+
+10
+00:00:30,958 --> 00:00:33,993
+Tasks in, captions out, fully containerized.
+
+11
+00:00:33,993 --> 00:00:37,926
+The container probes its model access, grounds every clip
+
+12
+00:00:37,926 --> 00:00:41,720
+in scene facts, drafts three captions per style, judges
+
+13
+00:00:41,720 --> 00:00:44,273
+its own drafts, and ships the winner.
+
+14
+00:00:44,273 --> 00:00:47,722
+And if grounding ever comes back empty, it refuses
+
+15
+00:00:47,722 --> 00:00:52,000
+to caption blind. An empty caption is structurally impossible.
+
+16
+00:00:52,706 --> 00:00:55,777
+Four styles isn't one prompt with four adjectives.
+
+17
+00:00:55,777 --> 00:00:58,909
+Broadcast precision. Deadpan, scale mismatch irony.
+
+18
+00:00:58,909 --> 00:01:02,472
+A developer culture metaphor built from what's actually on
+
+19
+00:01:02,472 --> 00:01:04,928
+screen. And warm, everyday relatability.
+
+20
+00:01:04,928 --> 00:01:06,955
+An AI judge can blind sort these.
+
+21
+00:01:06,955 --> 00:01:08,306
+That's the tone score.
+
+22
+00:01:09,006 --> 00:01:12,510
+Then we kept going. The same grounding becomes real
+
+23
+00:01:12,510 --> 00:01:16,289
+closed captions. A timed subtitle track you can toggle,
+
+24
+00:01:16,289 --> 00:01:19,587
+with one consistent voice across the whole clip.
+
+25
+00:01:19,587 --> 00:01:23,641
+A tiny orange predator prepares for total world domination.
+
+26
+00:01:23,641 --> 00:01:25,359
+The menace is closing in.
+
+27
+00:01:25,359 --> 00:01:26,046
+Send help.
+
+28
+00:01:26,746 --> 00:01:30,125
+And because one voice is a monologue: The Hecklers.
+
+29
+00:01:30,125 --> 00:01:33,769
+Two different models, Gemma 4 versus GPT-OSS, watch the
+
+30
+00:01:33,769 --> 00:01:36,287
+clip and argue about it, turn by turn.
+
+31
+00:01:36,287 --> 00:01:40,660
+Every line generated live. It's a strawberry milkshake apocalypse,
+
+32
+00:01:40,660 --> 00:01:44,503
+Gus! Apocalypse? It's just sunset, not your dairy fantasy.
+
+33
+00:01:44,503 --> 00:01:47,683
+And when the code reviewer meets the vibe coder:
+
+34
+00:01:47,683 --> 00:01:50,731
+touch grass, Lint, before your soul segfaults.
+
+35
+00:01:50,731 --> 00:01:52,586
+The models wrote every word.
+
+36
+00:01:53,313 --> 00:01:55,366
+Gemma grounds it. Writes it.
+
+37
+00:01:55,366 --> 00:01:58,886
+Argues it. Judges it. And last night, it trained
+
+38
+00:01:58,886 --> 00:02:02,333
+its own captioner on the drafts it judged best.
+
+39
+00:02:02,333 --> 00:02:04,753
+TextSink. Four voices. One truth.
+
+40
+00:02:05,753 --> 00:02:11,475
+TextSink. Thanks to AMD, Fireworks AI, Google DeepMind's Gemma,
+
+41
+00:02:11,475 --> 00:02:14,473
+and lablab.ai. Find us on GitHub.
