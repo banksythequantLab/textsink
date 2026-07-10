@@ -61,7 +61,8 @@ Video Captioning (Track 2), Best Use of Gemma
 ## Links
 - GitHub: https://github.com/banksythequantLab/textsink
 - Application URL: https://banksythequantlab.github.io/textsink/
-- Video presentation: demo_kit/TextSink_demo_roughcut_v2.mp4 (upload file)
+- Video presentation: demo_kit/TextSink_demo_final.mp4 (upload file —
+  includes sponsor title/end cards)
 - Slides: submission/TextSink_Track2.pdf
-- Cover image: submission/cover.png
+- Cover image: submission/cover_3x2.png (3:2, sponsors prominent)
 - Container: ghcr.io/banksythequantlab/textsink:latest (public)
