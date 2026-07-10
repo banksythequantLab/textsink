@@ -156,6 +156,39 @@
     });
   </script>
 
+  <h2>Same architecture, any model — graceful degradation, live</h2>
+  <p class="lead">If the grading key can't reach our Gemma 4 deployment,
+  the container detects it at startup and reroutes — logging the path:</p>
+  <p style="font-family:'Courier New',monospace;font-size:13px;color:var(--green);background:#141A28;padding:12px 16px;border-radius:8px">
+  [main] probe: deployment unreachable (404 ...) — switching to serverless models<br>
+  [main] 3/3 done (62s elapsed) — all captions filled</p>
+  <p class="lead">Same official kitten clip, same prompts and gates —
+  <b style="color:var(--amber)">Gemma 4</b> vs the
+  <b style="color:var(--blue)">forced fallback</b>
+  (<a href="https://github.com/banksythequantLab/textsink/tree/master/submission/fallback_verification">verification artifact</a>):</p>
+  <div class="grid2">
+    <div class="card"><h3 style="color:var(--amber);font-size:13px;letter-spacing:2px">GEMMA 4 · SARCASTIC</h3>
+      <p style="font-family:'Courier New',monospace;font-size:14px">A fierce
+      predator emerges from the brush, clearly ready to conquer the entire
+      forest one tiny, uncoordinated step at a time.</p></div>
+    <div class="card"><h3 style="color:var(--blue);font-size:13px;letter-spacing:2px">FALLBACK · SARCASTIC</h3>
+      <p style="font-family:'Courier New',monospace;font-size:14px">Because
+      nothing says “groundbreaking” like a kitten strolling straight into
+      the lens with its tail held high.</p></div>
+    <div class="card"><h3 style="color:var(--amber);font-size:13px;letter-spacing:2px">GEMMA 4 · HUMOROUS-TECH</h3>
+      <p style="font-family:'Courier New',monospace;font-size:14px;color:var(--green)">$ The
+      latest AI agent successfully navigating its first training
+      environment. Small, but the feature set is looking promising.</p></div>
+    <div class="card"><h3 style="color:var(--blue);font-size:13px;letter-spacing:2px">FALLBACK · HUMOROUS-TECH</h3>
+      <p style="font-family:'Courier New',monospace;font-size:14px;color:var(--green)">$ Cold
+      start in action: the kitten boots its paws, initializes the tail
+      flag, and streams forward with zero latency.</p></div>
+  </div>
+  <p class="lead" style="margin-top:14px">The quality travels with the
+  Gemma-designed contracts, not the model — quantified in
+  <a href="https://github.com/banksythequantLab/textsink/blob/master/eval/ABLATIONS.md">eval/ABLATIONS.md</a>
+  (mechanisms beat generic prompts 11–5 on the fallback model itself).</p>
+
   <h2>Architecture</h2>
   <img class="hero" src="architecture.svg" alt="TextSink architecture">
 

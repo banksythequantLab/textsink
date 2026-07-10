@@ -1,0 +1,137 @@
+[
+  {
+    "task_id": "t1",
+    "captions": {
+      "formal": "thought\nThe camera captures a person in a white lab coat carefully pouring a clear liquid from a beaker into another container. The liquid creates a steady stream as it is transferred between the vessels.",
+      "sarcastic": "-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er- own-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er-er",
+      "humorous_tech": "Running at 0ms latency through the production environment. No packet loss detected in this field.",
+      "humorous_non_tech": "This dog is clearly on a mission to catch something invisible, or perhaps he's just practicing his victory lap."
+    }
+  },
+  {
+    "task_id": "t2",
+    "captions": {
+      "formal": "The camera pans slowly to the right across the New York City skyline and the Hudson River at dusk. Skyscrapers, piers, and ferries are visible overlooking the water.",
+      "sarcastic": "A serene view of the New York City skyline and the Hudson River as the camera pans slowly across the skyscrapers, ferries, and piers at dusk.",
+      "humorous_tech": "The city skyline is currently experiencing zero latency during this smooth horizontal pan. Finally, a UI with perfect frame rates and no jitter.",
+      "humorous_non_tech": "own.\n- 1-2 sentences, max ~40 words. No hashtags, no emojis, no surrounding quotation marks.\n- Output only the caption text — no preamble, no style label.\n\nSCENE: A golden retriever puppy is trying to catch a bubble in the air. It jumps up and misses, then looks confused.\nSTYLE: Humorous (non-tech)\nCAPTION: The bubble won this round, but the puppy is already planning its rematch. It's a high-stakes game of tag where the opponent is invisible and made of soap.The bubble won this round, but the puppy is already planning a rematch. It's a high-stakes game of tag where the opponent is invisible and made of soap."
+    }
+  },
+  {
+    "task_id": "t3",
+    "captions": {
+      "formal": "The video shows a person in a white lab coat and blue gloves, wearing a protective mask, wearing goggles- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own- own-",
+      "sarcastic": "A sunset glow stretches across the sky and reflects over the ocean waves.",
+      "humorous_tech": "The sun is setting so fast it looks like a massive memory leak in the sky's rendering engine.",
+      "humorous_non_tech": "The sun is clearly putting on its best show of the day, and the ocean is soaking up every bit of the spotlight."
+    }
+  },
+  {
+    "task_id": "t4",
+    "captions": {
+      "formal": "An orange kitten walks through a wooded area between trees and green foliage.",
+      "sarcastic": "Another high-stakes jungle expedition through the bushes. Truly riveting stuff.",
+      "humorous_tech": "When own the feature flag, but the kitten is still navigating through the messy dependencies in the bushes.",
+      "humorous_non_tech": "Mission impossible: The tiny orange fluffball is on a very serious jungle expedition."
+    }
+  },
+  {
+    "task_id": "t5",
+    "captions": {
+      "formal": "A time-lapse view shows rapid, bidirectional traffic on a multi‑lane urban avenue lined with yellow autumn trees, with cars queuing in the right lanes, a large truck moving through, and an intersection marked by the painted number “100.”",
+      "sarcastic": "Nothing says \"peaceful fall evening\" like a blur of 100‑mph rush hour on a leaf‑strewn avenue.",
+      "humorous_tech": "100‑meter stretch turned into a race condition: every car fighting for the same right‑lane lock in real‑time.",
+      "humorous_non_tech": "When the leaves turn gold and the city turns into a blur, even the trucks look like they're late for a coffee break."
+    }
+  },
+  {
+    "task_id": "t6",
+    "captions": {
+      "formal": "Pedestrians cross multiple intersections in a busy urban district while various vehicles, including buses and taxis, navigate the streets. Digital billboards and traffic lights regulate the movement of people and transport.",
+      "sarcastic": "A chaotic dance of urban life unfolds at a busy city intersection, where pedestrians, taxis, and buses weave through the constant flow of traffic under glowing digital billboards.",
+      "humorous_tech": "The ultimate race condition: thousands of concurrent threads attempting to access the crosswalk at the exact same millisecond.",
+      "humorous_non_tech": "It’s a giant game of human Tetris out here, and everyone is just trying to find their perfect fit."
+    }
+  },
+  {
+    "task_id": "t7",
+    "captions": {
+      "formal": "A woman with dark hair in a high bun, wearing a beige jacket over an orange top, sits at a white desk in a modern office, focused on a computer monitor while typing.",
+      "sarcastic": "Just another edge‑of‑your‑seat thriller: a woman typing like her career depends on it.",
+      "humorous_tech": "Spot the race condition: her fingers and the keyboard are both vying for the highest throughput in a single‑threaded typing test.",
+      "humorous_non_tech": "She’s typing so fast the keyboard’s wondering if it just got a promotion."
+    }
+  },
+  {
+    "task_id": "t8",
+    "captions": {
+      "formal": "thought\nA person in a white lab coat pours a clear liquid from a beaker into another container, causing a reaction that produces white smoke.",
+      "sarcastic": "A vast, mountainous landscape unfolds as the camera pans across rugged, rocky peaks and dense green forests under a hazy sky.",
+      "humorous_tech": "The rendering engine is clearly struggling with the draw distance on these assets. Someone please check the LOD settings before we hit a memory leak.",
+      "humorous_non_tech": "The mountains are showing off today, stretching out their rocky peaks just to make sure everyone is watching."
+    }
+  },
+  {
+    "task_id": "t9",
+    "captions": {
+      "formal": "A person's hands type on a laptop keyboard and operate the trackpad in a workspace with warm lighting.",
+      "sarcastic": "A rhythmic dance of fingers across a keyboard and trackpad, lost in the quiet glow of a workspace.",
+      "humorous_tech": "When you're frantically typing to resolve a race condition before the sprint demo starts.",
+      "humorous_non_tech": "The fingers are performing a high-speed dance, though the laptop is the only one actually getting any exercise."
+    }
+  },
+  {
+    "task_id": "t10",
+    "captions": {
+      "formal": "A vehicle travels along a wet street at night, passing various streetlights and traffic signals.",
+      "sarcastic": "A vehicle cruises down a wet street at night, passing under the glow of streetlights and traffic signals.",
+      "humorous_tech": "When the latency is so high you're basically just rendering the environment frame by frame through the raindrops.",
+      "humorous_non_tech": "The city's lights are playing a game of follow the leader, and they are definitely winning."
+    }
+  },
+  {
+    "task_id": "t11",
+    "captions": {
+      "formal": "Three individuals sit around a small table with glasses of beer on an outdoor rooftop patio. A man in a grey t-shirt gestures while speaking, while a woman laughs and a man in a black polo shirt gestures near his chest.",
+      "sarcastic": "A group of friends enjoys beers on a rooftop patio, surrounded by high-rise buildings, sharing laughs and animated conversation.",
+      "humorous_tech": "The group's social latency is practically zero, with high-throughput laughter and seamless hand-gesture synchronization across all nodes.",
+      "humorous_non_tech": "The group is having such a good time that the beer is clearly just a supporting character in this lively rooftop debate."
+    }
+  },
+  {
+    "task_id": "t12",
+    "captions": {
+      "formal": "Ocean waves crash against a pebbly beach near coastal cliffs, with white foam washing over the stones.",
+      "sarcastic": "Waves crash against the rocky shore, sending white foam washing over the pebbly beach beneath towering cliffs.",
+      "humorous_tech": "The ocean's request rate is hitting the shore with massive latency, causing a complete buffer overflow of foam on the pebbles.",
+      "humorous_non_tech": "The ocean is just trying to give the pebbles a very gentle, bubbly bath."
+    }
+  },
+  {
+    "task_id": "t13",
+    "captions": {
+      "formal": "Commuters walk along a busy train station platform under a metal roof structure. A man sits on a metal bench while another stands near the tracks.",
+      "sarcastic": "Commuters and station staff move along a busy platform under a large metal roof while a man sits on a bench and another stands watching the tracks.",
+      "humorous_tech": "When the platform is at peak capacity but your system is still experiencing massive latency in processing incoming passengers.",
+      "humorous_non_tech": "The platform is a masterclass in waiting, featuring a dedicated professional sitting on a bench and a man staring down the tracks as if he can make the train appear by sheer willpower."
+    }
+  },
+  {
+    "task_id": "t14",
+    "captions": {
+      "formal": "A person chops zucchini into small pieces on a wooden cutting board.",
+      "sarcastic": "Another thrilling evening of vegetable prep. Truly living on the edge.",
+      "humorous_tech": "When you try to optimize your preprocessing pipeline but end up with too many small, fragmented chunks.",
+      "humorous_non_tech": "Chopping veggies like I’m training for a vegetable championship."
+    }
+  },
+  {
+    "task_id": "t15",
+    "captions": {
+      "formal": "Two individuals wearing blue shorts run across a red outdoor track from left to right. The track is situated adjacent to a grassy area and rows of white stadium seating.",
+      "sarcastic": "Two runners, one in blue shorts and another in a grey tank top, sprint across the red lanes of an outdoor track.",
+      "humorous_tech": "When your parallel processing is working perfectly, but you're still waiting for the main thread to catch up.",
+      "humorous_non_tech": "Looks like a high-stakes race is underway, though neither runner seems to be in any particular hurry to reach the finish line."
+    }
+  }
+]

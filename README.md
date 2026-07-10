@@ -66,6 +66,9 @@ its serverless fallback, logging the served path to stderr:
 
 - **Accuracy** — captions may only use extracted scene facts; empty
   grounding → retry → refuse-to-caption-blind → reroute.
+- **Never blank** — zero refusals across the 15-clip dress rehearsal
+  ([`eval/harness_simulation/`](eval/harness_simulation/)): refusal
+  filter + sane-scene gate + 3-tier ladder guarantee non-empty output.
 - **Tone** — four distinct comedic mechanisms per contract, not one
   prompt with four adjectives; blind-sortable by design.
 - **Quality** — best-of-3 drafts, self-judged on accuracy + tone, winner
