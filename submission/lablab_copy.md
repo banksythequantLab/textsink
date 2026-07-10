@@ -42,6 +42,13 @@ judged winners: under a neutral LLM judge it beats its teacher's
 prompted best-of-3 output 18-4 head-to-head, scoring higher on every
 style (ab_results.json in the repo).
 
+EVIDENCE, NOT CLAIMS. Three judge artifacts in the repo back every
+statement above: GEMMA_PROVENANCE.md (where Gemma authored the entry),
+eval/ABLATIONS.md (the designed mechanisms beat generic prompts 11-5
+under two judges, on the fallback model itself), and
+submission/fallback_verification (forced foreign-key run - zero empty
+captions).
+
 All demo material was generated on the official hackathon clips. MIT
 licensed. Python 3.11, ffmpeg, plain requests — no framework lock-in.
 

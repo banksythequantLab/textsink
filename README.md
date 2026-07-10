@@ -36,8 +36,19 @@ deployment — the same model does the visual grounding AND all four styles.
 
 ## For judges — what actually runs, and Gemma's real role
 
-> Full authorship receipts, artifact by artifact:
-> **[GEMMA_PROVENANCE.md](GEMMA_PROVENANCE.md)** (90-second read).
+**Evidence at a glance:**
+
+- **[GEMMA_PROVENANCE.md](GEMMA_PROVENANCE.md)** — where Gemma authored
+  this entry, artifact by artifact (90-second read).
+- **[eval/ABLATIONS.md](eval/ABLATIONS.md)** — the designed mechanisms
+  beat generic prompts 11–5 under two judges, measured on the fallback
+  model itself.
+- **[ab_results.json](ab_results.json)** — Gemma-taught fine-tune beats
+  its teacher 18–4 under a neutral judge (caveats disclosed below).
+- **[submission/fallback_verification/](submission/fallback_verification/)** —
+  forced foreign-key run: 3 official clips, 62s, zero empty captions.
+- **[eval/harness_simulation/](eval/harness_simulation/)** — full
+  15-clip dress rehearsal: 199s, zero refusals, all filled.
 
 **The reality in one sentence:** Gemma 4 is deploy-only on Fireworks and
 our deployment is account-scoped — so if the grading harness injects its

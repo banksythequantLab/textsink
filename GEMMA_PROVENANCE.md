@@ -1,5 +1,13 @@
 # Gemma Provenance — where Gemma 4 authored this entry
 
+```mermaid
+flowchart LR
+    G[Gemma 4] -->|designs & validates| P[tone contracts + grounding gates]
+    G -->|drafts & self-judges| D[SFT dataset]
+    D -->|trains| S[textsink-g3-captioner<br/>beats teacher 18-4]
+    P -->|travel with the prompts| F[any model, incl. fallback<br/>mechanisms win 11-5]
+```
+
 This is the receipts document. Every claim links to an artifact in this
 repo. The point: Gemma 4 was not "the model we called" — it was the
 system's designer, author, judge, and teacher. The 90-second read is the
