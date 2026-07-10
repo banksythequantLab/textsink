@@ -7,6 +7,15 @@ AMD Developer Hackathon: ACT II — Track 2 (Video Captioning), built for the
 perfectly-toned captions come out — plus live styled closed captions and
 two AIs arguing about what they're watching.
 
+| If you're asking… | The answer, with receipts |
+|---|---|
+| Does Gemma actually matter, or is it branding? | [GEMMA_PROVENANCE.md](GEMMA_PROVENANCE.md) — and its designed mechanisms beat generic prompts **11–5** on a non-Gemma model ([ablations](eval/ABLATIONS.md)) |
+| What if the Gemma deployment is unreachable at grading? | Startup probe reroutes + logs it; forced foreign-key run: **3 clips, 62s, zero empty captions** ([verification](submission/fallback_verification/)) |
+| Is it reliable inside the harness budget? | Full 15-clip rehearsal: **199s (~⅓ of budget), zero refusals, all filled** ([harness simulation](eval/harness_simulation/)) |
+| Did the fine-tune work? | Gemma-taught student beats teacher **18–4** under a neutral judge, caveats disclosed ([raw data](ab_results.json)) |
+| Where's the container? | `docker pull ghcr.io/banksythequantlab/textsink:latest` — public, no auth |
+| Can I see real outputs? | [Live gallery](https://banksythequantlab.github.io/textsink/) — all 15 official clips, four voices each, plus 31 two-model arguments |
+
 ![Four voices, one clip](assets/fourvoices.gif)
 
 *One clip, four voices — formal, sarcastic, humorous-tech,
@@ -33,6 +42,8 @@ The container implements the standard Track 2 flow:
 Those are real outputs from the official sample clips, generated end-to-end
 by **Gemma 4** (`gemma-4-26b-a4b-it`, 26B MoE) on a dedicated Fireworks
 deployment — the same model does the visual grounding AND all four styles.
+Representative, not cherry-picked: every official clip's four-voice output
+is browsable in the [gallery](https://banksythequantlab.github.io/textsink/).
 
 ## For judges — what actually runs, and Gemma's real role
 
